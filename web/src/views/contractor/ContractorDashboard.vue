@@ -34,7 +34,7 @@ import { defineComponent } from 'vue';
 import { useRouter } from 'vue-router';
 
 export default defineComponent({
-  name: 'ContractorSchedule',
+  name: 'ContractorDashboard',
   data() {
     return {
       shipments: [], // Store the list of shipments
@@ -44,11 +44,21 @@ export default defineComponent({
     // Fetch shipments for the contractor from your API
     this.shipments = await this.fetchShipments();
   },
+  async beforeMount() {
+    const user = sessionStorage.getItem('user')
+    const router = useRouter();
+    if (user === null || user === undefined){
+      await router.push({ name: 'Home' });
+    }
+    if (user.role === 'normal'){
+      await router.push({ name: 'UserDashboard' });
+    }
+  },
   methods: {
     async fetchShipments() {
       try {
         // Make an API request to fetch shipments for the contractor
-        const response = await fetch('/api/contractor-shipments'); // Replace with your API endpoint
+        const response = await fetch('/api/contractors/dashboard'); // Replace with your API endpoint
         if (!response.ok) {
           throw new Error('Failed to fetch shipments');
         }

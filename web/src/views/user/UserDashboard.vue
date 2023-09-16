@@ -18,6 +18,7 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
+import {useRouter} from "vue-router";
 
 export default defineComponent({
   name: 'UserDashboard',
@@ -25,6 +26,17 @@ export default defineComponent({
     return {
       shipments: [],
     };
+  },
+
+  async beforeMount(){
+    const user = sessionStorage.getItem('user')
+    const router = useRouter();
+    if (user === null || user === undefined){
+      await router.push({ name: 'Home' });
+    }
+    if (user.role === 'contractor'){
+      await router.push({ name: 'ContractorDashboard' });
+    }
   },
   async mounted() {
     // Fetch shipments from an API here and update the shipments array
@@ -34,7 +46,7 @@ export default defineComponent({
     async fetchShipments() {
       try {
         // Make an API request to fetch shipments
-        const response = await fetch('/api/shipments'); // Replace with your API endpoint
+        const response = await fetch('/api/users/dashboard'); // Replace with your API endpoint
         if (!response.ok) {
           throw new Error('Failed to fetch shipments');
         }

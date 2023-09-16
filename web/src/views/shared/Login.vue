@@ -3,8 +3,8 @@
     <h1 class="login-title">Login Vue</h1>
     <form @submit.prevent="login" class="login-form">
       <div class="form-group">
-        <label for="username" class="form-label">Username:</label>
-        <input type="text" id="username" v-model="username" class="form-input" />
+        <label for="email" class="form-label">Email:</label>
+        <input type="text" id="email" v-model="email" class="form-input" />
       </div>
       <div class="form-group">
         <label for="password" class="form-label">Password:</label>
@@ -19,22 +19,57 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import "../../style.css"
+import { useRouter } from "vue-router";
+
 export default defineComponent({
   name: 'LoginVue',
 
   data() {
     return {
-      username: '',
+      email: '',
       password: '',
     };
   },
 
   methods: {
-    login() {
-      // Perform authentication logic here
-      // For this example, we'll emit an event with the entered username
-      this.$emit('login', this.username);
+    async login() {
+      // Construct the login data
+      const loginData = {
+        email: this.email,
+        password: this.password,
+      };
+
+      try {
+        const response = await fetch('/api/users/login', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(loginData),
+        });
+
+        if (!response.ok) {
+          // Handle the login error here
+          console.error('Login failed:', response.statusText);
+          return;
+        }
+
+        const json = await response.json();
+        sessionStorage.setItem('user', JSON.stringify(json));
+        // Check the user's role
+        const router = useRouter();
+        if (json.role === 'contractor') {
+          // Redirect to the contractor-specific route
+          await router.push({ name: 'ContractorDashboard' }); // Replace with the actual route name
+        } else {
+          // Redirect to the general user route
+          await router.push({ name: 'UserDashboard' }); // Replace with the actual route name
+        }
+        console.log('Login successful');
+      } catch (error) {
+        // Handle any network or other errors here
+        console.error('An error occurred during login:', error);
+      }
     },
   },
 });
@@ -46,11 +81,13 @@ export default defineComponent({
   border-radius: 8px;
   text-align: center;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: var(--background-color);
 }
 
 .login-title {
   font-size: 24px;
   margin-bottom: 20px;
+  color: var(--primary-color);
 }
 
 .login-form {
@@ -60,17 +97,19 @@ export default defineComponent({
 }
 
 .form-group {
-  margin-bottom: 10px;
+  margin-bottom: 20px; /* Increased spacing between form groups */
 }
 
 .form-label {
-  font-weight: bold;
+  color: var(--text-color); /* Text color for labels */
 }
 
 .form-input {
-  border: none;
-  padding: 8px;
+  border: 1px solid #ccc;
+  padding: 10px;
   border-radius: 4px;
+  width: 100%;
+  margin-top: 5px; /* Adjusted margin for input fields */
 }
 
 .login-button {
@@ -80,6 +119,11 @@ export default defineComponent({
   cursor: pointer;
   font-weight: bold;
   transition: background-color 0.3s ease;
+  background-color: var(--accent-color);
+  color: white;
 }
 
+.login-button:hover {
+  background-color: #0077b6;
+}
 </style>

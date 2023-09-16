@@ -1,21 +1,23 @@
 <template>
-  <div>
-    <h1>Contractor Navigation</h1>
-    <div>
-      <label for="destination">Enter Destination:</label>
+  <div class="navigation-container">
+    <h1 class="navigation-title">Contractor Navigation</h1>
+    <div class="destination-input">
+      <label for="destination" class="input-label">Enter Destination:</label>
       <input
           id="destination"
           type="text"
           v-model="destinationInput"
+          class="input-field"
       />
     </div>
-    <div id="map-container" style="width: 100%; height: 400px;"></div>
+    <div id="map-container" class="map"></div>
   </div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
 import mapboxgl from 'mapbox-gl';
+import { useRouter } from "vue-router";
 
 export default defineComponent({
   name: 'ContractorNavigation',
@@ -27,7 +29,7 @@ export default defineComponent({
     };
   },
 
-  mounted () {
+  mounted() {
     mapboxgl.accessToken = 'pk.eyJ1IjoiejRsM3M1aTAiLCJhIjoiY2xtbTd1NDB6MGttNDJxcG5mZHpqbXJsMiJ9.m9i3527cJA3QTJgPLPIWHg';
 
     this.map = new mapboxgl.Map({
@@ -36,21 +38,27 @@ export default defineComponent({
       center: [-74.5, 40],
       zoom: 9,
     });
-
   },
-  beforeMount() {
+  async beforeMount() {
 
-      // Fetch coordinates for the user's destination input from a geocoding API
-      const destinationCoordinates = this.shipment.endCoordinates
+    const user = sessionStorage.getItem('user')
+    const router = useRouter();
+    if (user === null || user === undefined){
+      await router.push({ name: 'Home' });
+    }
+    if (user.role === 'normal'){
+      await router.push({ name: 'UserDashboard' });
+    }
+    
+    // Fetch coordinates for the user's destination input from a geocoding API
+    const destinationCoordinates = this.shipment.endCoordinates;
 
-      // Calculate the route using a routing API (e.g., Mapbox Directions API)
-      const route = this.calculateRouteToDestination(destinationCoordinates);
+    // Calculate the route using a routing API (e.g., Mapbox Directions API)
+    const route = this.calculateRouteToDestination(destinationCoordinates);
 
-      // Display the route on the map
-      this.displayRoute(route);
-
+    // Display the route on the map
+    this.displayRoute(route);
   },
-
   methods: {
     async calculateRouteToDestination(destinationCoordinates) {
       // Use a routing API to calculate the route to the destination
@@ -119,3 +127,44 @@ export default defineComponent({
   },
 });
 </script>
+<style scoped>
+/* Component-specific styles */
+.navigation-container {
+  background-color: var(--background-color);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  margin: 0 auto;
+}
+
+.navigation-title {
+  color: var(--primary-color);
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.destination-input {
+  margin-bottom: 20px;
+}
+
+.input-label {
+  font-weight: bold;
+  color: var(--text-color);
+}
+
+.input-field {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.map {
+  width: 100%;
+  height: 400px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+</style>

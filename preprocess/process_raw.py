@@ -37,6 +37,8 @@ def getcolumns(DFs, columns, new_keys, InOut):
         # import ipdb; ipdb.set_trace()
         sheet_name = InOut + country
         df = DFs[sheet_name]
+        if InOut == "Inbound ":
+            df = df.drop(df[df["INCOTERMS"] == 'CIP'].index)
         slices = df[columns]
         location = slices[columns[0]].tolist()
         data = slices[columns[1:]].values.tolist()
@@ -76,6 +78,9 @@ def getProviderInfo(DFs, columns = ['Origin Code', 'Origin',
     new_keys[2] = "Latitude"
     new_keys[3] = "Longitude"
     return getcolumns(DFs, columns, new_keys, "Inbound ")
+
+def getMaterialInfo(DFs, columns = ['Material Code', 'Material']):
+    return getcolumns(DFs, columns, columns, "Inbound ")
             
 #Done: get info about vehicles
 # [Type], Capacity
@@ -124,6 +129,7 @@ if __name__ == "__main__":
     json.dump(getClientInfo(DFs), open(DATAPATH + "infoClients.json", "w"), indent=4)
     json.dump(getProviderInfo(DFs), open(DATAPATH + "infoProviders.json", "w"), indent=4)
     json.dump(getVehicleInfo(DFs), open(DATAPATH + "infoVehicles.json", "w"), indent=4)
+    json.dump(getMaterialInfo(DFs), open(DATAPATH + "infoMaterials.json", "w"), indent=4)
     
     json.dump(getOutRouteInfo(DFs), open(DATAPATH + "infoOutRoutes.json", "w"), indent=4)
     json.dump(getInRouteInfo(DFs), open(DATAPATH + "infoInRoutes.json", "w"), indent=4)

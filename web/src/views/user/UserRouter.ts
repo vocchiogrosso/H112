@@ -2,7 +2,7 @@ import { RouteRecordRaw } from 'vue-router';
 
 import UserDashboard from './UserDashboard.vue'
 import UserProfile from './UserProfile.vue'
-import RequestForm from './RequestForm.vue';
+import RequestForm from "./RequestForm.vue";
 
 const UserRoutes: Array<RouteRecordRaw> = [
   {

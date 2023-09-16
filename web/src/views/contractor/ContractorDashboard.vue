@@ -34,7 +34,7 @@ import { defineComponent } from 'vue';
 import { useRouter } from 'vue-router';
 
 export default defineComponent({
-  name: 'ContractorDashboard',
+  name: 'ContractorSchedule',
   data() {
     return {
       shipments: [], // Store the list of shipments
@@ -43,16 +43,6 @@ export default defineComponent({
   async mounted() {
     // Fetch shipments for the contractor from your API
     this.shipments = await this.fetchShipments();
-  },
-  async beforeMount() {
-    const user = sessionStorage.getItem('user')
-    const router = useRouter();
-    if (user === null || user === undefined){
-      await router.push({ name: 'Home' });
-    }
-    if (user.role === 'normal'){
-      await router.push({ name: 'UserDashboard' });
-    }
   },
   methods: {
     async fetchShipments() {

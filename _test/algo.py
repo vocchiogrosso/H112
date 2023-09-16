@@ -116,9 +116,8 @@ class MaterialManager:
         return 1 + relative_demand
 
 if __name__ == "__main__":
-    print("Running tests...")
 
-    manager = MaterialManager.from_json_file('/infoMaterials.json')
+    manager = MaterialManager.from_json_file('infoMaterials.json')
 
     # 1. Adding new materials
     print("\n1. Adding new materials:")

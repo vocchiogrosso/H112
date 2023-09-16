@@ -1,5 +1,5 @@
 export const MongoDatabaseConfig = {
-  Username: '',
-  Password: '',
-  Endpoint: '',
+  Username: process.env.MONGODB_UN,
+  Password: process.env.MONGODB_PD,
+  Endpoint: process.env.MONGODB_CL,
 };

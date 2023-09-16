@@ -1,22 +1,12 @@
-import { Body, Controller, Get, Post } from '@nestjs/common';
-import { TestService } from './user.service';
-import { RequestDto } from './request.dto';
+import { Controller, Get } from '@nestjs/common';
+import { UserService } from './user.service';
 
-@Controller('test')
-export class TestController {
-  constructor(private readonly myService: TestService) {}
-
+@Controller('user')
+export class UserController {
+  constructor(private readonly userService: UserService) {}
 
   @Get()
-  async getEndpoint() {
-    //const result = await this.myService.invokeLambdaFunction();
-    return 200;
+  getHello(): string {
+    return this.userService.getHello();
   }
-
-  @Post('calculate')
-  async postEndpoint(@Body() RequestDto: any){
-    const result = await this.myService.invokeLambdaFunction(RequestDto);
-    return result;
-  }
-
 }

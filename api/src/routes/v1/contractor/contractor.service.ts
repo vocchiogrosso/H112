@@ -1,11 +1,8 @@
 import { Injectable } from '@nestjs/common';
-import { ConfigService } from '@nestjs/config';
 
 @Injectable()
 export class ContractorService {
-
-  async test() {
-    return 200
+  getHello(): string {
+    return 'Hello from the Contractor Service!';
   }
-  
 }

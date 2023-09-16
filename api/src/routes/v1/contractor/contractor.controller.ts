@@ -1,13 +1,12 @@
-import { Body, Controller, Get, Post } from '@nestjs/common';
+import { Controller, Get } from '@nestjs/common';
 import { ContractorService } from './contractor.service';
 
-@Controller('contractor')
+@Controller('example')
 export class ContractorController {
-  constructor(private readonly myService: ContractorService) {}
-
+  constructor(private readonly contractorService: ContractorService) {}
 
   @Get()
-    test() {
-      return test
-    }
+  getHello(): string {
+    return this.contractorService.getHello();
+  }
 }

@@ -1,0 +1,12 @@
+<template>
+  <div>
+    <h1>Contractor Dashboard</h1>
+  </div>
+</template>
+
+<script lang="ts">
+import { defineComponent } from 'vue';
+export default defineComponent({
+  name: 'ContractorDashboard',
+});
+</script>

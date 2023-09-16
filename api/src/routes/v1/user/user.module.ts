@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
-import { TestController } from './test.controller';
-import { TestService } from './test.service';
+import { TestController } from './user.controller';
+import { TestService } from './user.service';
 
 @Module({
   imports: [ConfigModule.forRoot()],

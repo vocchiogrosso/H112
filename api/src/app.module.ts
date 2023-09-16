@@ -5,7 +5,7 @@ import { MongodbModule } from 'src/database/mongodb/mongodb.module';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
-import { TestModule } from 'src/routes/a/test/test.module'
+import { UserRoutes } from 'src/routes/v1/'
 
 //import { AuthModule } from 'src/auth/auth.module'; 
 //import { PostModule } from 'src/post/post.module';

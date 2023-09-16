@@ -1,5 +1,5 @@
 import { Body, Controller, Get, Post } from '@nestjs/common';
-import { TestService } from './test.service';
+import { TestService } from './user.service';
 import { RequestDto } from './request.dto';
 
 @Controller('test')

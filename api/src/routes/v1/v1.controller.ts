@@ -4,7 +4,7 @@ import { Controller, Get } from '@nestjs/common';
 export class V1Controller {
   constructor() {}
 
-  @Get('details')
+  @Get('')
   getUserData(): string {
     return 'Version 1 - User Data';
   }

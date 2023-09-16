@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-Design a formula to calculate the efficiency of transporting goods based on time and cost per mile driven by a truck. The truck can have partial loads but should prioritize maximizing its capacity without going too far off the planned route. Generally, the outbound trip will be fully loaded, but the inbound trip might have one full or one to two partial loads.
+We designed a formula to calculate the efficiency of transporting goods based on time and cost per mile driven by a truck. The truck can have partial loads but should prioritize maximizing its capacity without going too far off the planned route. Generally, the outbound trip will be fully loaded, but the inbound trip might have one full or one to two partial loads.
 
 ## Algorithmic Solution
 

@@ -5,8 +5,14 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
+  --primary-color: #164B60;
+  --background-color: #ffffff;
+  --accent-color: #1B6B93;
+  --text-color: #4FC0D0;
+  --button-background: #A2FF86;
+  --button-text: #4FC0D0;
+  --input-background: #ffffff;
+  --input-border: #A2FF86;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;

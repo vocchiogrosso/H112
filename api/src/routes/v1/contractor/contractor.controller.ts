@@ -5,11 +5,9 @@ import { ContractorService } from './contractor.service';
 export class ContractorController {
   constructor(private readonly contractorService: ContractorService) {}
 
-  @Get('h')
+  @Get('')
   getHello(): string {
     return this.contractorService.getHello();
   }
 
-  @Post('a')
-  getPost(): 
 }

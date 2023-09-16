@@ -1,3 +1,4 @@
+from RouteClass import Route, InboundRoute, OutboundRoute
 from datetime import datetime
 class Truck:
     def __init__(self, truck_id, truck_type, capacity):
@@ -10,11 +11,11 @@ class Truck:
         self.current_delivery = {} # What material the truck is currently delivering
 
     # TODO: use ROUTE class 
-    def new_working(self, current_delivery, weight, duration):
+    def new_working(self, current_delivery, weight, route):
         if self.worked is None:
-            self.worked = duration
+            self.worked = route.distance / 50
         else:
-            if self.worked + duration > 10:
+            if self.worked + route.distance / 50 > 10:
                 raise ValueError("Truck cannot work more than 10 hours per day.")
 
         if self.capacity < weight + self.occupied:

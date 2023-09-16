@@ -115,60 +115,62 @@ class MaterialManager:
         relative_demand = self.materials.get(material, 0) / total_demand
         return 1 + relative_demand
 
-# Usage:
-manager = MaterialManager.from_json_file('infoMaterials.json')
+if __name__ == "__main__":
+    print("Running tests...")
 
-# 1. Adding new materials
-print("\n1. Adding new materials:")
-manager.add_materials({"10000071": ("CENIZA VOLANTE", 50), "10000088": ("ESCORIA", 30)})
+    manager = MaterialManager.from_json_file('/infoMaterials.json')
 
-# 2. Setting demands for materials
-print("\n2. Setting demands:")
-manager.set_demands({"10000071": 70, "10000088": 35})
+    # 1. Adding new materials
+    print("\n1. Adding new materials:")
+    manager.add_materials({"10000071": ("CENIZA VOLANTE", 50), "10000088": ("ESCORIA", 30)})
 
-# 3. Updating materials
-print("\n3. Updating materials:")
-manager.update_materials([("10000071", 10), ("10000088", -5)])
+    # 2. Setting demands for materials
+    print("\n2. Setting demands:")
+    manager.set_demands({"10000071": 70, "10000088": 35})
 
-# 4. Setting multipliers
-print("\n4. Setting multipliers:")
-manager.set_multiplier("seasonal", "winter", 0.9)
-manager.set_multiplier("material", "10000071", 1.2)
+    # 3. Updating materials
+    print("\n3. Updating materials:")
+    manager.update_materials([("10000071", 10), ("10000088", -5)])
 
-# 5. Setting thresholds and multipliers
-print("\n5. Setting thresholds and multipliers:")
-manager.set_thresholds([10, 50, 100], [1.1, 1.3, 1.5, 1.7])
+    # 4. Setting multipliers
+    print("\n4. Setting multipliers:")
+    manager.set_multiplier("seasonal", "winter", 0.9)
+    manager.set_multiplier("material", "10000071", 1.2)
 
-# 6. Querying weights across different seasons
-print("\n6. Querying weights across different seasons:")
-seasons = ["summer", "winter", "monsoon"]
-for season in seasons:
-    print(f"\nFor {season.capitalize()}:")
-    for material in ["10000071", "10000088"]:
-        print(f"Weight for {material}: {manager.query(material, season)}")
+    # 5. Setting thresholds and multipliers
+    print("\n5. Setting thresholds and multipliers:")
+    manager.set_thresholds([10, 50, 100], [1.1, 1.3, 1.5, 1.7])
 
-# 7. Deleting materials
-print("\n7. Deleting materials:")
-manager.delete_materials(["10000071"])
+    # 6. Querying weights across different seasons
+    print("\n6. Querying weights across different seasons:")
+    seasons = ["summer", "winter", "monsoon"]
+    for season in seasons:
+        print(f"\nFor {season.capitalize()}:")
+        for material in ["10000071", "10000088"]:
+            print(f"Weight for {material}: {manager.query(material, season)}")
 
-# 8. Querying after deletion
-print("\n8. Querying after deletion:")
-for season in seasons:
-    print(f"\nFor {season.capitalize()}:")
-    for material in ["10000088"]:
-        print(f"Weight for {material}: {manager.query(material, season)}")
+    # 7. Deleting materials
+    print("\n7. Deleting materials:")
+    manager.delete_materials(["10000071"])
 
-# 9. Adding back materials and querying
-print("\n9. Adding back materials and querying:")
-manager.add_materials({"10000071": ("CENIZA VOLANTE", 55)})
-for season in seasons:
-    print(f"\nFor {season.capitalize()}:")
-    for material in ["10000071", "10000088"]:
-        print(f"Weight for {material}: {manager.query(material, season)}")
+    # 8. Querying after deletion
+    print("\n8. Querying after deletion:")
+    for season in seasons:
+        print(f"\nFor {season.capitalize()}:")
+        for material in ["10000088"]:
+            print(f"Weight for {material}: {manager.query(material, season)}")
 
-# 10. Edge case: Querying a material not in the list
-print("\n10. Edge case: Querying a material not in the list:")
-try:
-    print(f"Weight for 99999999 in summer: {manager.query('99999999', 'summer')}")
-except ValueError as e:
-    print(e)
+    # 9. Adding back materials and querying
+    print("\n9. Adding back materials and querying:")
+    manager.add_materials({"10000071": ("CENIZA VOLANTE", 55)})
+    for season in seasons:
+        print(f"\nFor {season.capitalize()}:")
+        for material in ["10000071", "10000088"]:
+            print(f"Weight for {material}: {manager.query(material, season)}")
+
+    # 10. Edge case: Querying a material not in the list
+    print("\n10. Edge case: Querying a material not in the list:")
+    try:
+        print(f"Weight for 99999999 in summer: {manager.query('99999999', 'summer')}")
+    except ValueError as e:
+        print(e)

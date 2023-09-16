@@ -85,6 +85,11 @@ def getProviderInfo(DFs, columns = ['Origin Code', 'Origin',
     new_keys[3] = "Longitude"
     return getcolumns(DFs, columns, new_keys, "Inbound ")
             
+#TODO: get info about vehicles
+# [Type], Capacity
+
+#TODO: get info for route (seperate in and out)
+# [RouteID], StartPoint, EndPoint, Distance, (AVG speet50), Freight Cost Per Ton(AVG), 
 
 if __name__ == "__main__":
     DFs = extract_df()

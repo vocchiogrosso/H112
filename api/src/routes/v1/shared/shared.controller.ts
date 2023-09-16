@@ -10,8 +10,4 @@ export class SharedController {
     return this.sharedService.getHello();
   }
 
-  @Post('login')
-  searchUser(): string {
-    return this.sharedService.searchUser();
-  }
 }

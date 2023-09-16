@@ -1,59 +1,35 @@
 <template>
   <div>
-    <div class="tabs">
-      <button :class="{ active: activeTab === 'login' }" @click="activeTab = 'login'">Login</button>
-      <button :class="{ active: activeTab === 'register' }" @click="activeTab = 'register'">Register</button>
+    <div>
+      <button @click="activeTab = 'login'">Login</button>
+      <button @click="activeTab = 'register'">Register</button>
     </div>
-    <div class="tab-content">
-      <div v-if="activeTab === 'login'">
-        <h2>Login</h2>
-        <form @submit.prevent="login">
-          <div>
-            <label>Email: </label>
-            <input type="email" v-model="loginEmail" required />
-          </div>
-          <div>
-            <label>Password: </label>
-            <input type="password" v-model="loginPassword" required />
-          </div>
-          <button type="submit">Login</button>
-        </form>
-      </div>
-      <div v-if="activeTab === 'register'">
-        <h2>Register</h2>
-        <form @submit.prevent="register">
-          <div>
-            <label>Name: </label>
-            <input type="text" v-model="registerName" required />
-          </div>
-          <div>
-            <label>Email: </label>
-            <input type="email" v-model="registerEmail" required />
-          </div>
-          <div>
-            <label>Password: </label>
-            <input type="password" v-model="registerPassword" required />
-          </div>
-          <div>
-            <label>Confirm Password: </label>
-            <input type="password" v-model="confirmPassword" required />
-          </div>
-          <div v-if="passwordMismatch" style="color: red;">
-            Passwords do not match
-          </div>
-          <div>
-            <label>Role: </label>
-            <input type="text" v-model="registerRole" required />
-          </div>
-          <button type="submit" :disabled="passwordMismatch">Register</button>
-        </form>
-      </div>
+
+    <div v-if="activeTab === 'login'">
+      <input v-model="loginEmail" placeholder="Email" /><br>
+      <input type="password" v-model="loginPassword" placeholder="Password" /><br>
+      <button @click="login">Login</button>
+    </div>
+
+    <div v-if="activeTab === 'register'">
+      <input v-model="registerName" placeholder="Name" /><br>
+      <input v-model="registerEmail" placeholder="Email" /><br>
+      <input type="password" v-model="registerPassword" placeholder="Password" /><br>
+      <input type="password" v-model="confirmPassword" placeholder="Confirm Password" /><br>
+      <button @click="register">Register</button>
+      <div v-if="passwordMismatch" style="color: red;">Passwords do not match</div>
+    </div><br>
+
+    <div v-if="errorMessage" style="color: red;">
+      {{ errorMessage }}
     </div>
   </div>
 </template>
 
+
 <script>
 import axios from 'axios';
+import { useRouter } from 'vue-router';
 
 export default {
   data() {
@@ -64,10 +40,15 @@ export default {
       registerName: '',
       registerEmail: '',
       registerPassword: '',
-      registerRole: '',
+      registerRole: 'user',
       confirmPassword: '',
       passwordMismatch: false,
+      errorMessage: ''
     };
+  },
+  setup() {
+    const router = useRouter();
+    return { router };
   },
   watch: {
     registerPassword() {
@@ -82,14 +63,60 @@ export default {
       this.passwordMismatch = this.registerPassword !== this.confirmPassword;
     },
     async login() {
-      // ... Existing login method
+      try {
+        const response = await axios.post('http://localhost:3000/v1/users/login', {
+          email: this.loginEmail,
+          password: this.loginPassword,
+        }, {
+          timeout: 5000
+        });
+
+        console.log('Login successful', response.data);
+
+        if (response.data.role === 'user') {
+          this.router.push('/user/dashboard');
+        } else if (response.data.role === 'contractor') {
+          this.router.push('/contractor/dashboard');
+        }
+      } catch (error) {
+        console.error('Login failed', error);
+        if (error.code === 'ECONNABORTED') {
+          this.errorMessage = 'The connection to the database timed out. Please try again later.';
+        } else {
+          this.errorMessage = 'An error occurred while logging in. Please try again.';
+        }
+      }
     },
     async register() {
       if (this.passwordMismatch) {
         return;
       }
 
-      // ... Existing register method
+      try {
+        const response = await axios.post('http://localhost:3000/v1/users/register', {
+          name: this.registerName,
+          email: this.registerEmail,
+          password: this.registerPassword,
+          role: this.registerRole,
+        }, {
+          timeout: 5000
+        });
+
+        console.log('Registration successful', response.data);
+
+        if (response.data.role === 'user') {
+          this.router.push('/user/dashboard');
+        } else if (response.data.role === 'contractor') {
+          this.router.push('/contractor/dashboard');
+        }
+      } catch (error) {
+        console.error('Registration failed', error);
+        if (error.code === 'ECONNABORTED') {
+          this.errorMessage = 'The connection to the database timed out. Please try again later.';
+        } else {
+          this.errorMessage = 'An error occurred while registering. Please try again.';
+        }
+      }
     },
   },
 };

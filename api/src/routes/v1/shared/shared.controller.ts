@@ -1,4 +1,4 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Post } from '@nestjs/common';
 import { SharedService } from './shared.service';
 
 @Controller('shared')
@@ -8,5 +8,10 @@ export class SharedController {
   @Get()
   getHello(): string {
     return this.sharedService.getHello();
+  }
+
+  @Post('login')
+  searchUser(): string {
+    return this.sharedService.searchUser();
   }
 }

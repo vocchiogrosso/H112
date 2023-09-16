@@ -22,7 +22,8 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref } from 'vue';
+import { defineComponent } from 'vue';
+import {useRouter} from "vue-router";
 
 export default defineComponent({
   name: 'RegisterVue',
@@ -34,13 +35,48 @@ export default defineComponent({
       password: '',
     };
   },
-
   methods: {
-    register() {
-      // Perform registration logic here
-      // For this example, we'll emit an event with the entered username
-      this.$emit('register', this.username);
-    },
-  },
+    async register() {
+      // Construct the registration data
+      const registrationData = {
+        name: this.username,
+        email: this.email,
+        password: this.password,
+      };
+
+      try {
+        const response = await fetch('/api/users/register', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(registrationData),
+        });
+
+        if (!response.ok) {
+          // Handle the registration error here
+          console.error('Registration failed:', response.statusText);
+          return;
+        }
+        
+        const json = response.json()
+        sessionStorage.setItem('user', JSON.stringify(json) )
+        // Check the user's role
+        if (json.role === 'contractor') {
+          // Redirect to the contractor-specific route
+          const router = useRouter();
+          router.push({ name: 'ContractorDashboard'}); // Replace with the actual route name
+        } else {
+          // Redirect to the general user route
+          const router = useRouter();
+          router.push({ name: 'UserDashboard' }); // Replace with the actual route name
+        }
+
+      } catch (error) {
+        // Handle any network or other errors here
+        console.error('An error occurred during registration:', error);
+      }
+    }
+  }
 });
 </script>

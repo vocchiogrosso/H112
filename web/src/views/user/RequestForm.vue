@@ -44,7 +44,7 @@ export default defineComponent({
         endCoordinates: '',
         cargoType: '',
         weight: '',
-        startDate: '',
+        pickupTime: '',
       },
     };
   },
@@ -52,7 +52,7 @@ export default defineComponent({
     async submitForm() {
       try {
         // Send a POST request with the form data to your API endpoint
-        const response = await fetch('/api/requests', {
+        const response = await fetch('/api/shipments/create', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',

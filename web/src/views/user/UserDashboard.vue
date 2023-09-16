@@ -34,7 +34,7 @@ export default defineComponent({
     async fetchShipments() {
       try {
         // Make an API request to fetch shipments
-        const response = await fetch('/api/shipments'); // Replace with your API endpoint
+        const response = await fetch('/api/users/dashboard'); // Replace with your API endpoint
         if (!response.ok) {
           throw new Error('Failed to fetch shipments');
         }

@@ -4,17 +4,29 @@ class Truck:
         self.truck_id = truck_id
         self.truck_type = truck_type
         self.capacity = capacity
+
         self.occupied = 0  # Initially, the truck is empty / kg
-        self.start_time = None  # The time the driver started working
-        self.current_delivery = None  # What the truck is currently delivering
+        self.worked = None  # Initially, the truck has not worked / hours
+        self.current_delivery = {} # What material the truck is currently delivering
 
-    def start_working(self, current_delivery):
-        if self.start_time is not None:
-            raise ValueError("Truck is already in use.")
+    # TODO: use ROUTE class 
+    def new_working(self, current_delivery, weight, duration):
+        if self.worked is None:
+            self.worked = duration
+        else:
+            if self.worked + duration > 10:
+                raise ValueError("Truck cannot work more than 10 hours per day.")
 
-        self.start_time = datetime.now()
-        self.current_delivery = current_delivery
+        if self.capacity < weight + self.occupied:
+            raise ValueError("Truck is over capacity.")
 
+        if self.current_delivery.get(current_delivery) is None:
+            self.current_delivery.update({current_delivery: weight})
+        else:
+            self.current_delivery[current_delivery] += weight
+
+        self.occupied = weight
+    
     def complete_delivery(self):
         if self.start_time is None:
             raise ValueError("Truck is not in use.")
@@ -23,11 +35,7 @@ class Truck:
         end_time = datetime.now()
         working_time = end_time - self.start_time
 
-        # Update the occupied percentage based on working time
-        # (You may need to adjust this calculation based on your business logic)
-        self.occupied_percentage += working_time.total_seconds() / 3600.0
-
         # Reset the start time and current delivery
-        self.start_time = None
+        self.worked = None
         self.current_delivery = None
-        self.occupied_percentage = 0
+        self.occupied = 0

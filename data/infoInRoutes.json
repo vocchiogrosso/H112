@@ -1,0 +1,391 @@
+{
+    "Inbound ARG": {
+        "1ACSCA": {
+            "Route": "AR  ACINDAR - CAPDEVILLE / CAMI\u00d3N",
+            "Origin Code": 1001079,
+            "Destination Code": "ACA0",
+            "Distance [km]": 906,
+            "Freight Cost Per Ton [$/ton]": 7266.522394366202
+        },
+        "1ACSMG": {
+            "Route": "AR  ACINDAR - MALAGUE\u00d1O / CAMI\u00d3N",
+            "Origin Code": 1001079,
+            "Destination Code": "AMG0",
+            "Distance [km]": 475,
+            "Freight Cost Per Ton [$/ton]": 4207.476333333333
+        },
+        "1AGDJC": {
+            "Route": "-",
+            "Origin Code": 1002047,
+            "Destination Code": "ACA0",
+            "Distance [km]": 332,
+            "Freight Cost Per Ton [$/ton]": 5402.225
+        },
+        "1AVMCA": {
+            "Route": "AR ABRAHAM VICTOR- CAPDEVILLE / CAMION",
+            "Origin Code": 1005457,
+            "Destination Code": "ACA0",
+            "Distance [km]": 140,
+            "Freight Cost Per Ton [$/ton]": 2005.5851876675497
+        },
+        "1B18CM": {
+            "Route": "AR  SAN NICOLAS - CAMPANA / CAMION",
+            "Origin Code": 1005225,
+            "Destination Code": "ACM0",
+            "Distance [km]": 159,
+            "Freight Cost Per Ton [$/ton]": 3064.8974193548397
+        },
+        "1B69CM": {
+            "Route": "AR  RM-CAMPANA / CAMION",
+            "Origin Code": 1000500,
+            "Destination Code": "ACM0",
+            "Distance [km]": 145,
+            "Freight Cost Per Ton [$/ton]": 2780.613824408238
+        },
+        "1B69MG": {
+            "Route": "AR  RM-MALAGUE\u00d1O / CAMION",
+            "Origin Code": 1000500,
+            "Destination Code": "AMG0",
+            "Distance [km]": 518,
+            "Freight Cost Per Ton [$/ton]": 4520.776089385474
+        },
+        "1DTKMG": {
+            "Route": "AR DETOYO (RECREO)- MG / CAMION",
+            "Origin Code": 1008593,
+            "Destination Code": "AMG0",
+            "Distance [km]": 321,
+            "Freight Cost Per Ton [$/ton]": 3592.4825677603426
+        },
+        "1DVBCM": {
+            "Route": "AR DERIVADOS VINICOS - CAMPANA / CAMION",
+            "Origin Code": 1010815,
+            "Destination Code": "ACM0",
+            "Distance [km]": 979,
+            "Freight Cost Per Ton [$/ton]": 7118.08888888889
+        },
+        "1DVMCA": {
+            "Route": "AR DERIVADOS VINICOS - CAPDEVILLE / CAMI",
+            "Origin Code": 1010815,
+            "Destination Code": "ACA0",
+            "Distance [km]": 52,
+            "Freight Cost Per Ton [$/ton]": 1288.6105737704918
+        },
+        "1FEBCM": {
+            "Route": "AR FERRUM (Pilar) - CM / CAMION",
+            "Origin Code": 1010725,
+            "Destination Code": "ACM0",
+            "Distance [km]": 35,
+            "Freight Cost Per Ton [$/ton]": 1369.9716438356168
+        },
+        "1K2APV": {
+            "Route": "AR KULKUKAN (HORCONES) - PV / CAMION",
+            "Origin Code": 1010081,
+            "Destination Code": "APV0",
+            "Distance [km]": 210,
+            "Freight Cost Per Ton [$/ton]": 4969.215405405388
+        },
+        "1LPKMG": {
+            "Route": "AR LA PIPA (RECREO)- MG / CAMION",
+            "Origin Code": 1002885,
+            "Destination Code": "AMG0",
+            "Distance [km]": 307,
+            "Freight Cost Per Ton [$/ton]": 3693.1921759259208
+        },
+        "1LPKPV": {
+            "Route": "AR LA PIPA (RECREO)- PV / CAMION",
+            "Origin Code": 1002885,
+            "Destination Code": "APV0",
+            "Distance [km]": 598,
+            "Freight Cost Per Ton [$/ton]": 3416.3437113402097
+        },
+        "1MPCIC": {
+            "Route": "AR  MAPEI - CIC / CAMION",
+            "Origin Code": 1010764,
+            "Destination Code": "AMG0",
+            "Distance [km]": 665,
+            "Freight Cost Per Ton [$/ton]": 1613.82
+        },
+        "1PIRMG": {
+            "Route": "AR CAMI\u00d3N PIERUCCI - MALAGUE\u00d1O / CAMION",
+            "Origin Code": 1009608,
+            "Destination Code": "AMG0",
+            "Distance [km]": 1111,
+            "Freight Cost Per Ton [$/ton]": 4103.439130434784
+        },
+        "1ROCCM": {
+            "Route": "AR ROCA SA (Lanus) - CAMPANA / CAMION",
+            "Origin Code": 1010725,
+            "Destination Code": "ACM0",
+            "Distance [km]": 100,
+            "Freight Cost Per Ton [$/ton]": 2779.213
+        },
+        "1RPRC": {
+            "Route": "AR PIERUCCI (Allen) - CAMPANA",
+            "Origin Code": 1009608,
+            "Destination Code": "ACM0",
+            "Distance [km]": 1118,
+            "Freight Cost Per Ton [$/ton]": 5277.25918848169
+        },
+        "1SAYPV": {
+            "Route": "AR  KULKUKAN SAC- PV / CAMION",
+            "Origin Code": 1010081,
+            "Destination Code": "APV0",
+            "Distance [km]": 270,
+            "Freight Cost Per Ton [$/ton]": 6339.780658363008
+        },
+        "1SHFMG": {
+            "Route": "AR SHERPA (LA RIOJA) - MALAGUE\u00d1O / CAMIO",
+            "Origin Code": 1011001,
+            "Destination Code": "AMG0",
+            "Distance [km]": 515,
+            "Freight Cost Per Ton [$/ton]": 5233.2678488372
+        },
+        "1SIBCA": {
+            "Route": "AR SIDERAR - CAPDEVILLE / CAMION",
+            "Origin Code": 1000500,
+            "Destination Code": "ACA0",
+            "Distance [km]": 941,
+            "Freight Cost Per Ton [$/ton]": 7336.826474820145
+        },
+        "1SNBMG": {
+            "Route": "-",
+            "Origin Code": 1011517,
+            "Destination Code": "RMG0",
+            "Distance [km]": 306,
+            "Freight Cost Per Ton [$/ton]": 5019.316315789473
+        },
+        "1TRECA": {
+            "Route": "-",
+            "Origin Code": 1009349,
+            "Destination Code": "ACA0",
+            "Distance [km]": 332,
+            "Freight Cost Per Ton [$/ton]": 22625.650000000005
+        }
+    },
+    "Inbound MEX": {
+        "CAL0-PLANTA RAMOS ARIZPE CAMI\u00d3N_MCARAC": {
+            "Route": "CAL0-PLANTA RAMOS ARIZPE CAMI\u00d3N",
+            "Origin Code": "CAL0",
+            "Destination Code": "ARA0",
+            "Distance [km]": 555,
+            "Freight Cost Per Ton [$/ton]": 746.6164593301431
+        },
+        "CGU0-HERMOSILLO CAMI\u00d3N INBOUND_MCGHRC": {
+            "Route": "CGU0-HERMOSILLO CAMI\u00d3N INBOUND",
+            "Origin Code": "CGU0",
+            "Destination Code": "AHR0",
+            "Distance [km]": 143,
+            "Freight Cost Per Ton [$/ton]": 271.90690109399395
+        },
+        "CVE0-PLANTA APAXCO CAMI\u00d3N_MVEAPC": {
+            "Route": "CVE0-PLANTA APAXCO CAMI\u00d3N",
+            "Origin Code": "CVE0",
+            "Destination Code": "AAP0",
+            "Distance [km]": 477,
+            "Freight Cost Per Ton [$/ton]": 847.7353999999998
+        },
+        "CVE1-PLANTA ACAPULCO CAMI\u00d3N_MV1ACC": {
+            "Route": "CVE1-PLANTA ACAPULCO CAMI\u00d3N",
+            "Origin Code": "CVE1",
+            "Destination Code": "AAC0",
+            "Distance [km]": 667,
+            "Freight Cost Per Ton [$/ton]": 1374.2903846153854
+        },
+        "CVE1-PLANTA APAXCO CAMI\u00d3N_MV1APC": {
+            "Route": "CVE1-PLANTA APAXCO CAMI\u00d3N",
+            "Origin Code": "CVE1",
+            "Destination Code": "AAP0",
+            "Distance [km]": 450,
+            "Freight Cost Per Ton [$/ton]": 906.6229508196722
+        },
+        "CVE3-PLANTA MACUSOANA CAMI\u00d3N_MV3MPC": {
+            "Route": "CVE3-PLANTA MACUSOANA CAMI\u00d3N",
+            "Origin Code": "CVE3",
+            "Destination Code": "AMP0",
+            "Distance [km]": 269,
+            "Freight Cost Per Ton [$/ton]": 401.3212088752868
+        },
+        "CVE3-PLANTA ORIZABA CAMI\u00d3N_MV3OZC": {
+            "Route": "CVE3-PLANTA ORIZABA CAMI\u00d3N",
+            "Origin Code": "CVE3",
+            "Destination Code": "AOZ0",
+            "Distance [km]": 141,
+            "Freight Cost Per Ton [$/ton]": 580.7657865646257
+        },
+        "MP CMA0-ATC0_MPTC09": {
+            "Route": "MP CMA0-ATC0",
+            "Origin Code": "CMA0",
+            "Destination Code": "ATC0",
+            "Distance [km]": 65,
+            "Freight Cost Per Ton [$/ton]": 136.34925925925938
+        },
+        "MP PUERTO GUAYMAS - AHR0_MPHR01": {
+            "Route": "MP PUERTO GUAYMAS - AHR0",
+            "Origin Code": "CGU0",
+            "Destination Code": "AHR0",
+            "Distance [km]": 168,
+            "Freight Cost Per Ton [$/ton]": 249.60916666666665
+        },
+        "MPAC07": {
+            "Route": "MP L\u00c1ZARO C\u00c1RDENAS, MICH - AAC0",
+            "Origin Code": 4310426,
+            "Destination Code": "AAC0",
+            "Distance [km]": 347,
+            "Freight Cost Per Ton [$/ton]": 530.0915141242938
+        },
+        "MPAC09": {
+            "Route": "MP CD. MADERO, TAM - AAC0",
+            "Origin Code": 4310067,
+            "Destination Code": "AAC0",
+            "Distance [km]": 906,
+            "Freight Cost Per Ton [$/ton]": 1517.602
+        },
+        "MPAC22": {
+            "Route": "MP S.L.P. - AAC0",
+            "Origin Code": 4306301,
+            "Destination Code": "AAC0",
+            "Distance [km]": 774,
+            "Freight Cost Per Ton [$/ton]": 1140.5778947368424
+        },
+        "MPAC26": {
+            "Route": "AAC0 IN RIO ROMA SAN LUIS POTOSI-AAC0",
+            "Origin Code": 4312148,
+            "Destination Code": "AAC0",
+            "Distance [km]": 362,
+            "Freight Cost Per Ton [$/ton]": 1240.142222222222
+        },
+        "MPAC27": {
+            "Route": "COQUE IN PEMEX JALTIPAN-AAC0",
+            "Origin Code": 4310067,
+            "Destination Code": "AAC0",
+            "Distance [km]": 380,
+            "Freight Cost Per Ton [$/ton]": 1527.2141597796149
+        },
+        "MPAP05": {
+            "Route": "MP Axochiapan, Mor. - AAP0",
+            "Origin Code": 4308434,
+            "Destination Code": "AAP0",
+            "Distance [km]": 257,
+            "Freight Cost Per Ton [$/ton]": 430.87934210526333
+        },
+        "MPAP07": {
+            "Route": "MP Cd. Madero, Tam. -  AAP0",
+            "Origin Code": 4310067,
+            "Destination Code": "AAP0",
+            "Distance [km]": 471,
+            "Freight Cost Per Ton [$/ton]": 1099.612142857143
+        },
+        "MPAP12": {
+            "Route": "MP P\u00e9rez de Galeana, Apaxco Estado de Me",
+            "Origin Code": 4309169,
+            "Destination Code": "AAP0",
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 62.88147058823532
+        },
+        "MPAP26": {
+            "Route": "COQUE IN PEMEX JALTIPAN-AAP0",
+            "Origin Code": 4310067,
+            "Destination Code": "AAP0",
+            "Distance [km]": 649,
+            "Freight Cost Per Ton [$/ton]": 1100.9782594936712
+        },
+        "MPAP33": {
+            "Route": "AAP0 IN RIO ROMA SAN LUIS POTOSI-AAP0",
+            "Origin Code": 4312148,
+            "Destination Code": "AAP0",
+            "Distance [km]": 577,
+            "Freight Cost Per Ton [$/ton]": 916.4257142857148
+        },
+        "MPHR02": {
+            "Route": "MP MUZQUIZ COAHUILA - AHR0",
+            "Origin Code": 4312208,
+            "Destination Code": "AHR0",
+            "Distance [km]": 1918,
+            "Freight Cost Per Ton [$/ton]": 2667.3001999999997
+        },
+        "MPMP05": {
+            "Route": "MP ALMAGRES-AMP0",
+            "Origin Code": 4310115,
+            "Destination Code": "AMP0",
+            "Distance [km]": 310,
+            "Freight Cost Per Ton [$/ton]": 554.1272106261866
+        },
+        "MPMP36": {
+            "Route": "MP FLUORITA MUZQUIZ",
+            "Origin Code": 4312208,
+            "Destination Code": "AMP0",
+            "Distance [km]": 1969,
+            "Freight Cost Per Ton [$/ton]": 2074.755588235294
+        },
+        "MPOZ01": {
+            "Route": "MP IXTACZOQUITLAN - AOZ0",
+            "Origin Code": 4303398,
+            "Destination Code": "AOZ0",
+            "Distance [km]": 2,
+            "Freight Cost Per Ton [$/ton]": 91.51761904761904
+        },
+        "MPOZ08": {
+            "Route": "MP SAN JUAN EVANGELISTA, VER. - AOZ0",
+            "Origin Code": 4310107,
+            "Destination Code": "AOZ0",
+            "Distance [km]": 265,
+            "Freight Cost Per Ton [$/ton]": 427.8306101694915
+        },
+        "MPOZ09": {
+            "Route": "MP ORIENTAL, PUEBLA - AOZ0",
+            "Origin Code": 4311308,
+            "Destination Code": "AOZ0",
+            "Distance [km]": 136,
+            "Freight Cost Per Ton [$/ton]": 435.8032173913043
+        },
+        "MPOZ11": {
+            "Route": "MP SAYULA, VER. - AOZ0",
+            "Origin Code": 4310115,
+            "Destination Code": "AOZ0",
+            "Distance [km]": 264,
+            "Freight Cost Per Ton [$/ton]": 721.3306060606062
+        },
+        "MPRA05": {
+            "Route": "MP ESCOBEDO-ARA0",
+            "Origin Code": 4301239,
+            "Destination Code": "ARA0",
+            "Distance [km]": 61,
+            "Freight Cost Per Ton [$/ton]": 194.06881057268714
+        },
+        "MPRA06": {
+            "Route": "MP MINA NUEVO LEON-ARA0",
+            "Origin Code": 4303301,
+            "Destination Code": "ARA0",
+            "Distance [km]": 90,
+            "Freight Cost Per Ton [$/ton]": 254.26880104257168
+        },
+        "MPRA13": {
+            "Route": "MONTERREY-PLANTA RAMOS",
+            "Origin Code": 4311234,
+            "Destination Code": "ARA0",
+            "Distance [km]": 66,
+            "Freight Cost Per Ton [$/ton]": 361.2683794089607
+        },
+        "MPTC02": {
+            "Route": "MP SAN ANDRES IXTLAN-ATC0",
+            "Origin Code": 4311974,
+            "Destination Code": "ATC0",
+            "Distance [km]": 128,
+            "Freight Cost Per Ton [$/ton]": 212.86386301369873
+        },
+        "MPTC05": {
+            "Route": "MP MUZQUIZ-ATC0",
+            "Origin Code": 4312208,
+            "Destination Code": "ATC0",
+            "Distance [km]": 1270,
+            "Freight Cost Per Ton [$/ton]": 1759.5113725490196
+        },
+        "MPTC13": {
+            "Route": "COLIMA-ATC0",
+            "Origin Code": 4311643,
+            "Destination Code": "ATC0",
+            "Distance [km]": 20,
+            "Freight Cost Per Ton [$/ton]": 61.51201923076928
+        }
+    }
+}

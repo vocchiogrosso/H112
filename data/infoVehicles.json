@@ -1,0 +1,5314 @@
+{
+    "Outbound ARG": {
+        "AAA677WK": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "ALZY026": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AGPU212": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAF370FH": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF569GJ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC006DR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC116ML": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "APKF039": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "AGJM260": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "ALHQ755": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC311VV": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "APEL793": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE276PL": {
+            "Type of Vehicle": "Equipo Bitren",
+            "Vehicle Capacity [tons]": 52.0
+        },
+        "AAF035BB": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AKTV773": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AKOS287": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 16.0
+        },
+        "AKRT436": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC625AF": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AHAV341": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AIXM798": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AMIG708": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AMEN646": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AMLA680": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "ANEJ757": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE555UR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE189FQ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE806XQ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANEJ755": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "AGGP957": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "AAC935SZ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAD848AH": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALQB894": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF575ZX": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE354LY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANAG999": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF952LI": {
+            "Type of Vehicle": "Equipo Bitren",
+            "Vehicle Capacity [tons]": 52.0
+        },
+        "AAF277JT": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALYL240": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOXU185": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 40.0
+        },
+        "AINJ956": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AHGX963": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAF468GS": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB775RH": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAA432SH": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AIOZ212": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF237JM": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA136IB": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE508JE": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB478PV": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAF569GH": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALAH247": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAB866SE": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "ANMH791": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE124PI": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "AAF120OU": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOJS978": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 34.0
+        },
+        "ADSX639": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "AKIZ032": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE115KU": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAD883FW": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "APKB512": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC311VR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AMRL071": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AMMU614": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE649NL": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF563BV": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAD243TA": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA785XR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOQK564": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AINF943": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AKCF378": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "ANCU390": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "APAP951": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AJPX287": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF434RO": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AMOY761": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANYQ019": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA785XU": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB564EJ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC959GB": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AGEO852": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AKWL329": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE210QN": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AJTQ820": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "AKHP649": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "AAF433EA": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE806XR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB039PR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALFA993": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "APBC879": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB948WS": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALEF192": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 40.5
+        },
+        "AIQL150": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAC637JP": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AMXT947": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AKPC811": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF067FL": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC071XI": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE276PM": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAF620QY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE065GF": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE821BL": {
+            "Type of Vehicle": "Equipo Bitren",
+            "Vehicle Capacity [tons]": 52.0
+        },
+        "AOIL706": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANKT593": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOUD947": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOPR207": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AHNR279": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAA432SP": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA405JR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE978DT": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AONG185": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE621YX": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOSX485": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA243MA": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOBH040": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ABSH904": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "APBC932": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOPT724": {
+            "Type of Vehicle": "Equipo Bitren",
+            "Vehicle Capacity [tons]": 52.0
+        },
+        "AAC071XJ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF123HO": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB071DO": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AMOZ044": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA804KH": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "AIXI060": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 40.0
+        },
+        "AAF348ET": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AMEP518": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF288KU": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAF004GV": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF601ME": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF442XN": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "APBC322": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AEDL381": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "APDL085": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "AAE189FU": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AORI999": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA191FE": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AFHH896": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AKST930": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AJYV574": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANMH790": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANRS682": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF442XO": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "AAB244DG": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE791SL": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAB670JI": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AOPR208": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAD150LJ": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALKJ937": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB549NI": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALFA991": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALAA380": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AEWI959": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AMEP523": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALHE266": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AKQX961": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAC967YE": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AHAG811": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAC959GA": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AKGL521": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAF213CY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB660MT": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALAA378": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB040ZA": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AORP750": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAA677WL": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAA232GE": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AMNL355": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE502BU": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALFD768": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB660LM": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA950FR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE757XV": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB053GK": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB639NT": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB670JH": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANNX265": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AKAW015": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE433CZ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB940PH": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB053GO": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA113GR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAD033DA": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA677WJ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAA755VF": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC516GZ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AORF780": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "APNZ319": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOZL551": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AMNL354": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB917RK": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AJSS183": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA110UB": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE980RO": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC370DU": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAD572WM": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA113FH": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "ALWN220": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAC516GV": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAC516GY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE595QY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOYT623": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB413RE": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AHWE217": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAF053FM": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE747DF": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB670JC": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AJYV572": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AFFQ797": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC306EW": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAB549NF": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB053GJ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AORP754": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE595QX": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE680VA": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AMYU476": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA714EI": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANEC465": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF336PL": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAF507FS": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE556ZO": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAC370DI": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE972DQ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAD245YW": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "APAA673": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANHF171": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAB948WT": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA232GF": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AKYK527": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AITI934": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AKWL330": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "ANPO581": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE787AE": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOXX088": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF160VN": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AJSS184": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "APAR618": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE433CW": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AMDL077": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AORF775": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE556ZY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE210QO": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AGMZ204": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC370DY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE951DJ": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOPR206": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF664MR": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAB244DI": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB948WR": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AGJB692": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANFV903": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE112XM": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE837EG": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE596SQ": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAD838FC": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AHCR119": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AIKT526": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAB660MU": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE400FZ": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ANHF188": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF539WC": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE457YF": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE556ZS": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF613AY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAC809PX": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF160VY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "ALIH252": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAC243HI": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA677WF": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAF039UM": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC809PS": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB940PF": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF336PM": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC306EY": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAF507FL": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC370DW": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC844GO": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA967GD": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAE775BN": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AFGS417": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "APKJ264": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AOUK312": {
+            "Type of Vehicle": "Equipo Convencional",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE837EF": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAA714EH": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAB053GL": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "AAE951DK": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "AAC306EK": {
+            "Type of Vehicle": "Equipo Escalable",
+            "Vehicle Capacity [tons]": 36.0
+        }
+    },
+    "Outbound MEX": {
+        "M93AN6P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M36AZ4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 80.0
+        },
+        "M30AK1A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M488AG5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M25AX7W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M898DM9": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M04AR6T": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M03AE9Z": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M12AU9C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M26AF8U": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M416DL8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M27AF8U": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M44AD1C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M92AA5Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M74AL6S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M18AH4U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M93AA5Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M19AD8X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M403ET9": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M500EN1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M25AH8K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M27AH8K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M21AL9V": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M39AH8K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M89AH7K": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M01AH8K": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M59AL1Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M19AM6L": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M065DM8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M8TNE891": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M266EV3": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M58AF8A": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M26AS4V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M71AP5V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M93AK5H": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M79AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M06AL6M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M43AL6M": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M83AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M84AK8X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M09AJ2A": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M702EK8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M39AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M823AF5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M43AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M36AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M879AS2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M830AF5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M70AC8X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M75AH1R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M32AL5P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M701EK8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M348EZ3": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M652AT1": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M82AP1E": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M11AP9D": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M172EY8": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M969EV3": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M99AD6H": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M385DW7": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M09AM7D": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M014DJ2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M92AH2S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M525ET7": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M701AJ6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M91AK7R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M815DH8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M13AE6E": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M41AU5A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M56AY5N": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M05AB4R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M05AL9M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M863DG3": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M814DG5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M94AL2E": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M517AP3": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M12AB9X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M51AH8S": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M96AP3A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M16AS3S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M916ES6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M783CR7": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M17AA4E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M25AU7V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 19.5
+        },
+        "M115DU6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 33.0
+        },
+        "M240DU6": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M669AM9": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M66AE9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M808EZ2": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M97AS8V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.2
+        },
+        "M31AM7S": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.2
+        },
+        "M94AH3R": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.2
+        },
+        "MVE93533": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M44AL5E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M54AG2K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M10AS8A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M07AK8Z": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M60AW5X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M34AZ4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M33AZ4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M29AM2X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M46AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M15AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M93AE9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M35AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M67AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M59AE9W": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M01AU8V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M52AE9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M14AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M67AE9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M445EX9": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M06AA1U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M02AH6F": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M40AH6F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M47AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M38AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M03AU8V": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M21AL5E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M07AA4N": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M47AG3D": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M836EV7": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M946EZ2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M74AM6B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M37AW7Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M27AW4Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M47AJ4V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M58AU8F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M84AJ3V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M21AD3L": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M13AW7Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M112EE7": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M86AP6C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M86AF1B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M82AM7B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M82AP6C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M83AP6C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M82AU6E": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M44AS8X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M67AE1F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M29AP6C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M02AN2J": {
+            "Type of Vehicle": "RABON MANIOBRAS",
+            "Vehicle Capacity [tons]": 12.0
+        },
+        "M58AU8M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M09AL9S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M95AP9S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M72AN9G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M52AR2K": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M123FE8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M99AA9M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M86AR4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M291AU3": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M538EU6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M91AN8T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M06AN2F": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.2
+        },
+        "M08AM7D": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M03AH5S": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.2
+        },
+        "M60AT4F": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.2
+        },
+        "M36AU4W": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M11AU7W": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M06AB5B": {
+            "Type of Vehicle": "RABON MANIOBRAS",
+            "Vehicle Capacity [tons]": 15.0
+        },
+        "M424EU7": {
+            "Type of Vehicle": "RABON MANIOBRAS",
+            "Vehicle Capacity [tons]": 13.0
+        },
+        "M50AU6K": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M071DX2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M575DX5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M03AH3G": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M24AJ4L": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.2
+        },
+        "M23AA3J": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.2
+        },
+        "M22AC5K": {
+            "Type of Vehicle": "RABON MANIOBRAS",
+            "Vehicle Capacity [tons]": 13.0
+        },
+        "M23AH8V": {
+            "Type of Vehicle": "RABON MANIOBRAS",
+            "Vehicle Capacity [tons]": 15.0
+        },
+        "M01AK3C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M167AD7": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M833AM5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M08AD6U": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M826EJ4": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M932AD6": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M97AA9U": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M936AD6": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M08AU7K": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M136AR6": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M431AR7": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M152ET3": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M565AK4": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M655DX6": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M85AF3Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M480EX5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M39AD4J": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M522DX6": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M09AE2H": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M55AR4F": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M289ED6": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M89AL6D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M47AR4A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M54AN5L": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M434AN1": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M94AW6Y": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M152EZ2": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M77AX3A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M44AL6M": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M53AR3F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M71AP2C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M47AS9S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M346ES4": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M770AR2": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M569AK5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M43AM7C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M05AN2F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M684AS1": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M18AN1B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M19AN1B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M06AM6L": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M276DX1": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M69AF8F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M075AK7": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M890EY8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M62AA5B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M31AP3C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M03AP3C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M35AH9M": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M377EP4": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M87AN2D": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.7
+        },
+        "M97AA6B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M179DX2": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M24AH7B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.7
+        },
+        "M50AE4X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M68AS9L": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M68AP2C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M92AL5W": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M90AL5W": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M402DW5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M32AP3C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M108DX2": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M19AU3C": {
+            "Type of Vehicle": "MUFFET",
+            "Vehicle Capacity [tons]": 19.0
+        },
+        "M58AJ2F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M351AG5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M231AK1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M671EW1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M95AH6T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M28AR2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M659DV9": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M665DV9": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M81AT9P": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M56AF6J": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M40AY3C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M323AN2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M87AJ7Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M17AL9V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M50AF2D": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M04AN2F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M72AT1Y": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M66AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 80.0
+        },
+        "M72AU7C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M40AS4D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M67AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M91AL4X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M88AN3U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M17AT6M": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M82AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M67AL7Z": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M32AR6U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M324AN2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M79AC6S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M11AU2C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M98AH7K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M31AH8K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M27AZ3V": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M17AA4M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M20AD8X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M63AG3W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M24AP2R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M20AN1B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M07AM6L": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M69AP7W": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M071DP8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.2
+        },
+        "M20AP6F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.0
+        },
+        "M656EP5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M17AG4M": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M360EP5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M25AX2Y": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M42AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M41AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M35AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M808AF5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M44AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M322AG9": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.0
+        },
+        "M308AG9": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.0
+        },
+        "M171DP3": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M257AS2": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M596FE4": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M529AE1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M91AG2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M686DG2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M476EP3": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M422AF8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M36AE2T": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M56AK6W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M02AU6A": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M52AB7J": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M85AA8R": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M650DH8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M83AL7M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M32AX8U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M02AL9M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M60AU3N": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M63AT2B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M45AA5R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M428DS2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M50AH4H": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M856EK7": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M54AE1X": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M41AU8V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M90AC5G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M55AE1X": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 33.0
+        },
+        "M8UNC892": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M58AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M781AK8": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M67AM9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M96AU7V": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M76AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M63AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M40AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M79AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M12AR5E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M47AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M33AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M65AH7F": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M67AK7Z": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M60UF1V": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M53AG2K": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M08AR4E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M911EX7": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M53AF9A": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M88AN1U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M55AW4Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M53AM6B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M39AJ4V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M64AW4Z": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M95AF9A": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M54AF1B": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M13AN2U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M81AU6E": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M70AL5G": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M66AJ2J": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M39AH7C": {
+            "Type of Vehicle": "RABON MANIOBRAS",
+            "Vehicle Capacity [tons]": 19.0
+        },
+        "M63AG1X": {
+            "Type of Vehicle": "RABON MANIOBRAS",
+            "Vehicle Capacity [tons]": 19.0
+        },
+        "M079AR4": {
+            "Type of Vehicle": "RABON AUTOCONSTRU",
+            "Vehicle Capacity [tons]": 19.0
+        },
+        "M11AX8F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M61AJ2W": {
+            "Type of Vehicle": "RABON AUTOCONSTRU",
+            "Vehicle Capacity [tons]": 15.0
+        },
+        "M154ES3": {
+            "Type of Vehicle": "RABON MANIOBRAS",
+            "Vehicle Capacity [tons]": 10.0
+        },
+        "M89AT3F": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.2
+        },
+        "M94AH4S": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.2
+        },
+        "M168AT1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M305EY5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M31AL4L": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M034EP3": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M58AG5D": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M89AG3Y": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M355DP1": {
+            "Type of Vehicle": "RABON MANIOBRAS",
+            "Vehicle Capacity [tons]": 13.0
+        },
+        "M09AH8Z": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M272AE3": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M954AU1": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M111ED8": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M083AE3": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M675EX5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M94AP6N": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M91AF7Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M372DF8": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M25AR4F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M98AR4F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M96AR4F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M41AR6F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 80.0
+        },
+        "M99AR4F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M82AD8Z": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M863AE2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M633AK5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M14AJ9R": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M247ET5": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.3
+        },
+        "M70AR8N": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.3
+        },
+        "M395ER3": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.3
+        },
+        "M466ED7": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M164ET5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M53AN5C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M86AP3C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M17AC9J": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M29AU4H": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.7
+        },
+        "M575DX1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.7
+        },
+        "M22AX8P": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M23AX8P": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M84AJ7K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M72AP2C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M574ER3": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M217EV4": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.3
+        },
+        "M62AS9L": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M13AJ9R": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.3
+        },
+        "M89AL5W": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 23.0
+        },
+        "M94AL5W": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M91AL5W": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M06AH3E": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 19.0
+        },
+        "M31AN5U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M218EY1": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M11AV8C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M78AG6G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M499EN1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M074EW1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M90AJ5U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M16AA4M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M62AG3W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M53AG2U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M40AP7P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M49AA5E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M03AG5U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M82AU7P": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M402ET9": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M54AH6A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M933AG6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M02AS9C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M78AT1Y": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M86AH7K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M41AH8K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M75AH7K": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M97AH7K": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M92AN3V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M76AN9A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M93AN3V": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M393EU8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.0
+        },
+        "M79AK8X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.2
+        },
+        "M19AP6F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.0
+        },
+        "M81AK8X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.2
+        },
+        "M12AS8H": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M54AK2R": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M68AL2F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M99AU6W": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M385EY8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M642DG9": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M190ET8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M38AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M86AC5X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M61AP5V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M62AP5V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M68AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 80.0
+        },
+        "M377AK7": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M002EZ1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M13AL1N": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M248DJ2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M990DE3": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M333DD6": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M882DG1": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 53.0
+        },
+        "M98AE9X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M239DC2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M847AH8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M80AM5V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M38AZ4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M36AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M64AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M76AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M44UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M15UF2T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M14UF2T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M62UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M11UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M94UA9M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M04AA1U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M80AX8F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M35AP4V": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M09AA4S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M97AB8N": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M66AR2X": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M64AU2H": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M929EZ2": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M61AF9A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M96AR9Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M62AS8X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M53AC9Y": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M25AW4X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M45AR2K": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M91AK5X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M876DG3": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M032EJ6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.5
+        },
+        "M022AU2": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M658BZ9": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M069EY9": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.7
+        },
+        "M61AU3H": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M07AC8J": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M11AA8B": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M253AE9": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M818DX1": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M246ET5": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M04AA5B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.3
+        },
+        "M113DX2": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M93AL5W": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M47AA5N": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M13AP2C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M319DR3": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.3
+        },
+        "M177EV4": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.3
+        },
+        "M36AR4G": {
+            "Type of Vehicle": "MUFFET",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M57AY8D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M90AP1K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M64AX6Z": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M99AC8H": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M01AE5B": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M49AA9Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M60AR3U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M27AF4D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M81AU7P": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M06AX6Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M18AT8E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M18AP6F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.0
+        },
+        "M31AA8T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M79AK6G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M25AA9K": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M06AL3U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M17AK7S": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M73AW4X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M66AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M87AA1N": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M25AW3X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M68AK7Z": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M63UF1V": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M35AZ4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M97AA2N": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M16AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M33AX5G": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M99AM8V": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M24AR3X": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M76AM7V": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M50AA4S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M96AJ2J": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M97AW7Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M01AZ2F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M16AN1U": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M41AF9A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M63AP6C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M38AJ2J": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M90AL1T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M89AR7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.5
+        },
+        "M59FA9F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 80.0
+        },
+        "M65AY5R": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M41AJ2T": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M254AE2": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M52AR3F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M45AL6M": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M965DY2": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M43AS7R": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M27AA8V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M428DX5": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M62AJ9R": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M35AF7P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.7
+        },
+        "M59AP2C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M406DT5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 56.0
+        },
+        "M57AZ5T": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M46AU4E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M09AN6T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M78AM9V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M71AU7C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M44AU4A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M50AU4U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M80AZ4T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M29AR6U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M93AY4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M42AG5U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M36AH8K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M85AH7K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M32AH8K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M750EY6": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M14AN7L": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M82AK8X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M78AE5U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M766DP5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M839DR5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M77AE5U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M46AP5V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M309AG9": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.0
+        },
+        "M973EV3": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M592DW7": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M425AF8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M44AM8F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M34AK2D": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M58AY2L": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M636EG4": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M07AL6M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M595EN9": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M84AV6D": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M45AL5Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M99AU8V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 72.0
+        },
+        "M05AF7M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M27AX7F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M83AU8V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M48AN6T": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M01AF7G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M274FF4": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M465AN6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M88AS8X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M45AZ1F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M04AM6B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M84AW4Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M12AN6F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M78AJ4V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M939EZ2": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M46AJ2J": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M28AA1N": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M92AZ9S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M377AM7": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M51AK3D": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M56AP8V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M23BA6T": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M90AN7R": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M427DX5": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M98AS9S": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M14AP3H": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M31AG1P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M70AN6E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M10AY6K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M06AL3F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 80.0
+        },
+        "M26AP9G": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M31AX8A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M25AY1K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M43AY1K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M84AY1K": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M35BA2D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M20AS6H": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 20.2
+        },
+        "M02AC9J": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M378EP4": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M29AR2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M27AA9T": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M88AK4B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M71AH5Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M27AX7X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M35AH8K": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M05AL1A": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M9TND118": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M62AF5K": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.2
+        },
+        "M44AV5C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M76AK7T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M80AK6G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M17AM5B": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M47AX8V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M22AJ6S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M83AN4X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M05AZ6H": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M228DU6": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "M33AC2J": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M28AX7F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 66.0
+        },
+        "M75AR9Z": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M76AE9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 38.0
+        },
+        "M82AS9S": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M54AR3F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M429DX5": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M886AH1": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.08
+        },
+        "M839DY5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M84AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M236ES6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M40AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M95AP5B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M37AL4L": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M17AS3S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M09AP3B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M92AE9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M12AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M61AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M18AM9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M66AK7Z": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M35AZ2F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M38AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M156DF8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M22AU4T": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M02AE3D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 80.0
+        },
+        "M53AX7A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M675DX6": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M60AP2C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 52.0
+        },
+        "M220EY8": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.3
+        },
+        "M640DY2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M24AF1T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M73AN6R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M651DY2": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M09AY6K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M80AK8X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M27AR1P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M22BA6T": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M649ER2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M811DY5": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M180EV2": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M04AL1A": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M06AM2M": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M189ET8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M891AM6": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M99AX8F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M32AA8A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M031AU4": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M87AR4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M23AB1N": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M45AC5V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M049AP7": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M28AW2Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M85AF1B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M39AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M34AU8V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M78AW3X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 28.0
+        },
+        "M90AX4L": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M95AE7S": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.0
+        },
+        "M928AD6": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M97AR4F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M03AP8G": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M03AD4V": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M39AY4K": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M79AF6C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M64AK6F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M02BA6C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M95AP2C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M119DX2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M85AB6C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.7
+        },
+        "M65AB8D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M56AN8R": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M6TNE088": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M82AN7S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M81AN7S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M16AK7S": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M61AP6C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M91AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M70AN6R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M63AN9X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M51BA7C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M41AU4A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M771EV3": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 52.0
+        },
+        "M72FA9F": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M93AU6G": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M45AV6E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M74AE9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M07AY6K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M96AR9E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M76AN2D": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M9TND172": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M13AF3C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M24AJ2J": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "M48AF4H": {
+            "Type of Vehicle": "TORTON MANIOBRAS",
+            "Vehicle Capacity [tons]": 20.2
+        },
+        "M75AR9E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M04AU2W": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M675ES6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M088AG8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M073EW1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M8TNE075": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M6TNE096": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M3TNE125": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M01AJ7X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.0
+        },
+        "M310AG9": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.0
+        },
+        "M03AP7G": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M62AN9X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M24AU9S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M13UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M14UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M30UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M93UA9M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M296EE7": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M74AJ9G": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M54AL9S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M65AF6U": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 51.0
+        },
+        "M66AC8J": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M1TNF643": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "MUK70404": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M67AT5G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M97AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M492DV2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M36AZ2F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M71AU8F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M436DY3": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M78BA7K": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M38AU1C": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M41AZ4H": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M66UF1V": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M57AZ9S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M54AF6S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M19AY3L": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M46AP8L": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M16AU8V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M751DY2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M666DY4": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M1TNF650": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M94AU1G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M1UND142": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M65AU8V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M76AN5V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M46AF9A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M39AM6B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M449EW2": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M408DY3": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M045DU6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M77AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M66AH7F": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M59UF1V": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M64UF1V": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M68UF1V": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M62AJ2J": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M71AX7X": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M54AT8T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M47AC2J": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M53AC3U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M61AS9L": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M76AU8V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M29AW2Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M93AK4M": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M08AY6K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M914EX1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M8TNE100": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M84UJ2W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 72.0
+        },
+        "M906DV2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M86AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M80AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M75AP6C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M801ET9": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M37AL2P": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M94BA2R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M71UR2U": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 60.0
+        },
+        "M42AG1Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M24AK8Y": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M642DY2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M652DY2": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M6TNE128": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M07AP6C": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M05AU2W": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M39AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M41AG1Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M139EY7": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M81AM7B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M20AF4E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M76AZ8Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M33AK8F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M76AL4X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 61.0
+        },
+        "M06AU8D": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M43AD8Y": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M72AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 80.0
+        },
+        "M88AT9S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M42AT9S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M945EW6": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M323AG9": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M169EY8": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M171DW8": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.7
+        },
+        "M98AH8R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M95AP1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M75AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M874AM9": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M77AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M609DV1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M69AR9Z": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M78AT5B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M11AX3A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M74AX3A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M58UF1V": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M80AM1Y": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M594FE4": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M25AD5A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M56AJ2J": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M70AX2S": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M55AX4V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M508EZ2": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M59AY8D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M54AS8X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M96AW7Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M56AM2B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M18AA4R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M45AS6B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M370ET8": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M49AH8W": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M59AG9X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M76UH5M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 72.0
+        },
+        "M75AU1G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M44AM2H": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M36AY9S": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "MPROPIO": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 16.0
+        },
+        "M978DZ7": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M72AX7X": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M08UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M27AJ3T": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 48.0
+        },
+        "M64AB8D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M48AE3Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M84AJ7X": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M45AM8F": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M33AM9R": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M63AK3D": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M36AE6X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M62AN7Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M113EU5": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M191DV3": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M94AE5V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 54.0
+        },
+        "M61AE3Z": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M90AH7K": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M77UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 78.0
+        },
+        "M41AT3B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M334DV3": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M96AP9S": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M58AZ5T": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M57AZ4W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M96AZ4W": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M4TNF169": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M34AY2F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M729UF9": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M53AY2G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M90BB2D": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M17AY1K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M88AT3F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M51AP3H": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 48.0
+        },
+        "M984DG2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M21AP6F": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.0
+        },
+        "M44AJ2J": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M93AN5R": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M502EY8": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M90AC6G": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 16.0
+        },
+        "0008038670": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 16.0
+        },
+        "M13AM5V": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M64AE9W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M54AX5L": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M23AP9G": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M942DL2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M318ER8": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M07AF5E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M48AH8W": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 48.0
+        },
+        "0008037545": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M66AW2Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "0008001261": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M51AC3K": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M51AT4X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M48AE8E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M82AL7M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M61AZ5T": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M77AX1V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M33AW3Z": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M93AM4Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M23AY9K": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M38AX4W": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M46AK3A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M53AU8A": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.2
+        },
+        "M95AT2H": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M44AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M63AN7Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 80.0
+        },
+        "M80AA4W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M99AS8X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M37AZ4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M70AC4Z": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M61UL7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M82AX4L": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M37AJ2C": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M168EY8": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M78AH1P": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M05AH2X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 48.0
+        },
+        "M35AZ6R": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M99FA5G": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M55AM6B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M63AR9Z": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M78UJ3L": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M96AE8W": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M834AM9": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "M30AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M31AJ3T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M13AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M17AH6B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M64AK7Z": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M51AU4U": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M670EW1": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M73AS2M": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M720UN8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 72.0
+        },
+        "M21AF4E": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M619EU8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M24TY5L": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M94AP5B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M88AU1H": {
+            "Type of Vehicle": "PLATAFORMA 3E CAR",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M184WS3": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 72.0
+        },
+        "M61AH3R": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 21.2
+        },
+        "M70AU8F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M26AX4A": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 48.0
+        },
+        "MTOTP90052": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.0
+        },
+        "M470WG8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M99AU7V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M23AP9T": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 18.5
+        },
+        "M98AT8P": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 61.0
+        },
+        "M63AE5V": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M66AE3A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 61.0
+        },
+        "M391ET8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M75AN5V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M750AS9": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M75UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M61UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M32UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M39UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M87UA9M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M96UA9M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M42AT3B": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.0
+        },
+        "M33AS6M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M62AD5V": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M26UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M435UM4": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M60UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M86UA9M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M15UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M838XT4": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M90UA9M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M72UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M162XS9": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M72AD4A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M68AA1N": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M89AS4T": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.0
+        },
+        "M747AM9": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M15BA5V": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 49.5
+        },
+        "M42AL8A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M21BA6T": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 17.0
+        },
+        "M551ET4": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M45AJ2T": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M87AS4T": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "MEIHS70120": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M36AZ6R": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M11AH2X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M93UJ2M": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M76UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M90UF1T": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M79UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 72.0
+        },
+        "M084WV2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M33UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M17UE3F": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M845XT4": {
+            "Type of Vehicle": "PLATAFORMA 2 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M30AE1X": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M78BB4J": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "0008001223": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M40AK3A": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M209DV2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "0008040520": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 16.0
+        },
+        "M04AY9E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 35.0
+        },
+        "M974DV2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M42AJ6Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M935AK9": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M31UD8H": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 32.0
+        },
+        "M91AS1J": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M93AM1Y": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M37AP7G": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M88AP3B": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        },
+        "M75AL4X": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "M855XT2": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M973UM3": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M82AR5E": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 39.0
+        },
+        "M600FE4": {
+            "Type of Vehicle": "FULL ENVASADO",
+            "Vehicle Capacity [tons]": 50.0
+        },
+        "0008036680": {
+            "Type of Vehicle": "T\u00d3RTON",
+            "Vehicle Capacity [tons]": 16.0
+        },
+        "M539UR8": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 72.0
+        },
+        "M774DV3": {
+            "Type of Vehicle": "FULL CARGADO",
+            "Vehicle Capacity [tons]": 36.0
+        },
+        "M722YF7": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 30.0
+        },
+        "M28AE8W": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 37.0
+        },
+        "M76AX1V": {
+            "Type of Vehicle": "PLATAFORMA 3 EJES",
+            "Vehicle Capacity [tons]": 25.0
+        }
+    }
+}

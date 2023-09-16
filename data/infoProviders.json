@@ -1,1 +1,486 @@
-{"Inbound ARG": {"1003151": {"Origin": "LOMA NEGRA CIASA", "Latitude": -34.6065357305557, "Longitude": -58.3635762453279, "INCOTERMS": "CIP", "Material Code": 10057176, "Material": "CLINKER COMPRADO LOCAL"}, "1005225": {"Origin": "AES ARGENTINA GENERACION S.A.", "Latitude": -33.355578604017, "Longitude": -60.178687785736, "INCOTERMS": "FCA", "Material Code": 10000071, "Material": "CENIZA VOLANTE"}, "1000500": {"Origin": "TERNIUM ARGENTINA S A", "Latitude": -33.372366, "Longitude": -60.173321, "INCOTERMS": "FCA", "Material Code": 10030232, "Material": "BARROS DE ACERIA INDUSTRIAL Fe2O3>60%"}, "1000706": {"Origin": "SIKA ARGENTINA S.A.I.C.", "Latitude": -34.6026572698641, "Longitude": -58.5718893893286, "INCOTERMS": "CIP", "Material Code": 10062164, "Material": "T-TECTOR ADHESIVOS/IMPERMEABLE"}, "1010081": {"Origin": "KULKUKAN SA", "Latitude": -24.158658, "Longitude": -66.252193, "INCOTERMS": "FCA", "Material Code": 10000105, "Material": "PUZOLANA NATURAL SiO2 62% Al2O3 13%"}, "1005457": {"Origin": "ABRAHAM VICTOR JAVIER", "Latitude": -33.994825, "Longitude": -69.079585, "INCOTERMS": "FCA", "Material Code": 10000105, "Material": "PUZOLANA NATURAL SiO2 62% Al2O3 13%"}, "1008381": {"Origin": "MINERA CANADA ANCHA S.A.", "Latitude": -34.620186136741, "Longitude": -68.346358726736, "INCOTERMS": "CIP", "Material Code": 10055031, "Material": "YESO NAT SO3 30%-40% H2OCRIST>15% TRIT G"}, "1001079": {"Origin": "ACINDAR INDUSTRIA ARG.DE ACEROS S.A", "Latitude": -33.255267259651, "Longitude": -60.313729164306, "INCOTERMS": "FCA", "Material Code": 10051563, "Material": "LODOS DE REDI"}, "1009608": {"Origin": "MINERA J.C. PIERUCCI E HIJOS SRL", "Latitude": -38.863875, "Longitude": -67.764187, "INCOTERMS": "FCA", "Material Code": 10031320, "Material": "YESO NAT SO3 30%-40% H2O CRIST>15% TRIT"}, "1010815": {"Origin": "DERIVADOS VINICOS S.A.", "Latitude": -33.034739, "Longitude": -68.565139, "INCOTERMS": "FCA", "Material Code": 25002263, "Material": "CARBONILLA"}, "1002885": {"Origin": "LA PIPA S.R.L", "Latitude": -29.138443, "Longitude": -65.03623, "INCOTERMS": "CIP", "Material Code": 10000113, "Material": "YESO NAT SO3 30%-40% H2OCRIST>15% NO TR"}, "1008593": {"Origin": "DETOYO SA", "Latitude": -29.363859, "Longitude": -65.376167, "INCOTERMS": "FCA", "Material Code": 10000113, "Material": "YESO NAT SO3 30%-40% H2OCRIST>15% NO TR"}, "1011001": {"Origin": "SHERPA SERVICIOS MINEROS S.A.S.", "Latitude": -33.012251, "Longitude": -66.892769, "INCOTERMS": "FCA", "Material Code": 10000113, "Material": "YESO NAT SO3 30%-40% H2OCRIST>15% NO TR"}, "1010725": {"Origin": "GEMIGNANI MARIA ALEJANDRA", "Latitude": -31.430893, "Longitude": -64.187102, "INCOTERMS": "FCA", "Material Code": 10009418, "Material": "YESO SINT IND SO3 30%-40% H2O CRIST>20%"}, "1010764": {"Origin": "MAPEI ARGENTINA SA", "Latitude": -34.345752781261, "Longitude": -58.809652211498, "INCOTERMS": "CIP", "Material Code": 10064405, "Material": "T-TECTOR ADHESIVOS/FLEXIBLE"}, "1011517": {"Origin": "MERCADO DE MATERIALES DEL INTERIOR", "Latitude": -33.335853075499, "Longitude": -60.2129766624247, "INCOTERMS": "FCA", "Material Code": 10075448, "Material": "ARENA FINA"}, "1002047": {"Origin": "ACEITERA GENERAL DEHEZA S.A.", "Latitude": -32.588369651065, "Longitude": -68.6712638768399, "INCOTERMS": "FCA", "Material Code": 25003041, "Material": "AFSN RESIDUOS AGRICOLAS DE MOLIENDA DE M"}, "1009349": {"Origin": "TRANS ECOLOGICA S.A.", "Latitude": -38.7316984798499, "Longitude": -68.4031822013045, "INCOTERMS": "FCA", "Material Code": 25002263, "Material": "CARBONILLA"}}, "Inbound MEX": {"4301692": {"Origin": "RADO IMPORTACIONES SA DE CV", "Latitude": 26.9080378, "Longitude": -101.4215236, "INCOTERMS": "CIP", "Material Code": 22001320, "Material": "CARBON IN 6800-7000 KCAL;S0.98-1.2%"}, "4303301": {"Origin": "USG MEXICO SA DE CV", "Latitude": 20.6295586, "Longitude": -87.0738851, "INCOTERMS": "FCA", "Material Code": 10042037, "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"}, "4301239": {"Origin": "ZINC NACIONAL SA", "Latitude": 25.7493469, "Longitude": -100.2868973, "INCOTERMS": "FCA", "Material Code": 10042036, "Material": "MINERAL HIERRO INDUSTRIAL Fe2O3 50%-95%"}, "4310850": {"Origin": "SERV MA PRO SA DE CV", "Latitude": 19.2452342, "Longitude": -103.7240868, "INCOTERMS": "CIP", "Material Code": 10042054, "Material": "CALIZA LUTITA NATURAL CaO 5%-15%"}, "4303566": {"Origin": "MINERALES Y AGREGADOS DEL SURESTE S", "Latitude": 18.5082513828744, "Longitude": -89.393691445987, "INCOTERMS": "CIP", "Material Code": 10042037, "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"}, "4306956": {"Origin": "CONSTRUCTORA E INMOBILIARIA INGENIE", "Latitude": 19.7093740796971, "Longitude": -98.7799367788429, "INCOTERMS": "CIP", "Material Code": 10042038, "Material": "PUZOLANA NATURAL SiO2>70%"}, "4312420": {"Origin": "CANSECO OJEDA JANETH SUSANA", "Latitude": 18.8608694, "Longitude": -97.063289, "INCOTERMS": "CIP", "Material Code": 10042043, "Material": "ARCILLA CALCAREA NAT CaO>5% Al2O3>10-28%"}, "4310107": {"Origin": "OPEROMAC S A P I DE C V", "Latitude": 19.4306575, "Longitude": -99.2083953, "INCOTERMS": "FCA", "Material Code": 10042042, "Material": "ARENA SILICA NATURAL SiO2>95%"}, "4311308": {"Origin": "GRUPO EMPRESARIAL SIGEINO", "Latitude": 19.0414398, "Longitude": -98.2062727, "INCOTERMS": "FCA", "Material Code": 10042052, "Material": "ANHIDRITA NATURAL SO3>55% H2O CRIST<10%"}, "4312214": {"Origin": "DIETZA SA DE CV", "Latitude": 19.0414398, "Longitude": -98.2062727, "INCOTERMS": "CIP", "Material Code": 10052707, "Material": "ARENA NATURAL SiO2>65% Al2O3>12% ORIENT"}, "4302234": {"Origin": "VALDERRABANO URBINA ALVARO", "Latitude": 19.0414398, "Longitude": -98.2062727, "INCOTERMS": "CIP", "Material Code": 10052707, "Material": "ARENA NATURAL SiO2>65% Al2O3>12% ORIENT"}, "4300541": {"Origin": "YESO VERGARA SA DE CV", "Latitude": 18.5994413006736, "Longitude": -98.4702541134647, "INCOTERMS": "CIP", "Material Code": 10042037, "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"}, "4302233": {"Origin": "TRANSPORTE AGUABLANCA SA DE CV", "Latitude": 17.7607017, "Longitude": -92.5936096, "INCOTERMS": "CIP", "Material Code": 10042050, "Material": "ARENA SILICA NATURAL SiO2>65%<90%"}, "4309560": {"Origin": "MINERALES ARCILLOSOS 1919 SA DE CV", "Latitude": 20.1146976361471, "Longitude": -98.4186851233189, "INCOTERMS": "CIP", "Material Code": 10057764, "Material": "PUZOLANA NATURAL SiO2 74% Al2O3 13%"}, "CVE3": {"Origin": "Patio Ortiz", "Latitude": 19.050604362407, "Longitude": -96.4007489730528, "INCOTERMS": "FCA", "Material Code": 22000830, "Material": "PETCOKE S>7% OR HGI<35"}, "CGU0": {"Origin": "Guaymas", "Latitude": 27.9256069982002, "Longitude": -110.878395561679, "INCOTERMS": "FCA", "Material Code": 22000732, "Material": "PETCOKE S 5.5%-7% HGI 35-45"}, "4311642": {"Origin": "MINERA RAMOS SA DE CV", "Latitude": 27.8822402, "Longitude": -101.513999, "INCOTERMS": "CIP", "Material Code": 10045036, "Material": "FLUORITA NATURAL GRUESA < 2\" CaF2 > 80%"}, "4311974": {"Origin": "RIMAZEP SA DE CV", "Latitude": 20.5178271, "Longitude": -103.1826862, "INCOTERMS": "FCA", "Material Code": 10044032, "Material": "CAOLIN NATURAL SiO2>40% Al2O3 20%-45%"}, "4311643": {"Origin": "YESERA COLIMA SA DE CV", "Latitude": 18.9995683, "Longitude": -103.7364169, "INCOTERMS": "FCA", "Material Code": 10042052, "Material": "ANHIDRITA NATURAL SO3>55% H2O CRIST<10%"}, "4300500": {"Origin": "PRODUCTOS DE CONCRETO PENINSULARES", "Latitude": 20.9673702, "Longitude": -89.5925857, "INCOTERMS": "CIP", "Material Code": 10045687, "Material": "CALIZA ADQUIRIDA COMPRADA"}, "4308434": {"Origin": "ALARCON OLIVAR EULOGIO VICENTE", "Latitude": 18.5036585, "Longitude": -98.7536237, "INCOTERMS": "CIP", "Material Code": 10042037, "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"}, "4301513": {"Origin": "OVANDO ADAME ALFREDO", "Latitude": 16.8531086, "Longitude": -99.8236533, "INCOTERMS": "CIP", "Material Code": 10042037, "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"}, "4310426": {"Origin": "ARCELORMITTAL MEXICO S. A . DE C. V", "Latitude": 17.9402696339606, "Longitude": -102.208761005512, "INCOTERMS": "FCA", "Material Code": 10040410, "Material": "ESCORIA GRANULADA INDUSTRIAL Fe2O3>75%"}, "4310067": {"Origin": "PEMEX TRANSFORMACION INDUSTRIAL", "Latitude": 19.4306575, "Longitude": -99.2083953, "INCOTERMS": "FCA", "Material Code": 22000830, "Material": "PETCOKE S>7% OR HGI<35"}, "4306680": {"Origin": "PIGRAPOMEX SC DE RL", "Latitude": 19.0414398, "Longitude": -98.2062727, "INCOTERMS": "CIP", "Material Code": 10042036, "Material": "MINERAL HIERRO INDUSTRIAL Fe2O3 50%-95%"}, "4310475": {"Origin": "HUERTA CANCINO SABINO ANDRES", "Latitude": 18.8419420909058, "Longitude": -97.1440668871563, "INCOTERMS": "CIP", "Material Code": 10042043, "Material": "ARCILLA CALCAREA NAT CaO>5% Al2O3>10-28%"}, "CVE0": {"Origin": "Veracruz", "Latitude": 19.2083549667876, "Longitude": -96.1432482637587, "INCOTERMS": "FCA", "Material Code": 22000732, "Material": "PETCOKE S 5.5%-7% HGI 35-45"}, "CMA0": {"Origin": "Manzanillo", "Latitude": 19.0987206588171, "Longitude": -104.272874148153, "INCOTERMS": "FCA", "Material Code": 22000732, "Material": "PETCOKE S 5.5%-7% HGI 35-45"}, "4311234": {"Origin": "YESERA COMERCIAL SA", "Latitude": 25.6866142, "Longitude": -100.3161126, "INCOTERMS": "FCA", "Material Code": 10042037, "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"}, "4312057": {"Origin": "TRANSPORTACION TERRESTRE ESPECIALIZ", "Latitude": 20.9673702, "Longitude": -89.5925857, "INCOTERMS": "CIP", "Material Code": 10014716, "Material": "YESO NATURAL SO3>35%<50% H2O CRIST>15%"}, "4309499": {"Origin": "HOYOS MEDINA FRANCISCO", "Latitude": 29.0729673, "Longitude": -110.9559192, "INCOTERMS": "CIP", "Material Code": 10042038, "Material": "PUZOLANA NATURAL SiO2>70%"}, "4303398": {"Origin": "TA 2000 SA DE CV", "Latitude": 18.8608694, "Longitude": -97.063289, "INCOTERMS": "FCA", "Material Code": 10042036, "Material": "MINERAL HIERRO INDUSTRIAL Fe2O3 50%-95%"}, "4312208": {"Origin": "OCHOA MONROY MARCO ANTONIO", "Latitude": 18.8240000555723, "Longitude": -99.2348296530967, "INCOTERMS": "FCA", "Material Code": 10045036, "Material": "FLUORITA NATURAL GRUESA < 2\" CaF2 > 80%"}, "4312056": {"Origin": "CAPPI MINERIA SA DE CV", "Latitude": 25.7493469, "Longitude": -100.2868973, "INCOTERMS": "FCA", "Material Code": 10042037, "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"}, "4309169": {"Origin": "COMERCIALIZADORA DE METALES", "Latitude": 19.9727119, "Longitude": -99.1734048, "INCOTERMS": "FCA", "Material Code": 10042036, "Material": "MINERAL HIERRO INDUSTRIAL Fe2O3 50%-95%"}, "4312148": {"Origin": "MINERALES RIO ROMA SA DE CV", "Latitude": 21.9277923, "Longitude": -99.9856344, "INCOTERMS": "FCA", "Material Code": 10042037, "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"}, "4310115": {"Origin": "GARCIA GONZALEZ ISVI", "Latitude": 17.8814242, "Longitude": -94.9584672, "INCOTERMS": "FCA", "Material Code": 10042047, "Material": "MINERAL FIERRO NATURAL FINO Fe2O3>30<70%"}, "4311064": {"Origin": "TRANSPORTES DE VERACRUZ MAG SA DE C", "Latitude": 19.5562275, "Longitude": -99.2674713, "INCOTERMS": "CIP", "Material Code": 10042062, "Material": "ARCI LATERITA NAT Al2O3 20-27% Fe2O3>10%"}, "4311481": {"Origin": "DIAZ ZAMORA BLANCA MARIELA", "Latitude": 16.8531086, "Longitude": -99.8236533, "INCOTERMS": "CIP", "Material Code": 10042047, "Material": "MINERAL FIERRO NATURAL FINO Fe2O3>30<70%"}, "4306301": {"Origin": "MEXICHEM FLUOR COMERCIAL SA DE CV", "Latitude": 22.1564699, "Longitude": -100.9855409, "INCOTERMS": "FCA", "Material Code": 10042048, "Material": "ADITIVO F FINOS"}, "CVE1": {"Origin": "Mata Loma", "Latitude": 19.1379512115033, "Longitude": -96.2932258068375, "INCOTERMS": "FCA", "Material Code": 22000739, "Material": "CARBON 17.5-22.5GJ/T VM 45-36 S 3.5-1.5%"}, "CAL0": {"Origin": "Altamira", "Latitude": 22.466978, "Longitude": -97.934996, "INCOTERMS": "FCA", "Material Code": 22000732, "Material": "PETCOKE S 5.5%-7% HGI 35-45"}}}
+{
+    "Inbound ARG": {
+        "1003151": {
+            "Origin": "LOMA NEGRA CIASA",
+            "Latitude": -34.6065357305557,
+            "Longitude": -58.3635762453279,
+            "INCOTERMS": "CIP",
+            "Material Code": 10057176,
+            "Material": "CLINKER COMPRADO LOCAL"
+        },
+        "1005225": {
+            "Origin": "AES ARGENTINA GENERACION S.A.",
+            "Latitude": -33.355578604017,
+            "Longitude": -60.178687785736,
+            "INCOTERMS": "FCA",
+            "Material Code": 10000071,
+            "Material": "CENIZA VOLANTE"
+        },
+        "1000500": {
+            "Origin": "TERNIUM ARGENTINA S A",
+            "Latitude": -33.372366,
+            "Longitude": -60.173321,
+            "INCOTERMS": "FCA",
+            "Material Code": 10030232,
+            "Material": "BARROS DE ACERIA INDUSTRIAL Fe2O3>60%"
+        },
+        "1000706": {
+            "Origin": "SIKA ARGENTINA S.A.I.C.",
+            "Latitude": -34.6026572698641,
+            "Longitude": -58.5718893893286,
+            "INCOTERMS": "CIP",
+            "Material Code": 10062164,
+            "Material": "T-TECTOR ADHESIVOS/IMPERMEABLE"
+        },
+        "1010081": {
+            "Origin": "KULKUKAN SA",
+            "Latitude": -24.158658,
+            "Longitude": -66.252193,
+            "INCOTERMS": "FCA",
+            "Material Code": 10000105,
+            "Material": "PUZOLANA NATURAL SiO2 62% Al2O3 13%"
+        },
+        "1005457": {
+            "Origin": "ABRAHAM VICTOR JAVIER",
+            "Latitude": -33.994825,
+            "Longitude": -69.079585,
+            "INCOTERMS": "FCA",
+            "Material Code": 10000105,
+            "Material": "PUZOLANA NATURAL SiO2 62% Al2O3 13%"
+        },
+        "1008381": {
+            "Origin": "MINERA CANADA ANCHA S.A.",
+            "Latitude": -34.620186136741,
+            "Longitude": -68.346358726736,
+            "INCOTERMS": "CIP",
+            "Material Code": 10055031,
+            "Material": "YESO NAT SO3 30%-40% H2OCRIST>15% TRIT G"
+        },
+        "1001079": {
+            "Origin": "ACINDAR INDUSTRIA ARG.DE ACEROS S.A",
+            "Latitude": -33.255267259651,
+            "Longitude": -60.313729164306,
+            "INCOTERMS": "FCA",
+            "Material Code": 10051563,
+            "Material": "LODOS DE REDI"
+        },
+        "1009608": {
+            "Origin": "MINERA J.C. PIERUCCI E HIJOS SRL",
+            "Latitude": -38.863875,
+            "Longitude": -67.764187,
+            "INCOTERMS": "FCA",
+            "Material Code": 10031320,
+            "Material": "YESO NAT SO3 30%-40% H2O CRIST>15% TRIT"
+        },
+        "1010815": {
+            "Origin": "DERIVADOS VINICOS S.A.",
+            "Latitude": -33.034739,
+            "Longitude": -68.565139,
+            "INCOTERMS": "FCA",
+            "Material Code": 25002263,
+            "Material": "CARBONILLA"
+        },
+        "1002885": {
+            "Origin": "LA PIPA S.R.L",
+            "Latitude": -29.138443,
+            "Longitude": -65.03623,
+            "INCOTERMS": "CIP",
+            "Material Code": 10000113,
+            "Material": "YESO NAT SO3 30%-40% H2OCRIST>15% NO TR"
+        },
+        "1008593": {
+            "Origin": "DETOYO SA",
+            "Latitude": -29.363859,
+            "Longitude": -65.376167,
+            "INCOTERMS": "FCA",
+            "Material Code": 10000113,
+            "Material": "YESO NAT SO3 30%-40% H2OCRIST>15% NO TR"
+        },
+        "1011001": {
+            "Origin": "SHERPA SERVICIOS MINEROS S.A.S.",
+            "Latitude": -33.012251,
+            "Longitude": -66.892769,
+            "INCOTERMS": "FCA",
+            "Material Code": 10000113,
+            "Material": "YESO NAT SO3 30%-40% H2OCRIST>15% NO TR"
+        },
+        "1010725": {
+            "Origin": "GEMIGNANI MARIA ALEJANDRA",
+            "Latitude": -31.430893,
+            "Longitude": -64.187102,
+            "INCOTERMS": "FCA",
+            "Material Code": 10009418,
+            "Material": "YESO SINT IND SO3 30%-40% H2O CRIST>20%"
+        },
+        "1010764": {
+            "Origin": "MAPEI ARGENTINA SA",
+            "Latitude": -34.345752781261,
+            "Longitude": -58.809652211498,
+            "INCOTERMS": "CIP",
+            "Material Code": 10064405,
+            "Material": "T-TECTOR ADHESIVOS/FLEXIBLE"
+        },
+        "1011517": {
+            "Origin": "MERCADO DE MATERIALES DEL INTERIOR",
+            "Latitude": -33.335853075499,
+            "Longitude": -60.2129766624247,
+            "INCOTERMS": "FCA",
+            "Material Code": 10075448,
+            "Material": "ARENA FINA"
+        },
+        "1002047": {
+            "Origin": "ACEITERA GENERAL DEHEZA S.A.",
+            "Latitude": -32.588369651065,
+            "Longitude": -68.6712638768399,
+            "INCOTERMS": "FCA",
+            "Material Code": 25003041,
+            "Material": "AFSN RESIDUOS AGRICOLAS DE MOLIENDA DE M"
+        },
+        "1009349": {
+            "Origin": "TRANS ECOLOGICA S.A.",
+            "Latitude": -38.7316984798499,
+            "Longitude": -68.4031822013045,
+            "INCOTERMS": "FCA",
+            "Material Code": 25002263,
+            "Material": "CARBONILLA"
+        }
+    },
+    "Inbound MEX": {
+        "4301692": {
+            "Origin": "RADO IMPORTACIONES SA DE CV",
+            "Latitude": 26.9080378,
+            "Longitude": -101.4215236,
+            "INCOTERMS": "CIP",
+            "Material Code": 22001320,
+            "Material": "CARBON IN 6800-7000 KCAL;S0.98-1.2%"
+        },
+        "4303301": {
+            "Origin": "USG MEXICO SA DE CV",
+            "Latitude": 20.6295586,
+            "Longitude": -87.0738851,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042037,
+            "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"
+        },
+        "4301239": {
+            "Origin": "ZINC NACIONAL SA",
+            "Latitude": 25.7493469,
+            "Longitude": -100.2868973,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042036,
+            "Material": "MINERAL HIERRO INDUSTRIAL Fe2O3 50%-95%"
+        },
+        "4310850": {
+            "Origin": "SERV MA PRO SA DE CV",
+            "Latitude": 19.2452342,
+            "Longitude": -103.7240868,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042054,
+            "Material": "CALIZA LUTITA NATURAL CaO 5%-15%"
+        },
+        "4303566": {
+            "Origin": "MINERALES Y AGREGADOS DEL SURESTE S",
+            "Latitude": 18.5082513828744,
+            "Longitude": -89.393691445987,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042037,
+            "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"
+        },
+        "4306956": {
+            "Origin": "CONSTRUCTORA E INMOBILIARIA INGENIE",
+            "Latitude": 19.7093740796971,
+            "Longitude": -98.7799367788429,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042038,
+            "Material": "PUZOLANA NATURAL SiO2>70%"
+        },
+        "4312420": {
+            "Origin": "CANSECO OJEDA JANETH SUSANA",
+            "Latitude": 18.8608694,
+            "Longitude": -97.063289,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042043,
+            "Material": "ARCILLA CALCAREA NAT CaO>5% Al2O3>10-28%"
+        },
+        "4310107": {
+            "Origin": "OPEROMAC S A P I DE C V",
+            "Latitude": 19.4306575,
+            "Longitude": -99.2083953,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042042,
+            "Material": "ARENA SILICA NATURAL SiO2>95%"
+        },
+        "4311308": {
+            "Origin": "GRUPO EMPRESARIAL SIGEINO",
+            "Latitude": 19.0414398,
+            "Longitude": -98.2062727,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042052,
+            "Material": "ANHIDRITA NATURAL SO3>55% H2O CRIST<10%"
+        },
+        "4312214": {
+            "Origin": "DIETZA SA DE CV",
+            "Latitude": 19.0414398,
+            "Longitude": -98.2062727,
+            "INCOTERMS": "CIP",
+            "Material Code": 10052707,
+            "Material": "ARENA NATURAL SiO2>65% Al2O3>12% ORIENT"
+        },
+        "4302234": {
+            "Origin": "VALDERRABANO URBINA ALVARO",
+            "Latitude": 19.0414398,
+            "Longitude": -98.2062727,
+            "INCOTERMS": "CIP",
+            "Material Code": 10052707,
+            "Material": "ARENA NATURAL SiO2>65% Al2O3>12% ORIENT"
+        },
+        "4300541": {
+            "Origin": "YESO VERGARA SA DE CV",
+            "Latitude": 18.5994413006736,
+            "Longitude": -98.4702541134647,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042037,
+            "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"
+        },
+        "4302233": {
+            "Origin": "TRANSPORTE AGUABLANCA SA DE CV",
+            "Latitude": 17.7607017,
+            "Longitude": -92.5936096,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042050,
+            "Material": "ARENA SILICA NATURAL SiO2>65%<90%"
+        },
+        "4309560": {
+            "Origin": "MINERALES ARCILLOSOS 1919 SA DE CV",
+            "Latitude": 20.1146976361471,
+            "Longitude": -98.4186851233189,
+            "INCOTERMS": "CIP",
+            "Material Code": 10057764,
+            "Material": "PUZOLANA NATURAL SiO2 74% Al2O3 13%"
+        },
+        "CVE3": {
+            "Origin": "Patio Ortiz",
+            "Latitude": 19.050604362407,
+            "Longitude": -96.4007489730528,
+            "INCOTERMS": "FCA",
+            "Material Code": 22000830,
+            "Material": "PETCOKE S>7% OR HGI<35"
+        },
+        "CGU0": {
+            "Origin": "Guaymas",
+            "Latitude": 27.9256069982002,
+            "Longitude": -110.878395561679,
+            "INCOTERMS": "FCA",
+            "Material Code": 22000732,
+            "Material": "PETCOKE S 5.5%-7% HGI 35-45"
+        },
+        "4311642": {
+            "Origin": "MINERA RAMOS SA DE CV",
+            "Latitude": 27.8822402,
+            "Longitude": -101.513999,
+            "INCOTERMS": "CIP",
+            "Material Code": 10045036,
+            "Material": "FLUORITA NATURAL GRUESA < 2\" CaF2 > 80%"
+        },
+        "4311974": {
+            "Origin": "RIMAZEP SA DE CV",
+            "Latitude": 20.5178271,
+            "Longitude": -103.1826862,
+            "INCOTERMS": "FCA",
+            "Material Code": 10044032,
+            "Material": "CAOLIN NATURAL SiO2>40% Al2O3 20%-45%"
+        },
+        "4311643": {
+            "Origin": "YESERA COLIMA SA DE CV",
+            "Latitude": 18.9995683,
+            "Longitude": -103.7364169,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042052,
+            "Material": "ANHIDRITA NATURAL SO3>55% H2O CRIST<10%"
+        },
+        "4300500": {
+            "Origin": "PRODUCTOS DE CONCRETO PENINSULARES",
+            "Latitude": 20.9673702,
+            "Longitude": -89.5925857,
+            "INCOTERMS": "CIP",
+            "Material Code": 10045687,
+            "Material": "CALIZA ADQUIRIDA COMPRADA"
+        },
+        "4308434": {
+            "Origin": "ALARCON OLIVAR EULOGIO VICENTE",
+            "Latitude": 18.5036585,
+            "Longitude": -98.7536237,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042037,
+            "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"
+        },
+        "4301513": {
+            "Origin": "OVANDO ADAME ALFREDO",
+            "Latitude": 16.8531086,
+            "Longitude": -99.8236533,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042037,
+            "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"
+        },
+        "4310426": {
+            "Origin": "ARCELORMITTAL MEXICO S. A . DE C. V",
+            "Latitude": 17.9402696339606,
+            "Longitude": -102.208761005512,
+            "INCOTERMS": "FCA",
+            "Material Code": 10040410,
+            "Material": "ESCORIA GRANULADA INDUSTRIAL Fe2O3>75%"
+        },
+        "4310067": {
+            "Origin": "PEMEX TRANSFORMACION INDUSTRIAL",
+            "Latitude": 19.4306575,
+            "Longitude": -99.2083953,
+            "INCOTERMS": "FCA",
+            "Material Code": 22000830,
+            "Material": "PETCOKE S>7% OR HGI<35"
+        },
+        "4306680": {
+            "Origin": "PIGRAPOMEX SC DE RL",
+            "Latitude": 19.0414398,
+            "Longitude": -98.2062727,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042036,
+            "Material": "MINERAL HIERRO INDUSTRIAL Fe2O3 50%-95%"
+        },
+        "4310475": {
+            "Origin": "HUERTA CANCINO SABINO ANDRES",
+            "Latitude": 18.8419420909058,
+            "Longitude": -97.1440668871563,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042043,
+            "Material": "ARCILLA CALCAREA NAT CaO>5% Al2O3>10-28%"
+        },
+        "CVE0": {
+            "Origin": "Veracruz",
+            "Latitude": 19.2083549667876,
+            "Longitude": -96.1432482637587,
+            "INCOTERMS": "FCA",
+            "Material Code": 22000732,
+            "Material": "PETCOKE S 5.5%-7% HGI 35-45"
+        },
+        "CMA0": {
+            "Origin": "Manzanillo",
+            "Latitude": 19.0987206588171,
+            "Longitude": -104.272874148153,
+            "INCOTERMS": "FCA",
+            "Material Code": 22000732,
+            "Material": "PETCOKE S 5.5%-7% HGI 35-45"
+        },
+        "4311234": {
+            "Origin": "YESERA COMERCIAL SA",
+            "Latitude": 25.6866142,
+            "Longitude": -100.3161126,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042037,
+            "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"
+        },
+        "4312057": {
+            "Origin": "TRANSPORTACION TERRESTRE ESPECIALIZ",
+            "Latitude": 20.9673702,
+            "Longitude": -89.5925857,
+            "INCOTERMS": "CIP",
+            "Material Code": 10014716,
+            "Material": "YESO NATURAL SO3>35%<50% H2O CRIST>15%"
+        },
+        "4309499": {
+            "Origin": "HOYOS MEDINA FRANCISCO",
+            "Latitude": 29.0729673,
+            "Longitude": -110.9559192,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042038,
+            "Material": "PUZOLANA NATURAL SiO2>70%"
+        },
+        "4303398": {
+            "Origin": "TA 2000 SA DE CV",
+            "Latitude": 18.8608694,
+            "Longitude": -97.063289,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042036,
+            "Material": "MINERAL HIERRO INDUSTRIAL Fe2O3 50%-95%"
+        },
+        "4312208": {
+            "Origin": "OCHOA MONROY MARCO ANTONIO",
+            "Latitude": 18.8240000555723,
+            "Longitude": -99.2348296530967,
+            "INCOTERMS": "FCA",
+            "Material Code": 10045036,
+            "Material": "FLUORITA NATURAL GRUESA < 2\" CaF2 > 80%"
+        },
+        "4312056": {
+            "Origin": "CAPPI MINERIA SA DE CV",
+            "Latitude": 25.7493469,
+            "Longitude": -100.2868973,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042037,
+            "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"
+        },
+        "4309169": {
+            "Origin": "COMERCIALIZADORA DE METALES",
+            "Latitude": 19.9727119,
+            "Longitude": -99.1734048,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042036,
+            "Material": "MINERAL HIERRO INDUSTRIAL Fe2O3 50%-95%"
+        },
+        "4312148": {
+            "Origin": "MINERALES RIO ROMA SA DE CV",
+            "Latitude": 21.9277923,
+            "Longitude": -99.9856344,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042037,
+            "Material": "YESO NATURAL SO3>40%<55% H2O CRIST>15%"
+        },
+        "4310115": {
+            "Origin": "GARCIA GONZALEZ ISVI",
+            "Latitude": 17.8814242,
+            "Longitude": -94.9584672,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042047,
+            "Material": "MINERAL FIERRO NATURAL FINO Fe2O3>30<70%"
+        },
+        "4311064": {
+            "Origin": "TRANSPORTES DE VERACRUZ MAG SA DE C",
+            "Latitude": 19.5562275,
+            "Longitude": -99.2674713,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042062,
+            "Material": "ARCI LATERITA NAT Al2O3 20-27% Fe2O3>10%"
+        },
+        "4311481": {
+            "Origin": "DIAZ ZAMORA BLANCA MARIELA",
+            "Latitude": 16.8531086,
+            "Longitude": -99.8236533,
+            "INCOTERMS": "CIP",
+            "Material Code": 10042047,
+            "Material": "MINERAL FIERRO NATURAL FINO Fe2O3>30<70%"
+        },
+        "4306301": {
+            "Origin": "MEXICHEM FLUOR COMERCIAL SA DE CV",
+            "Latitude": 22.1564699,
+            "Longitude": -100.9855409,
+            "INCOTERMS": "FCA",
+            "Material Code": 10042048,
+            "Material": "ADITIVO F FINOS"
+        },
+        "CVE1": {
+            "Origin": "Mata Loma",
+            "Latitude": 19.1379512115033,
+            "Longitude": -96.2932258068375,
+            "INCOTERMS": "FCA",
+            "Material Code": 22000739,
+            "Material": "CARBON 17.5-22.5GJ/T VM 45-36 S 3.5-1.5%"
+        },
+        "CAL0": {
+            "Origin": "Altamira",
+            "Latitude": 22.466978,
+            "Longitude": -97.934996,
+            "INCOTERMS": "FCA",
+            "Material Code": 22000732,
+            "Material": "PETCOKE S 5.5%-7% HGI 35-45"
+        }
+    }
+}

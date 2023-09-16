@@ -1,0 +1,5214 @@
+{
+    "Outbound ARG": {
+        "1CAD05": {
+            "Route": "AR  CA-SAN LUIS",
+            "Plant": "ACA0",
+            "Client Code": 1455156,
+            "Distance [km]": 271,
+            "Freight Cost Per Ton [$/ton]": 4726.093918918919
+        },
+        "1CAD07": {
+            "Route": "AR  CA-MERCEDES",
+            "Plant": "ACA0",
+            "Client Code": 1456083,
+            "Distance [km]": 367,
+            "Freight Cost Per Ton [$/ton]": 6739.567083333332
+        },
+        "1CAD13": {
+            "Route": "AR CA-TILISARAO",
+            "Plant": "ACA0",
+            "Client Code": 1457403,
+            "Distance [km]": 412,
+            "Freight Cost Per Ton [$/ton]": 7425.473333333332
+        },
+        "1CAJ01": {
+            "Route": "AR  CA-CAUCETE",
+            "Plant": "ACA0",
+            "Client Code": 1457164,
+            "Distance [km]": 185,
+            "Freight Cost Per Ton [$/ton]": 3254.6299999999997
+        },
+        "1CAJ03": {
+            "Route": "AR  CA-SAN JUAN",
+            "Plant": "ACA0",
+            "Client Code": 1415148,
+            "Distance [km]": 170,
+            "Freight Cost Per Ton [$/ton]": 3300.1932653061226
+        },
+        "1CAJ04": {
+            "Route": "AR  CA-VILLA MEDIA AGUA",
+            "Plant": "ACA0",
+            "Client Code": 1460041,
+            "Distance [km]": 135,
+            "Freight Cost Per Ton [$/ton]": 4553.38
+        },
+        "1CAJ06": {
+            "Route": "AR CA-BARREAL",
+            "Plant": "ACA0",
+            "Client Code": 1456619,
+            "Distance [km]": 256,
+            "Freight Cost Per Ton [$/ton]": 5918.027222222223
+        },
+        "1CAJ07": {
+            "Route": "AR CA-S.A.DEL VALLE FERTIL",
+            "Plant": "ACA0",
+            "Client Code": 1453902,
+            "Distance [km]": 397,
+            "Freight Cost Per Ton [$/ton]": 8383.987777777778
+        },
+        "1CAJ19": {
+            "Route": "AR CA-CIENAGUITA",
+            "Plant": "ACA0",
+            "Client Code": 1455781,
+            "Distance [km]": 155,
+            "Freight Cost Per Ton [$/ton]": 4710.04
+        },
+        "1CAL01": {
+            "Route": "AR  CA-25 DE MAYO",
+            "Plant": "ACA0",
+            "Client Code": 1458353,
+            "Distance [km]": 812,
+            "Freight Cost Per Ton [$/ton]": 14582.438
+        },
+        "1CAL05": {
+            "Route": "AR  CA-SANTA ROSA LP",
+            "Plant": "ACA0",
+            "Client Code": 1454520,
+            "Distance [km]": 775,
+            "Freight Cost Per Ton [$/ton]": 11959.915714285715
+        },
+        "1CAM02": {
+            "Route": "AR  CA-GRAL.ALVEAR",
+            "Plant": "ACA0",
+            "Client Code": 1426984,
+            "Distance [km]": 339,
+            "Freight Cost Per Ton [$/ton]": 6184.760967741935
+        },
+        "1CAM03": {
+            "Route": "AR  CA-MAIPU",
+            "Plant": "ACA0",
+            "Client Code": 1451227,
+            "Distance [km]": 38,
+            "Freight Cost Per Ton [$/ton]": 1212.7195652173914
+        },
+        "1CAM04": {
+            "Route": "AR  CA-MALARGUE",
+            "Plant": "ACA0",
+            "Client Code": 1405158,
+            "Distance [km]": 354,
+            "Freight Cost Per Ton [$/ton]": 6268.79
+        },
+        "1CAM05": {
+            "Route": "AR  CA-MENDOZA",
+            "Plant": "ACA0",
+            "Client Code": 1402306,
+            "Distance [km]": 25,
+            "Freight Cost Per Ton [$/ton]": 1141.5273333333332
+        },
+        "1CAM06": {
+            "Route": "AR  CA-RIVADAVIA",
+            "Plant": "ACA0",
+            "Client Code": 1452154,
+            "Distance [km]": 81,
+            "Freight Cost Per Ton [$/ton]": 1694.795
+        },
+        "1CAM07": {
+            "Route": "AR  CA-SAN MARTIN MZ",
+            "Plant": "ACA0",
+            "Client Code": 1403180,
+            "Distance [km]": 63,
+            "Freight Cost Per Ton [$/ton]": 1703.8300000000002
+        },
+        "1CAM08": {
+            "Route": "AR  CA-SAN RAFAEL",
+            "Plant": "ACA0",
+            "Client Code": 1459719,
+            "Distance [km]": 251,
+            "Freight Cost Per Ton [$/ton]": 4779.102916666667
+        },
+        "1CAM10": {
+            "Route": "AR  CA-TUNUYAN",
+            "Plant": "ACA0",
+            "Client Code": 1459121,
+            "Distance [km]": 103,
+            "Freight Cost Per Ton [$/ton]": 2080.7008333333333
+        },
+        "1CAM11": {
+            "Route": "AR  CA-LAS HERAS",
+            "Plant": "ACA0",
+            "Client Code": 1417380,
+            "Distance [km]": 15,
+            "Freight Cost Per Ton [$/ton]": 947.8873809523809
+        },
+        "1CAM12": {
+            "Route": "AR  CA-GODOY CRUZ",
+            "Plant": "ACA0",
+            "Client Code": 1457405,
+            "Distance [km]": 33,
+            "Freight Cost Per Ton [$/ton]": 1315.4376543209876
+        },
+        "1CAM13": {
+            "Route": "AR  CA-GUAYMALLEN",
+            "Plant": "ACA0",
+            "Client Code": 1455092,
+            "Distance [km]": 33,
+            "Freight Cost Per Ton [$/ton]": 1504.6332835820895
+        },
+        "1CAM14": {
+            "Route": "AR  CA-LUJAN DE CUYO",
+            "Plant": "ACA0",
+            "Client Code": 1456152,
+            "Distance [km]": 41,
+            "Freight Cost Per Ton [$/ton]": 1460.056842105263
+        },
+        "1CAM20": {
+            "Route": "AR CA - TUPUNGATO",
+            "Plant": "ACA0",
+            "Client Code": 1412137,
+            "Distance [km]": 98,
+            "Freight Cost Per Ton [$/ton]": 2294.661111111111
+        },
+        "1CAM29": {
+            "Route": "AR  CA-VISTA FLORES",
+            "Plant": "ACA0",
+            "Client Code": 1453801,
+            "Distance [km]": 139,
+            "Freight Cost Per Ton [$/ton]": 2449.2633333333333
+        },
+        "1CAM37": {
+            "Route": "AR  CA-JUNIN (Mza)",
+            "Plant": "ACA0",
+            "Client Code": 1451275,
+            "Distance [km]": 73,
+            "Freight Cost Per Ton [$/ton]": 1830.88
+        },
+        "1CAM49": {
+            "Route": "AR  CA-LAS AVISPAS",
+            "Plant": "ACA0",
+            "Client Code": 1453781,
+            "Distance [km]": 65,
+            "Freight Cost Per Ton [$/ton]": 2346.32
+        },
+        "1CAQ02": {
+            "Route": "AR  CA-NEUQUEN",
+            "Plant": "ACA0",
+            "Client Code": 1455320,
+            "Distance [km]": 822,
+            "Freight Cost Per Ton [$/ton]": 14727.911242937853
+        },
+        "1CAQ03": {
+            "Route": "AR  CA-RINCON DE LOS SAUCES",
+            "Plant": "ACA0",
+            "Client Code": 1455692,
+            "Distance [km]": 955,
+            "Freight Cost Per Ton [$/ton]": 13103.224
+        },
+        "1CAQ05": {
+            "Route": "AR  CA-ZAPALA",
+            "Plant": "ACA0",
+            "Client Code": 1460037,
+            "Distance [km]": 978,
+            "Freight Cost Per Ton [$/ton]": 15858.646666666667
+        },
+        "1CAQ08": {
+            "Route": "AR  CA-A\u00d1ELO",
+            "Plant": "ACA0",
+            "Client Code": 1458489,
+            "Distance [km]": 879,
+            "Freight Cost Per Ton [$/ton]": 15839.328
+        },
+        "1CAR01": {
+            "Route": "AR  CA-CATRIEL",
+            "Plant": "ACA0",
+            "Client Code": 1459461,
+            "Distance [km]": 687,
+            "Freight Cost Per Ton [$/ton]": 13598.057777777778
+        },
+        "1CAR04": {
+            "Route": "AR  CA-SAN CARLOS DE BARILOCHE",
+            "Plant": "ACA0",
+            "Client Code": 1455668,
+            "Distance [km]": 1261,
+            "Freight Cost Per Ton [$/ton]": 18101.97857142857
+        },
+        "1CAR06": {
+            "Route": "AR CA- ALLEN",
+            "Plant": "ACA0",
+            "Client Code": 1460081,
+            "Distance [km]": 857,
+            "Freight Cost Per Ton [$/ton]": 20608.44
+        },
+        "1CAR07": {
+            "Route": "AR CA- EL BOLSON",
+            "Plant": "ACA0",
+            "Client Code": 1455631,
+            "Distance [km]": 1373,
+            "Freight Cost Per Ton [$/ton]": 21303.46416666667
+        },
+        "1CAR08": {
+            "Route": "AR  CA-CIPOLLETTI",
+            "Plant": "ACA0",
+            "Client Code": 1460248,
+            "Distance [km]": 817,
+            "Freight Cost Per Ton [$/ton]": 16209.44
+        },
+        "1CM-MG": {
+            "Route": "AR  CM-PLANTA MG / YO",
+            "Plant": "ACM0",
+            "Client Code": "AMG0",
+            "Distance [km]": 636,
+            "Freight Cost Per Ton [$/ton]": 6858.7225
+        },
+        "1CMB02": {
+            "Route": "AR  CM-CAMPANA",
+            "Plant": "ACM0",
+            "Client Code": 1451996,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 761.81
+        },
+        "1CMB04": {
+            "Route": "AR  CM-CHACABUCO",
+            "Plant": "ACM0",
+            "Client Code": 1460097,
+            "Distance [km]": 174,
+            "Freight Cost Per Ton [$/ton]": 2869.24
+        },
+        "1CMB06": {
+            "Route": "AR  CM-FLORENCIO VARELA",
+            "Plant": "ACM0",
+            "Client Code": 1402823,
+            "Distance [km]": 121,
+            "Freight Cost Per Ton [$/ton]": 2788.6479069767443
+        },
+        "1CMB07": {
+            "Route": "AR  CM-JUNIN",
+            "Plant": "ACM0",
+            "Client Code": 1454524,
+            "Distance [km]": 228,
+            "Freight Cost Per Ton [$/ton]": 3615.2749999999996
+        },
+        "1CMB08": {
+            "Route": "AR  CM-LA PLATA",
+            "Plant": "ACM0",
+            "Client Code": 1408427,
+            "Distance [km]": 152,
+            "Freight Cost Per Ton [$/ton]": 2888.873076923077
+        },
+        "1CMB09": {
+            "Route": "AR  CM-LINCOLN",
+            "Plant": "ACM0",
+            "Client Code": 1456458,
+            "Distance [km]": 299,
+            "Freight Cost Per Ton [$/ton]": 3718.96
+        },
+        "1CMB14": {
+            "Route": "AR  CM-PERGAMINO",
+            "Plant": "ACM0",
+            "Client Code": 1401749,
+            "Distance [km]": 200,
+            "Freight Cost Per Ton [$/ton]": 2800.1660975609757
+        },
+        "1CMB15": {
+            "Route": "AR  CM-PILAR",
+            "Plant": "ACM0",
+            "Client Code": 1404066,
+            "Distance [km]": 33,
+            "Freight Cost Per Ton [$/ton]": 1585.073484848485
+        },
+        "1CMB16": {
+            "Route": "AR  CM-SAN ISIDRO",
+            "Plant": "ACM0",
+            "Client Code": 1405121,
+            "Distance [km]": 51,
+            "Freight Cost Per Ton [$/ton]": 1491.4026315789474
+        },
+        "1CMB17": {
+            "Route": "AR  CM-SAN JUSTO BA",
+            "Plant": "ACM0",
+            "Client Code": 1450858,
+            "Distance [km]": 74,
+            "Freight Cost Per Ton [$/ton]": 1445.9189655172415
+        },
+        "1CMB18": {
+            "Route": "AR  CM-SAN NICOLAS DE LOS ARROYOS",
+            "Plant": "ACM0",
+            "Client Code": 1406168,
+            "Distance [km]": 159,
+            "Freight Cost Per Ton [$/ton]": 1909.34
+        },
+        "1CMB20": {
+            "Route": "AR  CM-TRENQUE LAUQUEN",
+            "Plant": "ACM0",
+            "Client Code": 1460122,
+            "Distance [km]": 447,
+            "Freight Cost Per Ton [$/ton]": 6300.0
+        },
+        "1CMB21": {
+            "Route": "AR  CM-ZARATE",
+            "Plant": "ACM0",
+            "Client Code": 1458480,
+            "Distance [km]": 16,
+            "Freight Cost Per Ton [$/ton]": 1070.2371428571428
+        },
+        "1CMB23": {
+            "Route": "AR  CM-TIGRE",
+            "Plant": "ACM0",
+            "Client Code": 1427903,
+            "Distance [km]": 59,
+            "Freight Cost Per Ton [$/ton]": 1280.444
+        },
+        "1CMB24": {
+            "Route": "AR  CM-AVELLANEDA",
+            "Plant": "ACM0",
+            "Client Code": 1412775,
+            "Distance [km]": 87,
+            "Freight Cost Per Ton [$/ton]": 1466.3899999999999
+        },
+        "1CMB25": {
+            "Route": "AR  CM-QUILMES",
+            "Plant": "ACM0",
+            "Client Code": 1459765,
+            "Distance [km]": 104,
+            "Freight Cost Per Ton [$/ton]": 1957.07
+        },
+        "1CMB26": {
+            "Route": "AR  CM-LA TABLADA",
+            "Plant": "ACM0",
+            "Client Code": 1455232,
+            "Distance [km]": 87,
+            "Freight Cost Per Ton [$/ton]": 1644.1225
+        },
+        "1CMB31": {
+            "Route": "AR  CM-CHASCOMUS",
+            "Plant": "ACM0",
+            "Client Code": 1457622,
+            "Distance [km]": 204,
+            "Freight Cost Per Ton [$/ton]": 5014.2
+        },
+        "1CMB33": {
+            "Route": "AR  CM-BRAGADO",
+            "Plant": "ACM0",
+            "Client Code": 1456251,
+            "Distance [km]": 210,
+            "Freight Cost Per Ton [$/ton]": 2929.02
+        },
+        "1CMB35": {
+            "Route": "AR  CM-9 DE JULIO",
+            "Plant": "ACM0",
+            "Client Code": 1460114,
+            "Distance [km]": 255,
+            "Freight Cost Per Ton [$/ton]": 3800.0
+        },
+        "1CMB37": {
+            "Route": "AR  CM-ROJAS",
+            "Plant": "ACM0",
+            "Client Code": 1459613,
+            "Distance [km]": 206,
+            "Freight Cost Per Ton [$/ton]": 3378.25
+        },
+        "1CMB38": {
+            "Route": "AR  CM-CARLOS TEJEDOR",
+            "Plant": "ACM0",
+            "Client Code": 1460111,
+            "Distance [km]": 435,
+            "Freight Cost Per Ton [$/ton]": 4400.0
+        },
+        "1CMB40": {
+            "Route": "AR  CM-DOLORES",
+            "Plant": "ACM0",
+            "Client Code": 1459932,
+            "Distance [km]": 296,
+            "Freight Cost Per Ton [$/ton]": 4804.04
+        },
+        "1CMB45": {
+            "Route": "AR CM- MORENO",
+            "Plant": "ACM0",
+            "Client Code": 1459484,
+            "Distance [km]": 60,
+            "Freight Cost Per Ton [$/ton]": 1452.3320833333335
+        },
+        "1CMB48": {
+            "Route": "AR CM - SAN  PEDRO",
+            "Plant": "ACM0",
+            "Client Code": 1401661,
+            "Distance [km]": 95,
+            "Freight Cost Per Ton [$/ton]": 1574.4499999999998
+        },
+        "1CMB51": {
+            "Route": "AR CAMPANA - PACHECO",
+            "Plant": "ACM0",
+            "Client Code": 1460004,
+            "Distance [km]": 54,
+            "Freight Cost Per Ton [$/ton]": 951.4799999999999
+        },
+        "1CMB53": {
+            "Route": "AR CM- SAN MARTIN BA",
+            "Plant": "ACM0",
+            "Client Code": 1425481,
+            "Distance [km]": 75,
+            "Freight Cost Per Ton [$/ton]": 1611.3806818181818
+        },
+        "1CMB54": {
+            "Route": "AR CM- COLON BA",
+            "Plant": "ACM0",
+            "Client Code": 1419236,
+            "Distance [km]": 227,
+            "Freight Cost Per Ton [$/ton]": 3104.0612499999997
+        },
+        "1CMB56": {
+            "Route": "AR CM- OLAVARRIA BA",
+            "Plant": "ACM0",
+            "Client Code": 1460108,
+            "Distance [km]": 430,
+            "Freight Cost Per Ton [$/ton]": 7207.19
+        },
+        "1CMB58": {
+            "Route": "AR CM-LOMAS DE ZAMORA",
+            "Plant": "ACM0",
+            "Client Code": 1459134,
+            "Distance [km]": 98,
+            "Freight Cost Per Ton [$/ton]": 1720.6652727272726
+        },
+        "1CMB60": {
+            "Route": "AR  CM-CORONEL PRINGLES",
+            "Plant": "ACM0",
+            "Client Code": 1460099,
+            "Distance [km]": 599,
+            "Freight Cost Per Ton [$/ton]": 8106.53
+        },
+        "1CMB67": {
+            "Route": "AR  CM-SAN MIGUEL DEL MONTE",
+            "Plant": "ACM0",
+            "Client Code": 1459303,
+            "Distance [km]": 173,
+            "Freight Cost Per Ton [$/ton]": 3100.773333333333
+        },
+        "1CMB68": {
+            "Route": "AR  CM-LAFERRERE",
+            "Plant": "ACM0",
+            "Client Code": 1459338,
+            "Distance [km]": 81,
+            "Freight Cost Per Ton [$/ton]": 1432.9214285714286
+        },
+        "1CMB69": {
+            "Route": "AR CM-RAMALLO",
+            "Plant": "ACM0",
+            "Client Code": 1459513,
+            "Distance [km]": 134,
+            "Freight Cost Per Ton [$/ton]": 2331.3466666666664
+        },
+        "1CMB71": {
+            "Route": "AR CM-BURZACO",
+            "Plant": "ACM0",
+            "Client Code": 1415392,
+            "Distance [km]": 104,
+            "Freight Cost Per Ton [$/ton]": 1815.1923076923076
+        },
+        "1CMB73": {
+            "Route": "AR CM-TRES ARROYOS",
+            "Plant": "ACM0",
+            "Client Code": 1460119,
+            "Distance [km]": 592,
+            "Freight Cost Per Ton [$/ton]": 9100.0
+        },
+        "1CMB74": {
+            "Route": "AR CM-VERONICA",
+            "Plant": "ACM0",
+            "Client Code": 1459634,
+            "Distance [km]": 227,
+            "Freight Cost Per Ton [$/ton]": 5255.198888888889
+        },
+        "1CMB76": {
+            "Route": "AR CAMPANA - BERISSO",
+            "Plant": "ACM0",
+            "Client Code": 1459596,
+            "Distance [km]": 148,
+            "Freight Cost Per Ton [$/ton]": 2439.366
+        },
+        "1CMB84": {
+            "Route": "AR CM - BOLIVAR",
+            "Plant": "ACM0",
+            "Client Code": 1460098,
+            "Distance [km]": 402,
+            "Freight Cost Per Ton [$/ton]": 5000.0
+        },
+        "1CMB85": {
+            "Route": "AR CM-CARMEN DE ARECO",
+            "Plant": "ACM0",
+            "Client Code": 1456156,
+            "Distance [km]": 108,
+            "Freight Cost Per Ton [$/ton]": 1763.7725
+        },
+        "1CMB88": {
+            "Route": "AR CM - MAGDALENA",
+            "Plant": "ACM0",
+            "Client Code": 1458802,
+            "Distance [km]": 192,
+            "Freight Cost Per Ton [$/ton]": 4180.06
+        },
+        "1CMB89": {
+            "Route": "AR CM - MONTE GRANDE",
+            "Plant": "ACM0",
+            "Client Code": 1404603,
+            "Distance [km]": 106,
+            "Freight Cost Per Ton [$/ton]": 1861.5149999999999
+        },
+        "1CMB94": {
+            "Route": "AR CM - BERAZATEGUI",
+            "Plant": "ACM0",
+            "Client Code": 1456982,
+            "Distance [km]": 145,
+            "Freight Cost Per Ton [$/ton]": 2823.254
+        },
+        "1CMB96": {
+            "Route": "AR CM - VILLA ANGELICA",
+            "Plant": "ACM0",
+            "Client Code": 1458565,
+            "Distance [km]": 195,
+            "Freight Cost Per Ton [$/ton]": 3506.8975
+        },
+        "1CMC01": {
+            "Route": "AR  CM - CAPITAL FEDERAL",
+            "Plant": "ACM0",
+            "Client Code": 1459831,
+            "Distance [km]": 82,
+            "Freight Cost Per Ton [$/ton]": 1547.0448780487807
+        },
+        "1CME02": {
+            "Route": "AR  CM-CONCEPCION DEL URUGUAY",
+            "Plant": "ACM0",
+            "Client Code": 1458899,
+            "Distance [km]": 215,
+            "Freight Cost Per Ton [$/ton]": 3774.735
+        },
+        "1CME03": {
+            "Route": "AR  CM-CONCORDIA",
+            "Plant": "ACM0",
+            "Client Code": 1459265,
+            "Distance [km]": 355,
+            "Freight Cost Per Ton [$/ton]": 3514.7
+        },
+        "1CME05": {
+            "Route": "AR  CM-GUALEGUAY",
+            "Plant": "ACM0",
+            "Client Code": 1459352,
+            "Distance [km]": 155,
+            "Freight Cost Per Ton [$/ton]": 2256.232
+        },
+        "1CME09": {
+            "Route": "AR  CM-PARANA",
+            "Plant": "ACM0",
+            "Client Code": 1458898,
+            "Distance [km]": 410,
+            "Freight Cost Per Ton [$/ton]": 5500.0
+        },
+        "1CME22": {
+            "Route": "AR  CM- MARIA GRANDE",
+            "Plant": "ACM0",
+            "Client Code": 1457425,
+            "Distance [km]": 457,
+            "Freight Cost Per Ton [$/ton]": 6218.28
+        },
+        "1CMW03": {
+            "Route": "AR  CM-CURUZU CUATIA",
+            "Plant": "ACM0",
+            "Client Code": 1456390,
+            "Distance [km]": 525,
+            "Freight Cost Per Ton [$/ton]": 7149.4975
+        },
+        "1MG-C1": {
+            "Route": "AR  MG-PTA. CAMPANA",
+            "Plant": "AMG0",
+            "Client Code": "ACM0",
+            "Distance [km]": 636,
+            "Freight Cost Per Ton [$/ton]": 7242.743117408907
+        },
+        "1MG-RE": {
+            "Route": "AR  MG-CD RESISTENCIA",
+            "Plant": "AMG0",
+            "Client Code": "BRTC",
+            "Distance [km]": 900,
+            "Freight Cost Per Ton [$/ton]": 13726.39
+        },
+        "1MG-YO": {
+            "Route": "AR  MG - PLANTA YOCSINA",
+            "Plant": "AMG0",
+            "Client Code": 1402104,
+            "Distance [km]": 12,
+            "Freight Cost Per Ton [$/ton]": 520.14
+        },
+        "1MGD05": {
+            "Route": "AR  MG-SAN LUIS",
+            "Plant": "AMG0",
+            "Client Code": 1415273,
+            "Distance [km]": 447,
+            "Freight Cost Per Ton [$/ton]": 7716.65
+        },
+        "1MGD08": {
+            "Route": "AR  MG-MERLO",
+            "Plant": "AMG0",
+            "Client Code": 1402470,
+            "Distance [km]": 392,
+            "Freight Cost Per Ton [$/ton]": 5073.378846153846
+        },
+        "1MGD11": {
+            "Route": "AR  MG-NASCHEL ",
+            "Plant": "AMG0",
+            "Client Code": 1456070,
+            "Distance [km]": 367,
+            "Freight Cost Per Ton [$/ton]": 5698.400000000001
+        },
+        "1MGD14": {
+            "Route": "AR  MG-CARPINTERIA",
+            "Plant": "AMG0",
+            "Client Code": 1456071,
+            "Distance [km]": 409,
+            "Freight Cost Per Ton [$/ton]": 5954.213333333333
+        },
+        "1MGD16": {
+            "Route": "AR MALAGUE\u00d1O - VA. DEL CARMEN",
+            "Plant": "AMG0",
+            "Client Code": 1459892,
+            "Distance [km]": 335,
+            "Freight Cost Per Ton [$/ton]": 5534.31
+        },
+        "1MGE08": {
+            "Route": "AR  MG-NOGOYA",
+            "Plant": "AMG0",
+            "Client Code": 1402199,
+            "Distance [km]": 524,
+            "Freight Cost Per Ton [$/ton]": 8528.86
+        },
+        "1MGE14": {
+            "Route": "AR  MG-VICTORIA",
+            "Plant": "AMG0",
+            "Client Code": 1451765,
+            "Distance [km]": 481,
+            "Freight Cost Per Ton [$/ton]": 6112.92
+        },
+        "1MGF01": {
+            "Route": "AR  MG-CHAMICAL",
+            "Plant": "AMG0",
+            "Client Code": 1415378,
+            "Distance [km]": 299,
+            "Freight Cost Per Ton [$/ton]": 5355.206666666666
+        },
+        "1MGF13": {
+            "Route": "AR MG-VINCHINA",
+            "Plant": "AMG0",
+            "Client Code": 1458151,
+            "Distance [km]": 630,
+            "Freight Cost Per Ton [$/ton]": 8639.59
+        },
+        "1MGG01": {
+            "Route": "AR  MG-LA BANDA",
+            "Plant": "AMG0",
+            "Client Code": 1417639,
+            "Distance [km]": 474,
+            "Freight Cost Per Ton [$/ton]": 7073.676533333333
+        },
+        "1MGG05": {
+            "Route": "AR  MG-SANTIAGO DEL ESTERO",
+            "Plant": "AMG0",
+            "Client Code": 1459921,
+            "Distance [km]": 451,
+            "Freight Cost Per Ton [$/ton]": 6677.786962809918
+        },
+        "1MGG06": {
+            "Route": "AR  MG-A\u00d1ATUYA",
+            "Plant": "AMG0",
+            "Client Code": 1425857,
+            "Distance [km]": 452,
+            "Freight Cost Per Ton [$/ton]": 6934.07125
+        },
+        "1MGG07": {
+            "Route": "AR  MG-QUIMILI",
+            "Plant": "AMG0",
+            "Client Code": 1417650,
+            "Distance [km]": 520,
+            "Freight Cost Per Ton [$/ton]": 8603.478636363636
+        },
+        "1MGG08": {
+            "Route": "AR  MG-TERMAS DE RIO HONDO",
+            "Plant": "AMG0",
+            "Client Code": 1417641,
+            "Distance [km]": 520,
+            "Freight Cost Per Ton [$/ton]": 7915.873773584905
+        },
+        "1MGG09": {
+            "Route": "AR  MG-FRIAS",
+            "Plant": "AMG0",
+            "Client Code": 1417640,
+            "Distance [km]": 363,
+            "Freight Cost Per Ton [$/ton]": 5277.1475
+        },
+        "1MGG17": {
+            "Route": "AR  MG-SELVA ",
+            "Plant": "AMG0",
+            "Client Code": 1402623,
+            "Distance [km]": 506,
+            "Freight Cost Per Ton [$/ton]": 7195.306666666666
+        },
+        "1MGH04": {
+            "Route": "AR  MG-PRES. D. LA PLAZA",
+            "Plant": "AMG0",
+            "Client Code": 1459397,
+            "Distance [km]": 925,
+            "Freight Cost Per Ton [$/ton]": 12818.44
+        },
+        "1MGH07": {
+            "Route": "AR  MG-RESISTENCIA",
+            "Plant": "AMG0",
+            "Client Code": 1459479,
+            "Distance [km]": 900,
+            "Freight Cost Per Ton [$/ton]": 14829.83724137931
+        },
+        "1MGH10": {
+            "Route": "AR  MG-CASTELLI",
+            "Plant": "AMG0",
+            "Client Code": 1458414,
+            "Distance [km]": 859,
+            "Freight Cost Per Ton [$/ton]": 13128.013333333334
+        },
+        "1MGH15": {
+            "Route": "AR  MG-MACHAGAY",
+            "Plant": "AMG0",
+            "Client Code": 1459396,
+            "Distance [km]": 800,
+            "Freight Cost Per Ton [$/ton]": 11132.046666666667
+        },
+        "1MGH16": {
+            "Route": "AR MG  LIB .GRAL. SAN MARTIN",
+            "Plant": "AMG0",
+            "Client Code": 1455164,
+            "Distance [km]": 1014,
+            "Freight Cost Per Ton [$/ton]": 13917.16
+        },
+        "1MGK01": {
+            "Route": "AR  MG-ANDALGALA",
+            "Plant": "AMG0",
+            "Client Code": 1459537,
+            "Distance [km]": 600,
+            "Freight Cost Per Ton [$/ton]": 6644.73
+        },
+        "1MGK03": {
+            "Route": "AR  MG-SAN FDO DEL V. DE CATAMARCA",
+            "Plant": "AMG0",
+            "Client Code": 1458724,
+            "Distance [km]": 464,
+            "Freight Cost Per Ton [$/ton]": 8924.844000000001
+        },
+        "1MGK06": {
+            "Route": "AR  MG-SANTA MARIA",
+            "Plant": "AMG0",
+            "Client Code": 1406971,
+            "Distance [km]": 664,
+            "Freight Cost Per Ton [$/ton]": 12229.59
+        },
+        "1MGL03": {
+            "Route": "AR  MG-GRAL PICO",
+            "Plant": "AMG0",
+            "Client Code": 1425807,
+            "Distance [km]": 557,
+            "Freight Cost Per Ton [$/ton]": 8775.99888888889
+        },
+        "1MGL05": {
+            "Route": "AR  MG-SANTA ROSA ",
+            "Plant": "AMG0",
+            "Client Code": 1451380,
+            "Distance [km]": 626,
+            "Freight Cost Per Ton [$/ton]": 10446.635454545454
+        },
+        "1MGL08": {
+            "Route": "AR  MG-REALICO",
+            "Plant": "AMG0",
+            "Client Code": 1418963,
+            "Distance [km]": 460,
+            "Freight Cost Per Ton [$/ton]": 7434.542941176471
+        },
+        "1MGN19": {
+            "Route": "AR MG-DOS HERMANAS",
+            "Plant": "AMG0",
+            "Client Code": 1451811,
+            "Distance [km]": 1446,
+            "Freight Cost Per Ton [$/ton]": 18948.31
+        },
+        "1MGO03": {
+            "Route": "AR  MG-FORMOSA",
+            "Plant": "AMG0",
+            "Client Code": 1426438,
+            "Distance [km]": 1083,
+            "Freight Cost Per Ton [$/ton]": 16918.814411764703
+        },
+        "1MGO04": {
+            "Route": "AR  MG-IBARRETA",
+            "Plant": "AMG0",
+            "Client Code": 1458998,
+            "Distance [km]": 1028,
+            "Freight Cost Per Ton [$/ton]": 12771.373333333331
+        },
+        "1MGO11": {
+            "Route": "AR  MG-LAGUNA BLANCA",
+            "Plant": "AMG0",
+            "Client Code": 1457295,
+            "Distance [km]": 1160,
+            "Freight Cost Per Ton [$/ton]": 19701.38238095238
+        },
+        "1MGS01": {
+            "Route": "AR  MG-CA\u00d0ADA DE GOMEZ",
+            "Plant": "AMG0",
+            "Client Code": 1456271,
+            "Distance [km]": 352,
+            "Freight Cost Per Ton [$/ton]": 5638.071
+        },
+        "1MGS02": {
+            "Route": "AR  MG-CASILDA",
+            "Plant": "AMG0",
+            "Client Code": 1402501,
+            "Distance [km]": 384,
+            "Freight Cost Per Ton [$/ton]": 6170.72
+        },
+        "1MGS03": {
+            "Route": "AR  MG-EL TREBOL",
+            "Plant": "AMG0",
+            "Client Code": 1402580,
+            "Distance [km]": 307,
+            "Freight Cost Per Ton [$/ton]": 4476.58
+        },
+        "1MGS04": {
+            "Route": "AR  MG-GALVEZ",
+            "Plant": "AMG0",
+            "Client Code": 1458547,
+            "Distance [km]": 406,
+            "Freight Cost Per Ton [$/ton]": 4646.4625
+        },
+        "1MGS05": {
+            "Route": "AR  MG-LAS PAREJAS",
+            "Plant": "AMG0",
+            "Client Code": 1403253,
+            "Distance [km]": 368,
+            "Freight Cost Per Ton [$/ton]": 5236.53375
+        },
+        "1MGS06": {
+            "Route": "AR  MG-RAFAELA",
+            "Plant": "AMG0",
+            "Client Code": 1427294,
+            "Distance [km]": 342,
+            "Freight Cost Per Ton [$/ton]": 5191.0224
+        },
+        "1MGS07": {
+            "Route": "AR  MG-RECONQUISTA",
+            "Plant": "AMG0",
+            "Client Code": 1457014,
+            "Distance [km]": 680,
+            "Freight Cost Per Ton [$/ton]": 10318.06
+        },
+        "1MGS08": {
+            "Route": "AR  MG-ROSARIO",
+            "Plant": "AMG0",
+            "Client Code": 1454979,
+            "Distance [km]": 430,
+            "Freight Cost Per Ton [$/ton]": 5346.821800000001
+        },
+        "1MGS09": {
+            "Route": "AR  MG-RUFINO",
+            "Plant": "AMG0",
+            "Client Code": 1403250,
+            "Distance [km]": 469,
+            "Freight Cost Per Ton [$/ton]": 7487.7716666666665
+        },
+        "1MGS10": {
+            "Route": "AR  MG-SAN JAVIER",
+            "Plant": "AMG0",
+            "Client Code": 1454881,
+            "Distance [km]": 520,
+            "Freight Cost Per Ton [$/ton]": 7304.3240000000005
+        },
+        "1MGS12": {
+            "Route": "AR  MG-SANTA FE",
+            "Plant": "AMG0",
+            "Client Code": 1402514,
+            "Distance [km]": 366,
+            "Freight Cost Per Ton [$/ton]": 5806.8150000000005
+        },
+        "1MGS13": {
+            "Route": "AR  MG-SUNCHALES",
+            "Plant": "AMG0",
+            "Client Code": 1459468,
+            "Distance [km]": 356,
+            "Freight Cost Per Ton [$/ton]": 5245.66
+        },
+        "1MGS14": {
+            "Route": "AR  MG-TOSTADO",
+            "Plant": "AMG0",
+            "Client Code": 1455383,
+            "Distance [km]": 516,
+            "Freight Cost Per Ton [$/ton]": 7465.5
+        },
+        "1MGS16": {
+            "Route": "AR  MG-VENADO TUERTO",
+            "Plant": "AMG0",
+            "Client Code": 1421182,
+            "Distance [km]": 416,
+            "Freight Cost Per Ton [$/ton]": 6403.051666666666
+        },
+        "1MGS18": {
+            "Route": "AR  MG-VILLA CONSTITUCION",
+            "Plant": "AMG0",
+            "Client Code": 1423946,
+            "Distance [km]": 475,
+            "Freight Cost Per Ton [$/ton]": 6845.292666666666
+        },
+        "1MGS30": {
+            "Route": "AR  MALAGUE\u00d1O-CARCARA\u00d1A",
+            "Plant": "AMG0",
+            "Client Code": 1459597,
+            "Distance [km]": 375,
+            "Freight Cost Per Ton [$/ton]": 6614.135
+        },
+        "1MGS36": {
+            "Route": "AR MG-LAS TOSCAS",
+            "Plant": "AMG0",
+            "Client Code": 1456936,
+            "Distance [km]": 795,
+            "Freight Cost Per Ton [$/ton]": 10083.154
+        },
+        "1MGS38": {
+            "Route": "AR MG-SAN LORENZO",
+            "Plant": "AMG0",
+            "Client Code": 1456579,
+            "Distance [km]": 422,
+            "Freight Cost Per Ton [$/ton]": 6045.6065
+        },
+        "1MGS40": {
+            "Route": "AR  MG-VILLA MINETTI",
+            "Plant": "AMG0",
+            "Client Code": 1458914,
+            "Distance [km]": 648,
+            "Freight Cost Per Ton [$/ton]": 8760.286315789474
+        },
+        "1MGS46": {
+            "Route": "AR  MG-VILLA GDOR GALVEZ (Sta Fe)",
+            "Plant": "AMG0",
+            "Client Code": 1455102,
+            "Distance [km]": 430,
+            "Freight Cost Per Ton [$/ton]": 6371.801025641025
+        },
+        "1MGS52": {
+            "Route": "AR MG-SAN CRISTOBAL",
+            "Plant": "AMG0",
+            "Client Code": 1451618,
+            "Distance [km]": 417,
+            "Freight Cost Per Ton [$/ton]": 5602.824074074074
+        },
+        "1MGS74": {
+            "Route": "AR  MG - INTIYACO",
+            "Plant": "AMG0",
+            "Client Code": 1457290,
+            "Distance [km]": 742,
+            "Freight Cost Per Ton [$/ton]": 12502.287142857142
+        },
+        "1MGS82": {
+            "Route": "AR MG - VILLA OCMAPO",
+            "Plant": "AMG0",
+            "Client Code": 1456047,
+            "Distance [km]": 759,
+            "Freight Cost Per Ton [$/ton]": 10987.61
+        },
+        "1MGW02": {
+            "Route": "AR  MG-CORRIENTES",
+            "Plant": "AMG0",
+            "Client Code": 1458933,
+            "Distance [km]": 940,
+            "Freight Cost Per Ton [$/ton]": 13411.86
+        },
+        "1MGW03": {
+            "Route": "AR  MG-CURUZU CUATIA",
+            "Plant": "AMG0",
+            "Client Code": 1459606,
+            "Distance [km]": 776,
+            "Freight Cost Per Ton [$/ton]": 12329.65044117647
+        },
+        "1MGW13": {
+            "Route": "AR  MG-ITUZAINGO",
+            "Plant": "AMG0",
+            "Client Code": 1458933,
+            "Distance [km]": 1177,
+            "Freight Cost Per Ton [$/ton]": 17815.826666666668
+        },
+        "1MGX03": {
+            "Route": "AR  MG-BELL VILLE",
+            "Plant": "AMG0",
+            "Client Code": 1425814,
+            "Distance [km]": 227,
+            "Freight Cost Per Ton [$/ton]": 3841.7
+        },
+        "1MGX04": {
+            "Route": "AR  MG-CORDOBA",
+            "Plant": "AMG0",
+            "Client Code": 1408900,
+            "Distance [km]": 22,
+            "Freight Cost Per Ton [$/ton]": 1195.9677777777779
+        },
+        "1MGX05": {
+            "Route": "AR  MG-CRUZ DEL EJE",
+            "Plant": "AMG0",
+            "Client Code": 1401869,
+            "Distance [km]": 130,
+            "Freight Cost Per Ton [$/ton]": 2806.613125
+        },
+        "1MGX09": {
+            "Route": "AR  MG-LABOULAYE",
+            "Plant": "AMG0",
+            "Client Code": 1456706,
+            "Distance [km]": 404,
+            "Freight Cost Per Ton [$/ton]": 7284.3279999999995
+        },
+        "1MGX11": {
+            "Route": "AR  MG-MARCOS JUAREZ",
+            "Plant": "AMG0",
+            "Client Code": 1404180,
+            "Distance [km]": 285,
+            "Freight Cost Per Ton [$/ton]": 5468.4
+        },
+        "1MGX14": {
+            "Route": "AR  MG-RIO CUARTO",
+            "Plant": "AMG0",
+            "Client Code": 1411718,
+            "Distance [km]": 233,
+            "Freight Cost Per Ton [$/ton]": 4035.599466666667
+        },
+        "1MGX16": {
+            "Route": "AR  MG-RIO TERCERO",
+            "Plant": "AMG0",
+            "Client Code": 1458613,
+            "Distance [km]": 116,
+            "Freight Cost Per Ton [$/ton]": 1874.99
+        },
+        "1MGX21": {
+            "Route": "AR  MG-VILLA MARIA",
+            "Plant": "AMG0",
+            "Client Code": 1456483,
+            "Distance [km]": 172,
+            "Freight Cost Per Ton [$/ton]": 2375.5513043478263
+        },
+        "1MGX25": {
+            "Route": "AR  MG-LA CUMBRE ",
+            "Plant": "AMG0",
+            "Client Code": 1418470,
+            "Distance [km]": 75,
+            "Freight Cost Per Ton [$/ton]": 2812.4209090909094
+        },
+        "1MGX26": {
+            "Route": "AR  MG-LA FALDA",
+            "Plant": "AMG0",
+            "Client Code": 1455593,
+            "Distance [km]": 63,
+            "Freight Cost Per Ton [$/ton]": 1595.0404347826086
+        },
+        "1MGX28": {
+            "Route": "AR  MG-DEL CAMPILLO",
+            "Plant": "AMG0",
+            "Client Code": 1460032,
+            "Distance [km]": 395,
+            "Freight Cost Per Ton [$/ton]": 6638.51
+        },
+        "1MGX30": {
+            "Route": "AR  MG-JOVITA",
+            "Plant": "AMG0",
+            "Client Code": 1460050,
+            "Distance [km]": 423,
+            "Freight Cost Per Ton [$/ton]": 7619.1
+        },
+        "1MGX31": {
+            "Route": "AR  MG-HUINCA RENANCO",
+            "Plant": "AMG0",
+            "Client Code": 1423270,
+            "Distance [km]": 425,
+            "Freight Cost Per Ton [$/ton]": 6761.325
+        },
+        "1MGX32": {
+            "Route": "AR  MG-ADELIA MARIA",
+            "Plant": "AMG0",
+            "Client Code": 1451734,
+            "Distance [km]": 314,
+            "Freight Cost Per Ton [$/ton]": 6350.55
+        },
+        "1MGX36": {
+            "Route": "AR  MG-RIO PRIMERO",
+            "Plant": "AMG0",
+            "Client Code": 1458982,
+            "Distance [km]": 78,
+            "Freight Cost Per Ton [$/ton]": 1365.26
+        },
+        "1MGX63": {
+            "Route": "AR MG- M. Sobremonte",
+            "Plant": "AMG0",
+            "Client Code": 1421633,
+            "Distance [km]": 22,
+            "Freight Cost Per Ton [$/ton]": 1235.88
+        },
+        "1MGX67": {
+            "Route": "AR MG- Jardin - Cba",
+            "Plant": "AMG0",
+            "Client Code": 1404167,
+            "Distance [km]": 26,
+            "Freight Cost Per Ton [$/ton]": 1349.7433333333333
+        },
+        "1MGX68": {
+            "Route": "AR MG- Cno Pajas  Blancas",
+            "Plant": "AMG0",
+            "Client Code": 1405891,
+            "Distance [km]": 25,
+            "Freight Cost Per Ton [$/ton]": 1247.6224242424244
+        },
+        "1MGX75": {
+            "Route": "AR MG- Saldan - Cba",
+            "Plant": "AMG0",
+            "Client Code": 1405602,
+            "Distance [km]": 20,
+            "Freight Cost Per Ton [$/ton]": 1232.005
+        },
+        "1MGX79": {
+            "Route": "AR  MG-VILLA DE SOTO",
+            "Plant": "AMG0",
+            "Client Code": 1420826,
+            "Distance [km]": 235,
+            "Freight Cost Per Ton [$/ton]": 2081.92
+        },
+        "1MGX82": {
+            "Route": "AR  MG-LABORDE ",
+            "Plant": "AMG0",
+            "Client Code": 1412958,
+            "Distance [km]": 302,
+            "Freight Cost Per Ton [$/ton]": 5712.696666666667
+        },
+        "1MGX92": {
+            "Route": "AR  MG-ACHIRAS",
+            "Plant": "AMG0",
+            "Client Code": 1459808,
+            "Distance [km]": 292,
+            "Freight Cost Per Ton [$/ton]": 6483.494137931034
+        },
+        "1MGXG5": {
+            "Route": "AR MG-JUSTINIANO POSSE",
+            "Plant": "AMG0",
+            "Client Code": 1451334,
+            "Distance [km]": 256,
+            "Freight Cost Per Ton [$/ton]": 4519.015
+        },
+        "1MGXG6": {
+            "Route": "AR  MG - POZO DEL MOLLE",
+            "Plant": "AMG0",
+            "Client Code": 1455801,
+            "Distance [km]": 214,
+            "Freight Cost Per Ton [$/ton]": 3900.344
+        },
+        "1PV-RE": {
+            "Route": "AR  PV-CD RESISTENCIA",
+            "Plant": "APV0",
+            "Client Code": "BRTC",
+            "Distance [km]": 815,
+            "Freight Cost Per Ton [$/ton]": 12031.732429378531
+        },
+        "1PVA01": {
+            "Route": "AR  PV-GUEMES",
+            "Plant": "APV0",
+            "Client Code": 1419059,
+            "Distance [km]": 34,
+            "Freight Cost Per Ton [$/ton]": 1190.537
+        },
+        "1PVA04": {
+            "Route": "AR  PV-ROSARIO DE LA FRONTERA",
+            "Plant": "APV0",
+            "Client Code": 1456613,
+            "Distance [km]": 168,
+            "Freight Cost Per Ton [$/ton]": 2540.8541666666665
+        },
+        "1PVA05": {
+            "Route": "AR  PV-SALTA",
+            "Plant": "APV0",
+            "Client Code": 1458297,
+            "Distance [km]": 86,
+            "Freight Cost Per Ton [$/ton]": 1456.7489090909091
+        },
+        "1PVA06": {
+            "Route": "AR  PV-SAN RAMON DE LA NUEVA ORAN",
+            "Plant": "APV0",
+            "Client Code": 1458298,
+            "Distance [km]": 193,
+            "Freight Cost Per Ton [$/ton]": 3087.2192424242426
+        },
+        "1PVA07": {
+            "Route": "AR  PV-TARTAGAL",
+            "Plant": "APV0",
+            "Client Code": 1458299,
+            "Distance [km]": 274,
+            "Freight Cost Per Ton [$/ton]": 3927.085641025641
+        },
+        "1PVA14": {
+            "Route": "AR PV-CERRILLOS",
+            "Plant": "APV0",
+            "Client Code": 1460022,
+            "Distance [km]": 101,
+            "Freight Cost Per Ton [$/ton]": 2238.6066666666666
+        },
+        "1PVA29": {
+            "Route": "AR  PV-AGUARAY",
+            "Plant": "APV0",
+            "Client Code": 1402446,
+            "Distance [km]": 308,
+            "Freight Cost Per Ton [$/ton]": 4674.47
+        },
+        "1PVG01": {
+            "Route": "AR  PV-LA BANDA",
+            "Plant": "APV0",
+            "Client Code": 1417639,
+            "Distance [km]": 470,
+            "Freight Cost Per Ton [$/ton]": 7360.292666666666
+        },
+        "1PVG05": {
+            "Route": "AR  PV-SANTIAGO DEL ESTERO",
+            "Plant": "APV0",
+            "Client Code": 1417651,
+            "Distance [km]": 461,
+            "Freight Cost Per Ton [$/ton]": 7209.267242647059
+        },
+        "1PVG06": {
+            "Route": "AR  PV-A\u00d1ATUYA",
+            "Plant": "APV0",
+            "Client Code": 1458674,
+            "Distance [km]": 596,
+            "Freight Cost Per Ton [$/ton]": 8099.3279999999995
+        },
+        "1PVG07": {
+            "Route": "AR  PV-QUIMILI",
+            "Plant": "APV0",
+            "Client Code": 1417650,
+            "Distance [km]": 615,
+            "Freight Cost Per Ton [$/ton]": 8639.443571428572
+        },
+        "1PVG08": {
+            "Route": "AR  PV-TERMAS DE RIO HONDO",
+            "Plant": "APV0",
+            "Client Code": 1459942,
+            "Distance [km]": 392,
+            "Freight Cost Per Ton [$/ton]": 5842.567272727272
+        },
+        "1PVG09": {
+            "Route": "AR  PV-FRIAS",
+            "Plant": "APV0",
+            "Client Code": 1417640,
+            "Distance [km]": 510,
+            "Freight Cost Per Ton [$/ton]": 6908.13875
+        },
+        "1PVG12": {
+            "Route": "AR PV-NUEVA ESPERANZA",
+            "Plant": "APV0",
+            "Client Code": 1458863,
+            "Distance [km]": 278,
+            "Freight Cost Per Ton [$/ton]": 3762.25
+        },
+        "1PVH04": {
+            "Route": "AR  PV-PRES. D. LA PLAZA",
+            "Plant": "APV0",
+            "Client Code": 1405282,
+            "Distance [km]": 707,
+            "Freight Cost Per Ton [$/ton]": 9257.837407407407
+        },
+        "1PVH07": {
+            "Route": "AR  PV-RESISTENCIA",
+            "Plant": "APV0",
+            "Client Code": 1427051,
+            "Distance [km]": 815,
+            "Freight Cost Per Ton [$/ton]": 8952.613888888889
+        },
+        "1PVH10": {
+            "Route": "AR  PV-CASTELLI",
+            "Plant": "APV0",
+            "Client Code": 1458414,
+            "Distance [km]": 759,
+            "Freight Cost Per Ton [$/ton]": 9874.22
+        },
+        "1PVH16": {
+            "Route": "AR PV-GRAL. SAN MARTIN",
+            "Plant": "APV0",
+            "Client Code": 1456910,
+            "Distance [km]": 803,
+            "Freight Cost Per Ton [$/ton]": 10426.304
+        },
+        "1PVH22": {
+            "Route": "AR  PV-TACO POZO",
+            "Plant": "APV0",
+            "Client Code": 1414954,
+            "Distance [km]": 334,
+            "Freight Cost Per Ton [$/ton]": 4137.7875
+        },
+        "1PVN03": {
+            "Route": "AR  PV-OBERA",
+            "Plant": "APV0",
+            "Client Code": 1455124,
+            "Distance [km]": 1244,
+            "Freight Cost Per Ton [$/ton]": 13487.62
+        },
+        "1PVN19": {
+            "Route": "AR PV-DOS HERMANAS",
+            "Plant": "APV0",
+            "Client Code": 1451811,
+            "Distance [km]": 1460,
+            "Freight Cost Per Ton [$/ton]": 18475.782857142858
+        },
+        "1PVN20": {
+            "Route": "AR  PV-PUERTO RICO",
+            "Plant": "APV0",
+            "Client Code": 1418123,
+            "Distance [km]": 1276,
+            "Freight Cost Per Ton [$/ton]": 15592.369999999999
+        },
+        "1PVO03": {
+            "Route": "AR  PV-FORMOSA",
+            "Plant": "APV0",
+            "Client Code": 1452927,
+            "Distance [km]": 951,
+            "Freight Cost Per Ton [$/ton]": 12119.943333333333
+        },
+        "1PVO11": {
+            "Route": "AR  PV-LAGUNA BLANCA",
+            "Plant": "APV0",
+            "Client Code": 1455291,
+            "Distance [km]": 950,
+            "Freight Cost Per Ton [$/ton]": 12221.105
+        },
+        "1PVT01": {
+            "Route": "AR  PV-AGUILARES",
+            "Plant": "APV0",
+            "Client Code": 1415769,
+            "Distance [km]": 382,
+            "Freight Cost Per Ton [$/ton]": 5213.2300000000005
+        },
+        "1PVT02": {
+            "Route": "AR  PV-CONCEPCION",
+            "Plant": "APV0",
+            "Client Code": 1458290,
+            "Distance [km]": 373,
+            "Freight Cost Per Ton [$/ton]": 4582.625625
+        },
+        "1PVT03": {
+            "Route": "AR  PV-MONTEROS",
+            "Plant": "APV0",
+            "Client Code": 1457927,
+            "Distance [km]": 348,
+            "Freight Cost Per Ton [$/ton]": 4602.748461538461
+        },
+        "1PVT04": {
+            "Route": "AR  PV-SAN MIGUEL DE TUCUMAN",
+            "Plant": "APV0",
+            "Client Code": 1458288,
+            "Distance [km]": 313,
+            "Freight Cost Per Ton [$/ton]": 4538.492410714286
+        },
+        "1PVT14": {
+            "Route": "AR PV- YERBA BUENA",
+            "Plant": "APV0",
+            "Client Code": 1458289,
+            "Distance [km]": 321,
+            "Freight Cost Per Ton [$/ton]": 4368.679387755103
+        },
+        "1PVT15": {
+            "Route": "-",
+            "Plant": "APV0",
+            "Client Code": 1459835,
+            "Distance [km]": 338,
+            "Freight Cost Per Ton [$/ton]": 4221.466666666666
+        },
+        "1PVT18": {
+            "Route": "AR PV- BANDA RIO SALI",
+            "Plant": "APV0",
+            "Client Code": 1459204,
+            "Distance [km]": 308,
+            "Freight Cost Per Ton [$/ton]": 3503.0
+        },
+        "1PVT22": {
+            "Route": "AR  PV - J.B. ALBERDI",
+            "Plant": "APV0",
+            "Client Code": 1415833,
+            "Distance [km]": 436,
+            "Freight Cost Per Ton [$/ton]": 6040.102222222222
+        },
+        "1PVW03": {
+            "Route": "AR  PV-CURUZU CUATIA",
+            "Plant": "APV0",
+            "Client Code": 1459606,
+            "Distance [km]": 1146,
+            "Freight Cost Per Ton [$/ton]": 15229.08
+        },
+        "1PVY01": {
+            "Route": "AR  PV-JUJUY",
+            "Plant": "APV0",
+            "Client Code": 1458330,
+            "Distance [km]": 57,
+            "Freight Cost Per Ton [$/ton]": 1235.6100000000001
+        },
+        "1PVY03": {
+            "Route": "AR  PV-LIB GRAL. SAN MARTIN",
+            "Plant": "APV0",
+            "Client Code": 1459711,
+            "Distance [km]": 73,
+            "Freight Cost Per Ton [$/ton]": 1838.4850000000001
+        }
+    },
+    "Outbound MEX": {
+        "MACAPA": {
+            "Route": "AAC0 - PLANTA APAXCO",
+            "Plant": "AAC0",
+            "Client Code": "AAP0",
+            "Distance [km]": 452,
+            "Freight Cost Per Ton [$/ton]": 733.3333333333334
+        },
+        "MACJ00": {
+            "Route": "AAC0-NUXCO, GUERRERO",
+            "Plant": "AAC0",
+            "Client Code": 201683725,
+            "Distance [km]": 135,
+            "Freight Cost Per Ton [$/ton]": 365.96999999999997
+        },
+        "MACJ01": {
+            "Route": "AAC0-ACAPULCO DE JUAREZ",
+            "Plant": "AAC0",
+            "Client Code": 201660488,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 116.00532544378699
+        },
+        "MACJ02": {
+            "Route": "AAC0-ATOYAC DE ALVAREZ",
+            "Plant": "AAC0",
+            "Client Code": 205212478,
+            "Distance [km]": 84,
+            "Freight Cost Per Ton [$/ton]": 271.4486206896552
+        },
+        "MACJ03": {
+            "Route": "AAC0-SAN MARCOS",
+            "Plant": "AAC0",
+            "Client Code": 205515773,
+            "Distance [km]": 66,
+            "Freight Cost Per Ton [$/ton]": 204.06439024390244
+        },
+        "MACJ04": {
+            "Route": "AAC0-OMETEPEC",
+            "Plant": "AAC0",
+            "Client Code": 205513483,
+            "Distance [km]": 196,
+            "Freight Cost Per Ton [$/ton]": 533.1881632653061
+        },
+        "MACJ05": {
+            "Route": "AAC0-CHILPANCINGO",
+            "Plant": "AAC0",
+            "Client Code": 205513454,
+            "Distance [km]": 133,
+            "Freight Cost Per Ton [$/ton]": 351.57
+        },
+        "MACJ06": {
+            "Route": "AAC0-CHILAPA DE ALVAREZ",
+            "Plant": "AAC0",
+            "Client Code": 201612709,
+            "Distance [km]": 190,
+            "Freight Cost Per Ton [$/ton]": 471.1388888888889
+        },
+        "MACJ07": {
+            "Route": "AAC0-TLAPA DE COMONFORT",
+            "Plant": "AAC0",
+            "Client Code": 201612715,
+            "Distance [km]": 286,
+            "Freight Cost Per Ton [$/ton]": 985.9973333333332
+        },
+        "MACJ08": {
+            "Route": "AAC0-G HELIOD (TLACOTEPEC",
+            "Plant": "AAC0",
+            "Client Code": 201678174,
+            "Distance [km]": 224,
+            "Freight Cost Per Ton [$/ton]": 758.3333333333334
+        },
+        "MACJ10": {
+            "Route": "AAC0-ARCELIA",
+            "Plant": "AAC0",
+            "Client Code": 205514352,
+            "Distance [km]": 367,
+            "Freight Cost Per Ton [$/ton]": 843.729494047619
+        },
+        "MACJ12": {
+            "Route": "AAC0-J AZUETA ZIHUATANEJO",
+            "Plant": "AAC0",
+            "Client Code": 205214784,
+            "Distance [km]": 237,
+            "Freight Cost Per Ton [$/ton]": 489.3633486238532
+        },
+        "MACJ13": {
+            "Route": "AAC0-IGUALA DE LA INDEP",
+            "Plant": "AAC0",
+            "Client Code": 205215668,
+            "Distance [km]": 174,
+            "Freight Cost Per Ton [$/ton]": 523.9
+        },
+        "MACJ14": {
+            "Route": "AAC0-CUAJINICUILAPA",
+            "Plant": "AAC0",
+            "Client Code": 205513527,
+            "Distance [km]": 220,
+            "Freight Cost Per Ton [$/ton]": 511.31499999999994
+        },
+        "MACJ16": {
+            "Route": "AAC0-TIERRA COLORADA",
+            "Plant": "AAC0",
+            "Client Code": 205510623,
+            "Distance [km]": 70,
+            "Freight Cost Per Ton [$/ton]": 205.12851063829788
+        },
+        "MACJ17": {
+            "Route": "AAC0-TECPAN",
+            "Plant": "AAC0",
+            "Client Code": 205514387,
+            "Distance [km]": 155,
+            "Freight Cost Per Ton [$/ton]": 356.90999999999997
+        },
+        "MACJ18": {
+            "Route": "AAC0-PETATLAN",
+            "Plant": "AAC0",
+            "Client Code": 205512647,
+            "Distance [km]": 198,
+            "Freight Cost Per Ton [$/ton]": 428.35632183908046
+        },
+        "MACJ19": {
+            "Route": "AAC0-LA UNION",
+            "Plant": "AAC0",
+            "Client Code": 205507521,
+            "Distance [km]": 274,
+            "Freight Cost Per Ton [$/ton]": 699.1107142857144
+        },
+        "MACJ20": {
+            "Route": "AAC0-CRUZ GRANDE",
+            "Plant": "AAC0",
+            "Client Code": 205512762,
+            "Distance [km]": 103,
+            "Freight Cost Per Ton [$/ton]": 286.58714285714285
+        },
+        "MACJ21": {
+            "Route": "AAC0-AYUTLA DE LOS LIBRES",
+            "Plant": "AAC0",
+            "Client Code": 201644641,
+            "Distance [km]": 136,
+            "Freight Cost Per Ton [$/ton]": 379.25598039215686
+        },
+        "MACJ22": {
+            "Route": "AAC0-MARQUELIA",
+            "Plant": "AAC0",
+            "Client Code": 205513082,
+            "Distance [km]": 143,
+            "Freight Cost Per Ton [$/ton]": 338.446
+        },
+        "MACJ28": {
+            "Route": "AAC0-TLACOACHISTLAHUACA",
+            "Plant": "AAC0",
+            "Client Code": 205516516,
+            "Distance [km]": 225,
+            "Freight Cost Per Ton [$/ton]": 805.15
+        },
+        "MACJ30": {
+            "Route": "AAC0-TLAPEHUALA",
+            "Plant": "AAC0",
+            "Client Code": 205514581,
+            "Distance [km]": 369,
+            "Freight Cost Per Ton [$/ton]": 881.9762926829268
+        },
+        "MACJ31": {
+            "Route": "AAC0-COYUCA DE BEN\u00cdTEZ",
+            "Plant": "AAC0",
+            "Client Code": 201657806,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 210.16962264150942
+        },
+        "MACJ34": {
+            "Route": "AAC0-XOCHISTLAHUACA",
+            "Plant": "AAC0",
+            "Client Code": 205513528,
+            "Distance [km]": 255,
+            "Freight Cost Per Ton [$/ton]": 805.1499999999999
+        },
+        "MACJ42": {
+            "Route": "AAC0-COPALA",
+            "Plant": "AAC0",
+            "Client Code": 201631671,
+            "Distance [km]": 125,
+            "Freight Cost Per Ton [$/ton]": 314.66816326530613
+        },
+        "MACJ45": {
+            "Route": "AAC0-TECOANAPA",
+            "Plant": "AAC0",
+            "Client Code": 205515681,
+            "Distance [km]": 103,
+            "Freight Cost Per Ton [$/ton]": 250.62647058823532
+        },
+        "MACJ53": {
+            "Route": "AAC0-TLATLAUQUITEPEC",
+            "Plant": "AAC0",
+            "Client Code": 205408428,
+            "Distance [km]": 267,
+            "Freight Cost Per Ton [$/ton]": 922.98
+        },
+        "MACJ54": {
+            "Route": "AAC0-AHUACUOTZINGO",
+            "Plant": "AAC0",
+            "Client Code": 205503792,
+            "Distance [km]": 230,
+            "Freight Cost Per Ton [$/ton]": 862.7399999999999
+        },
+        "MACJ59": {
+            "Route": "AAC0-TLANICUILULCO",
+            "Plant": "AAC0",
+            "Client Code": 205512085,
+            "Distance [km]": 174,
+            "Freight Cost Per Ton [$/ton]": 524.4974074074074
+        },
+        "MACJ60": {
+            "Route": "AAC0-QUECHULTENANGO",
+            "Plant": "AAC0",
+            "Client Code": 205513618,
+            "Distance [km]": 150,
+            "Freight Cost Per Ton [$/ton]": 419.39
+        },
+        "MACJ61": {
+            "Route": "AAC0-ZUMPANGO, GRO.",
+            "Plant": "AAC0",
+            "Client Code": 205516229,
+            "Distance [km]": 151,
+            "Freight Cost Per Ton [$/ton]": 354.05157894736845
+        },
+        "MACJ63": {
+            "Route": "AAC0-LAS MESAS",
+            "Plant": "AAC0",
+            "Client Code": 205513032,
+            "Distance [km]": 106,
+            "Freight Cost Per Ton [$/ton]": 232.79
+        },
+        "MACJ66": {
+            "Route": "AAC0-EL PARAISO",
+            "Plant": "AAC0",
+            "Client Code": 201656200,
+            "Distance [km]": 149,
+            "Freight Cost Per Ton [$/ton]": 451.8333333333333
+        },
+        "MACJ72": {
+            "Route": "AAC0-LAS VIGAS",
+            "Plant": "AAC0",
+            "Client Code": 205507782,
+            "Distance [km]": 88,
+            "Freight Cost Per Ton [$/ton]": 335.3192307692307
+        },
+        "MACJ75": {
+            "Route": "AAC0-LLANO SILLETA",
+            "Plant": "AAC0",
+            "Client Code": 205508862,
+            "Distance [km]": 222,
+            "Freight Cost Per Ton [$/ton]": 671.0531578947368
+        },
+        "MACJ77": {
+            "Route": "AAC0-OCOTITO, GRO.",
+            "Plant": "AAC0",
+            "Client Code": 201643489,
+            "Distance [km]": 80,
+            "Freight Cost Per Ton [$/ton]": 238.1239344262295
+        },
+        "MACJ78": {
+            "Route": "AAC0-ACAPETLAHUAYA",
+            "Plant": "AAC0",
+            "Client Code": 205514369,
+            "Distance [km]": 310,
+            "Freight Cost Per Ton [$/ton]": 841.08
+        },
+        "MACJ82": {
+            "Route": "AACO-Xaltianguis Guerrero",
+            "Plant": "AAC0",
+            "Client Code": 201656361,
+            "Distance [km]": 36,
+            "Freight Cost Per Ton [$/ton]": 159.06869565217391
+        },
+        "MACJ84": {
+            "Route": "AACO-ILIATENCO",
+            "Plant": "AAC0",
+            "Client Code": 205514433,
+            "Distance [km]": 217,
+            "Freight Cost Per Ton [$/ton]": 827.2316666666667
+        },
+        "MACJ87": {
+            "Route": "AACO-CUANACAXTITLAN, GRO",
+            "Plant": "AAC0",
+            "Client Code": 205506745,
+            "Distance [km]": 181,
+            "Freight Cost Per Ton [$/ton]": 584.24
+        },
+        "MACJ88": {
+            "Route": "AAC0-POCHUTLA, GRO",
+            "Plant": "AAC0",
+            "Client Code": 205502207,
+            "Distance [km]": 221,
+            "Freight Cost Per Ton [$/ton]": 903.68
+        },
+        "MACJ91": {
+            "Route": "AAC0-LA PROVIDENCIA",
+            "Plant": "AAC0",
+            "Client Code": 205507908,
+            "Distance [km]": 45,
+            "Freight Cost Per Ton [$/ton]": 161.12
+        },
+        "MACJ92": {
+            "Route": "AAC0-PETACALCO",
+            "Plant": "AAC0",
+            "Client Code": 201643728,
+            "Distance [km]": 430,
+            "Freight Cost Per Ton [$/ton]": 588.44
+        },
+        "MACJ96": {
+            "Route": "AAC0-LAS CRUCES",
+            "Plant": "AAC0",
+            "Client Code": 205516535,
+            "Distance [km]": 103,
+            "Freight Cost Per Ton [$/ton]": 272.64
+        },
+        "MACJ97": {
+            "Route": "AAC0-MEZCALA, GRO",
+            "Plant": "AAC0",
+            "Client Code": 201657104,
+            "Distance [km]": 171,
+            "Freight Cost Per Ton [$/ton]": 337.9328571428572
+        },
+        "MACJ99": {
+            "Route": "AAC0-SAN LUIS DE LA LOMA",
+            "Plant": "AAC0",
+            "Client Code": 205514623,
+            "Distance [km]": 130,
+            "Freight Cost Per Ton [$/ton]": 400.0233333333333
+        },
+        "MACK04": {
+            "Route": "AAC0-ZOQUIAPA, GUERRERO",
+            "Plant": "AAC0",
+            "Client Code": 201646624,
+            "Distance [km]": 154,
+            "Freight Cost Per Ton [$/ton]": 429.94166666666666
+        },
+        "MACK08": {
+            "Route": "AAC0-EL TERRERO, JUAN R. ESCUDERO",
+            "Plant": "AAC0",
+            "Client Code": 205511698,
+            "Distance [km]": 90,
+            "Freight Cost Per Ton [$/ton]": 274.13
+        },
+        "MACK12": {
+            "Route": "AAC0- COACOYULLIO, GRO.",
+            "Plant": "AAC0",
+            "Client Code": 205510784,
+            "Distance [km]": 92,
+            "Freight Cost Per Ton [$/ton]": 443.7514285714286
+        },
+        "MACK13": {
+            "Route": "AAC0-RANCHO VIEJO",
+            "Plant": "AAC0",
+            "Client Code": 201681311,
+            "Distance [km]": 252,
+            "Freight Cost Per Ton [$/ton]": 908.09
+        },
+        "MACK17": {
+            "Route": "AAC0 - AJUCHITLAN PROGRESO",
+            "Plant": "AAC0",
+            "Client Code": 205514355,
+            "Distance [km]": 380,
+            "Freight Cost Per Ton [$/ton]": 951.0804375
+        },
+        "MACK18": {
+            "Route": "AAC0 - SAN MIGUEL TOTOLAPAN",
+            "Plant": "AAC0",
+            "Client Code": 205514373,
+            "Distance [km]": 363,
+            "Freight Cost Per Ton [$/ton]": 873.7066666666666
+        },
+        "MACK19": {
+            "Route": "AAC0 - TLALCHAPA",
+            "Plant": "AAC0",
+            "Client Code": 205514362,
+            "Distance [km]": 366,
+            "Freight Cost Per Ton [$/ton]": 941.5
+        },
+        "MACK20": {
+            "Route": "AAC0 - IXCAPUZALCO, PEDRO ASCENCIO",
+            "Plant": "AAC0",
+            "Client Code": 205514396,
+            "Distance [km]": 298,
+            "Freight Cost Per Ton [$/ton]": 828.3
+        },
+        "MACK22": {
+            "Route": "AAC0 - MAZATLAN, GUERRERO",
+            "Plant": "AAC0",
+            "Client Code": 205512932,
+            "Distance [km]": 97,
+            "Freight Cost Per Ton [$/ton]": 317.83
+        },
+        "MACK23": {
+            "Route": "AAC0 - VILLA MADERO",
+            "Plant": "AAC0",
+            "Client Code": 205514391,
+            "Distance [km]": 411,
+            "Freight Cost Per Ton [$/ton]": 926.47
+        },
+        "MACK25": {
+            "Route": "AAC0 - BELLA VISTA PAPAGAYO",
+            "Plant": "AAC0",
+            "Client Code": 201661182,
+            "Distance [km]": 40,
+            "Freight Cost Per Ton [$/ton]": 152.01538461538462
+        },
+        "MACK27": {
+            "Route": "AAC0 - GUADALUPE VICTORIA",
+            "Plant": "AAC0",
+            "Client Code": 205513954,
+            "Distance [km]": 230,
+            "Freight Cost Per Ton [$/ton]": 810.0
+        },
+        "MACK28": {
+            "Route": "AAC0 - SAN JUAN DEL REPARO",
+            "Plant": "AAC0",
+            "Client Code": 205514208,
+            "Distance [km]": 89,
+            "Freight Cost Per Ton [$/ton]": 267.6666666666667
+        },
+        "MACN02": {
+            "Route": "AAC0-APATZINGAN",
+            "Plant": "AAC0",
+            "Client Code": 205510847,
+            "Distance [km]": 473,
+            "Freight Cost Per Ton [$/ton]": 827.23
+        },
+        "MACN08": {
+            "Route": "AAC0-LAZARO CARDENAS",
+            "Plant": "AAC0",
+            "Client Code": 205509756,
+            "Distance [km]": 360,
+            "Freight Cost Per Ton [$/ton]": 600.7894736842105
+        },
+        "MACORI": {
+            "Route": "AAC0 - PLANTA ORIZABA",
+            "Plant": "AAC0",
+            "Client Code": "AOZ0",
+            "Distance [km]": 530,
+            "Freight Cost Per Ton [$/ton]": 1237.5
+        },
+        "MACPUE": {
+            "Route": "AAC0 - CD PUEBLA",
+            "Plant": "AAC0",
+            "Client Code": "BTPU",
+            "Distance [km]": 377,
+            "Freight Cost Per Ton [$/ton]": 936.0
+        },
+        "MACR05": {
+            "Route": "AAC0-SANTA MARIA HUATULCO",
+            "Plant": "AAC0",
+            "Client Code": 205514821,
+            "Distance [km]": 559,
+            "Freight Cost Per Ton [$/ton]": 1022.727724137931
+        },
+        "MACR06": {
+            "Route": "AAC0-PUERTO ESCONDIDO",
+            "Plant": "AAC0",
+            "Client Code": 205514867,
+            "Distance [km]": 424,
+            "Freight Cost Per Ton [$/ton]": 802.976230529595
+        },
+        "MACR07": {
+            "Route": "AAC0-PINOTEPA NACIONAL",
+            "Plant": "AAC0",
+            "Client Code": 205515307,
+            "Distance [km]": 274,
+            "Freight Cost Per Ton [$/ton]": 516.3860714285714
+        },
+        "MACR10": {
+            "Route": "AAC0-SAN ANDR\u00c9S HUAXPALTEPEC",
+            "Plant": "AAC0",
+            "Client Code": 205515840,
+            "Distance [km]": 269,
+            "Freight Cost Per Ton [$/ton]": 495.84
+        },
+        "MACR34": {
+            "Route": "AAC0-SAN PEDRO POCHUTLA",
+            "Plant": "AAC0",
+            "Client Code": 205210186,
+            "Distance [km]": 470,
+            "Freight Cost Per Ton [$/ton]": 949.3479365079364
+        },
+        "MACR35": {
+            "Route": "AAC0-RIO GRANDE OAXACA",
+            "Plant": "AAC0",
+            "Client Code": 201681096,
+            "Distance [km]": 344,
+            "Freight Cost Per Ton [$/ton]": 683.8291428571429
+        },
+        "MACR36": {
+            "Route": "AAC0-SANTIAGO JAMILTEPEC, OAX",
+            "Plant": "AAC0",
+            "Client Code": 205515306,
+            "Distance [km]": 283,
+            "Freight Cost Per Ton [$/ton]": 666.646
+        },
+        "MACR39": {
+            "Route": "AAC0 - SAN SEBASTI\u00c1N IXCAPA",
+            "Plant": "AAC0",
+            "Client Code": 201682560,
+            "Distance [km]": 270,
+            "Freight Cost Per Ton [$/ton]": 629.177625
+        },
+        "MACR41": {
+            "Route": "AAC0-AGUA BLANCA, OAXACA",
+            "Plant": "AAC0",
+            "Client Code": 205516127,
+            "Distance [km]": 424,
+            "Freight Cost Per Ton [$/ton]": 888.3733333333333
+        },
+        "MACREC": {
+            "Route": "AAC0-REYES CAMION",
+            "Plant": "AAC0",
+            "Client Code": "BTRE",
+            "Distance [km]": 420,
+            "Freight Cost Per Ton [$/ton]": 707.5
+        },
+        "MACTEC": {
+            "Route": "AAC0 - PLANTA TECOMAN",
+            "Plant": "AAC0",
+            "Client Code": "ATC0",
+            "Distance [km]": 635,
+            "Freight Cost Per Ton [$/ton]": 1293.75
+        },
+        "MACTOC": {
+            "Route": "AAC0-TOLUCA CAMION",
+            "Plant": "AAC0",
+            "Client Code": "BTTO",
+            "Distance [km]": 430,
+            "Freight Cost Per Ton [$/ton]": 752.893448275862
+        },
+        "MACVAC": {
+            "Route": "AAC0-VALLEJO CAMION",
+            "Plant": "AAC0",
+            "Client Code": "BTVA",
+            "Distance [km]": 420,
+            "Freight Cost Per Ton [$/ton]": 868.0
+        },
+        "MACZAP": {
+            "Route": "AAC0 - CD ZAPOPAN",
+            "Plant": "AAC0",
+            "Client Code": "BTZA",
+            "Distance [km]": 786,
+            "Freight Cost Per Ton [$/ton]": 1479.0
+        },
+        "MAGA01": {
+            "Route": "BDAG-AGUASCALIENTES",
+            "Plant": "BDAG",
+            "Client Code": 205513229,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 92.0
+        },
+        "MAMC51": {
+            "Route": "AME0-MERIDA",
+            "Plant": "AME0",
+            "Client Code": 205214463,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 135.0
+        },
+        "MAMC55": {
+            "Route": "AME0-UMAN",
+            "Plant": "AME0",
+            "Client Code": 201604313,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 106.0
+        },
+        "MAMC58": {
+            "Route": "AME0-KANASIN",
+            "Plant": "AME0",
+            "Client Code": 205201482,
+            "Distance [km]": 23,
+            "Freight Cost Per Ton [$/ton]": 133.05371900826447
+        },
+        "MAMU01": {
+            "Route": "AME0-BENITO JUAREZ CANCUN",
+            "Plant": "AME0",
+            "Client Code": 201645358,
+            "Distance [km]": 339,
+            "Freight Cost Per Ton [$/ton]": 517.8851351351351
+        },
+        "MAMU02": {
+            "Route": "AME0-PLAYA DEL CARMEN",
+            "Plant": "AME0",
+            "Client Code": 201621668,
+            "Distance [km]": 350,
+            "Freight Cost Per Ton [$/ton]": 556.6881720430108
+        },
+        "MAMU07": {
+            "Route": "AME0-TULUM",
+            "Plant": "AME0",
+            "Client Code": 201679018,
+            "Distance [km]": 261,
+            "Freight Cost Per Ton [$/ton]": 528.0
+        },
+        "MAPACC": {
+            "Route": "AAP0-ACAPULCO CAMION",
+            "Plant": "AAP0",
+            "Client Code": "AAC0",
+            "Distance [km]": 515,
+            "Freight Cost Per Ton [$/ton]": 751.9642857142857
+        },
+        "MAPCEC": {
+            "Route": "AAP0-CELAYA CAMION",
+            "Plant": "AAP0",
+            "Client Code": "BMCE",
+            "Distance [km]": 247,
+            "Freight Cost Per Ton [$/ton]": 409.99
+        },
+        "MAPIRC": {
+            "Route": "AAP0-IRAPUATO CAMION",
+            "Plant": "AAP0",
+            "Client Code": "BTIR",
+            "Distance [km]": 267,
+            "Freight Cost Per Ton [$/ton]": 443.7330555555556
+        },
+        "MAPK01": {
+            "Route": "AAP0-TULANCINGO DE BRAVO",
+            "Plant": "AAP0",
+            "Client Code": 205505149,
+            "Distance [km]": 128,
+            "Freight Cost Per Ton [$/ton]": 281.46661290322584
+        },
+        "MAPK02": {
+            "Route": "AAP0-ZACUALTIPAN D ANGELE",
+            "Plant": "AAP0",
+            "Client Code": 201666877,
+            "Distance [km]": 190,
+            "Freight Cost Per Ton [$/ton]": 440.7764583333333
+        },
+        "MAPK03": {
+            "Route": "AAP0-APAN",
+            "Plant": "AAP0",
+            "Client Code": 201674968,
+            "Distance [km]": 145,
+            "Freight Cost Per Ton [$/ton]": 323.321
+        },
+        "MAPK04": {
+            "Route": "AAP0-HUEJUTLA DE REYES",
+            "Plant": "AAP0",
+            "Client Code": 201649440,
+            "Distance [km]": 237,
+            "Freight Cost Per Ton [$/ton]": 772.6020000000001
+        },
+        "MAPK05": {
+            "Route": "AAP0-HUEHUETLA",
+            "Plant": "AAP0",
+            "Client Code": 205510591,
+            "Distance [km]": 200,
+            "Freight Cost Per Ton [$/ton]": 812.915
+        },
+        "MAPK06": {
+            "Route": "AAP0-PACHUCA DE SOTO",
+            "Plant": "AAP0",
+            "Client Code": 205217932,
+            "Distance [km]": 75,
+            "Freight Cost Per Ton [$/ton]": 223.5297894736842
+        },
+        "MAPK07": {
+            "Route": "AAP0-IXMIQUILPAN",
+            "Plant": "AAP0",
+            "Client Code": 201675075,
+            "Distance [km]": 70,
+            "Freight Cost Per Ton [$/ton]": 278.44444444444446
+        },
+        "MAPK09": {
+            "Route": "AAP0-TULA DE ALLENDE",
+            "Plant": "AAP0",
+            "Client Code": 205515901,
+            "Distance [km]": 40,
+            "Freight Cost Per Ton [$/ton]": 179.4449180327869
+        },
+        "MAPK16": {
+            "Route": "AAP0-TEPEJI DEL RIO",
+            "Plant": "AAP0",
+            "Client Code": 201678397,
+            "Distance [km]": 75,
+            "Freight Cost Per Ton [$/ton]": 178.96076923076922
+        },
+        "MAPM01": {
+            "Route": "AAP0-APAXCO",
+            "Plant": "AAP0",
+            "Client Code": 201640474,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 86.21042735042735
+        },
+        "MAPM02": {
+            "Route": "AAP0-TEOTIHUACAN",
+            "Plant": "AAP0",
+            "Client Code": 201659491,
+            "Distance [km]": 48,
+            "Freight Cost Per Ton [$/ton]": 283.37119658119656
+        },
+        "MAPM03": {
+            "Route": "AAP0-TOLUCA",
+            "Plant": "AAP0",
+            "Client Code": 205515525,
+            "Distance [km]": 118,
+            "Freight Cost Per Ton [$/ton]": 328.0918085106383
+        },
+        "MAPM04": {
+            "Route": "AAP0-ATLACOMULCO",
+            "Plant": "AAP0",
+            "Client Code": 205242043,
+            "Distance [km]": 169,
+            "Freight Cost Per Ton [$/ton]": 253.33473684210526
+        },
+        "MAPM05": {
+            "Route": "AAP0-JILOTEPEC",
+            "Plant": "AAP0",
+            "Client Code": 205516154,
+            "Distance [km]": 80,
+            "Freight Cost Per Ton [$/ton]": 218.0448275862069
+        },
+        "MAPM06": {
+            "Route": "AAP0-VALLE DE BRAVO",
+            "Plant": "AAP0",
+            "Client Code": 201666109,
+            "Distance [km]": 221,
+            "Freight Cost Per Ton [$/ton]": 761.0853846153846
+        },
+        "MAPM09": {
+            "Route": "AAP0-ATIZAPAN",
+            "Plant": "AAP0",
+            "Client Code": "BMAT",
+            "Distance [km]": 51,
+            "Freight Cost Per Ton [$/ton]": 310.8
+        },
+        "MAPM20": {
+            "Route": "AAP0-POLOTITLAN",
+            "Plant": "AAP0",
+            "Client Code": 201683827,
+            "Distance [km]": 130,
+            "Freight Cost Per Ton [$/ton]": 302.6666666666667
+        },
+        "MAPM22": {
+            "Route": "AAP0-ATOTONILCO EL GRANDE",
+            "Plant": "AAP0",
+            "Client Code": 205213891,
+            "Distance [km]": 124,
+            "Freight Cost Per Ton [$/ton]": 390.0
+        },
+        "MAPM25": {
+            "Route": "AAP0-ZUMPANGO",
+            "Plant": "AAP0",
+            "Client Code": 201629575,
+            "Distance [km]": 25,
+            "Freight Cost Per Ton [$/ton]": 171.55222891566265
+        },
+        "MAPM45": {
+            "Route": "AAP0 - Aculco EDOMEX",
+            "Plant": "AAP0",
+            "Client Code": 201682365,
+            "Distance [km]": 100,
+            "Freight Cost Per Ton [$/ton]": 300.0
+        },
+        "MAPMPC": {
+            "Route": "AAP0-MACUSPANA CAMION",
+            "Plant": "AAP0",
+            "Client Code": "AMP0",
+            "Distance [km]": 871,
+            "Freight Cost Per Ton [$/ton]": 1479.48375
+        },
+        "MAPN01": {
+            "Route": "AAP0-MORELIA",
+            "Plant": "AAP0",
+            "Client Code": 205511092,
+            "Distance [km]": 295,
+            "Freight Cost Per Ton [$/ton]": 383.8469230769231
+        },
+        "MAPN02": {
+            "Route": "AAP0-APATZINGAN",
+            "Plant": "AAP0",
+            "Client Code": 205510847,
+            "Distance [km]": 445,
+            "Freight Cost Per Ton [$/ton]": 677.7367105263158
+        },
+        "MAPN04": {
+            "Route": "AAP0-ZITACUARO",
+            "Plant": "AAP0",
+            "Client Code": 201634017,
+            "Distance [km]": 262,
+            "Freight Cost Per Ton [$/ton]": 385.49636363636364
+        },
+        "MAPN05": {
+            "Route": "AAP0-URUAPAN",
+            "Plant": "AAP0",
+            "Client Code": 205515301,
+            "Distance [km]": 490,
+            "Freight Cost Per Ton [$/ton]": 537.10875
+        },
+        "MAPN10": {
+            "Route": "AAP0-PATZCUARO",
+            "Plant": "AAP0",
+            "Client Code": 201672920,
+            "Distance [km]": 416,
+            "Freight Cost Per Ton [$/ton]": 457.28999999999996
+        },
+        "MAPN29": {
+            "Route": "AAP0-VILLA DEL CARB\u00d3N",
+            "Plant": "AAP0",
+            "Client Code": 201679827,
+            "Distance [km]": 152,
+            "Freight Cost Per Ton [$/ton]": 300.0
+        },
+        "MAPO01": {
+            "Route": "AAP0-CUERNAVACA",
+            "Plant": "AAP0",
+            "Client Code": 201672398,
+            "Distance [km]": 160,
+            "Freight Cost Per Ton [$/ton]": 556.0627368421052
+        },
+        "MAPO02": {
+            "Route": "AAP0-CUAUTLA",
+            "Plant": "AAP0",
+            "Client Code": 205214664,
+            "Distance [km]": 177,
+            "Freight Cost Per Ton [$/ton]": 382.67571428571426
+        },
+        "MAPO07": {
+            "Route": "AAP0-TETELA DEL VOLCAN",
+            "Plant": "AAP0",
+            "Client Code": 205217747,
+            "Distance [km]": 215,
+            "Freight Cost Per Ton [$/ton]": 549.7345833333333
+        },
+        "MAPOZC": {
+            "Route": "AAP0-PLANTA ORIZABA",
+            "Plant": "AAP0",
+            "Client Code": "AOZ0",
+            "Distance [km]": 322,
+            "Freight Cost Per Ton [$/ton]": 696.2296296296297
+        },
+        "MAPPUC": {
+            "Route": "AAP0-PUEBLA CAMION",
+            "Plant": "AAP0",
+            "Client Code": "BTPU",
+            "Distance [km]": 242,
+            "Freight Cost Per Ton [$/ton]": 470.25380952380954
+        },
+        "MAPREC": {
+            "Route": "AAP0-REYES CAMION",
+            "Plant": "AAP0",
+            "Client Code": "BTRE",
+            "Distance [km]": 80,
+            "Freight Cost Per Ton [$/ton]": 222.64167673716014
+        },
+        "MAPS06": {
+            "Route": "AAP0-TEHUACAN",
+            "Plant": "AAP0",
+            "Client Code": 201644191,
+            "Distance [km]": 340,
+            "Freight Cost Per Ton [$/ton]": 533.465
+        },
+        "MAPS09": {
+            "Route": "AAP0-CIUDAD SERDAN",
+            "Plant": "AAP0",
+            "Client Code": 201665920,
+            "Distance [km]": 285,
+            "Freight Cost Per Ton [$/ton]": 480.8333333333333
+        },
+        "MAPS14": {
+            "Route": "AAP0-XICOTEPEC, PUEBLA",
+            "Plant": "AAP0",
+            "Client Code": 201679093,
+            "Distance [km]": 190,
+            "Freight Cost Per Ton [$/ton]": 395.0
+        },
+        "MAPS54": {
+            "Route": "AAP0-CALPULALPAN",
+            "Plant": "AAP0",
+            "Client Code": 201683175,
+            "Distance [km]": 118,
+            "Freight Cost Per Ton [$/ton]": 308.07
+        },
+        "MAPS55": {
+            "Route": "AAP0-Tlaxco, Tlaxcala",
+            "Plant": "AAP0",
+            "Client Code": 201675734,
+            "Distance [km]": 143,
+            "Freight Cost Per Ton [$/ton]": 352.5
+        },
+        "MAPT01": {
+            "Route": "AAP0-QUERETARO",
+            "Plant": "AAP0",
+            "Client Code": 201668620,
+            "Distance [km]": 174,
+            "Freight Cost Per Ton [$/ton]": 335.7259448818898
+        },
+        "MAPT02": {
+            "Route": "AAP0-EZEQUIEL MONTES",
+            "Plant": "AAP0",
+            "Client Code": 205200183,
+            "Distance [km]": 240,
+            "Freight Cost Per Ton [$/ton]": 254.80000000000004
+        },
+        "MAPT05": {
+            "Route": "AAP0-SAN JUAN DEL RIO",
+            "Plant": "AAP0",
+            "Client Code": 205213867,
+            "Distance [km]": 126,
+            "Freight Cost Per Ton [$/ton]": 178.05
+        },
+        "MAPT07": {
+            "Route": "AAP0-PINAL DE AMOLES",
+            "Plant": "AAP0",
+            "Client Code": 201670667,
+            "Distance [km]": 273,
+            "Freight Cost Per Ton [$/ton]": 1250.06
+        },
+        "MAPTOC": {
+            "Route": "AAP0-TOLUCA CAMION",
+            "Plant": "AAP0",
+            "Client Code": "BTTO",
+            "Distance [km]": 154,
+            "Freight Cost Per Ton [$/ton]": 273.8509903201787
+        },
+        "MAPVAC": {
+            "Route": "AAP0-VALLEJO CAMION",
+            "Plant": "AAP0",
+            "Client Code": "BTVA",
+            "Distance [km]": 80,
+            "Freight Cost Per Ton [$/ton]": 159.17
+        },
+        "MAPVRC": {
+            "Route": "AAP0-CABEZA OLMECA CAMION",
+            "Plant": "AAP0",
+            "Client Code": "BDVR",
+            "Distance [km]": 439,
+            "Freight Cost Per Ton [$/ton]": 850.0
+        },
+        "MAPZ05": {
+            "Route": "AAP0-POZA RICA DE HIDALGO",
+            "Plant": "AAP0",
+            "Client Code": 201635642,
+            "Distance [km]": 285,
+            "Freight Cost Per Ton [$/ton]": 436.9840404040404
+        },
+        "MAPZ06": {
+            "Route": "AAP0-TUXPAN DE RODRIGUEZ",
+            "Plant": "AAP0",
+            "Client Code": 201635768,
+            "Distance [km]": 332,
+            "Freight Cost Per Ton [$/ton]": 483.18888888888887
+        },
+        "MAPZ20": {
+            "Route": "AAP0-TANTOYUCA",
+            "Plant": "AAP0",
+            "Client Code": 201659201,
+            "Distance [km]": 338,
+            "Freight Cost Per Ton [$/ton]": 547.9633333333334
+        },
+        "MAPZ21": {
+            "Route": "AAP0-NARANJOS AMATLAN",
+            "Plant": "AAP0",
+            "Client Code": 205516735,
+            "Distance [km]": 387,
+            "Freight Cost Per Ton [$/ton]": 610.0
+        },
+        "MAPZ35": {
+            "Route": "AAP0-Ixhuatl\u00e1n de Madero Ver",
+            "Plant": "AAP0",
+            "Client Code": 201678752,
+            "Distance [km]": 270,
+            "Freight Cost Per Ton [$/ton]": 899.88
+        },
+        "MAPZ36": {
+            "Route": "AAP0-\u00c1LAMO VERACRUZ",
+            "Plant": "AAP0",
+            "Client Code": 201684474,
+            "Distance [km]": 276,
+            "Freight Cost Per Ton [$/ton]": 1065.0
+        },
+        "MCHE01": {
+            "Route": "BDCH-CAMARGO",
+            "Plant": "BDCH",
+            "Client Code": 201671550,
+            "Distance [km]": 145,
+            "Freight Cost Per Ton [$/ton]": 273.85714285714283
+        },
+        "MCHE02": {
+            "Route": "BDCH-CHIHUAHUA",
+            "Plant": "BDCH",
+            "Client Code": 201658761,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 104.55867768595041
+        },
+        "MCHE03": {
+            "Route": "BDCH-DELICIAS",
+            "Plant": "BDCH",
+            "Client Code": 201610026,
+            "Distance [km]": 84,
+            "Freight Cost Per Ton [$/ton]": 187.98666666666668
+        },
+        "MCHE04": {
+            "Route": "BDCH-CIUDAD CUAUHTEMOC",
+            "Plant": "BDCH",
+            "Client Code": 205212520,
+            "Distance [km]": 105,
+            "Freight Cost Per Ton [$/ton]": 252.5
+        },
+        "MCHE05": {
+            "Route": "BDCH-OJINAGA",
+            "Plant": "BDCH",
+            "Client Code": 205502802,
+            "Distance [km]": 235,
+            "Freight Cost Per Ton [$/ton]": 331.9230769230769
+        },
+        "MCHE07": {
+            "Route": "BDCH-NUEVO CASAS GRANDES",
+            "Plant": "BDCH",
+            "Client Code": 201641967,
+            "Distance [km]": 290,
+            "Freight Cost Per Ton [$/ton]": 413.6363636363636
+        },
+        "MCHE20": {
+            "Route": "BDCH-CAMPO 67",
+            "Plant": "BDCH",
+            "Client Code": 205515688,
+            "Distance [km]": 204,
+            "Freight Cost Per Ton [$/ton]": 290.0
+        },
+        "MCHE21": {
+            "Route": "BDCH-GUERRERO, CHIH",
+            "Plant": "BDCH",
+            "Client Code": 205219091,
+            "Distance [km]": 195,
+            "Freight Cost Per Ton [$/ton]": 310.34375
+        },
+        "MCHE22": {
+            "Route": "BDCH-BUENAVENTURA, CHIH",
+            "Plant": "BDCH",
+            "Client Code": 201676726,
+            "Distance [km]": 268,
+            "Freight Cost Per Ton [$/ton]": 337.4193548387097
+        },
+        "MCJE07": {
+            "Route": "BDCJ-NUEVO CASAS GRANDES",
+            "Plant": "BDCJ",
+            "Client Code": 205515025,
+            "Distance [km]": 277,
+            "Freight Cost Per Ton [$/ton]": 230.16180555555553
+        },
+        "MCJE14": {
+            "Route": "BDCJ-ASCENSION",
+            "Plant": "BDCJ",
+            "Client Code": 201669681,
+            "Distance [km]": 184,
+            "Freight Cost Per Ton [$/ton]": 181.2718181818182
+        },
+        "MCJE16": {
+            "Route": "BDCJ-EL MIGUEL, CHIH",
+            "Plant": "BDCJ",
+            "Client Code": 201685410,
+            "Distance [km]": 222,
+            "Freight Cost Per Ton [$/ton]": 285.76
+        },
+        "MCJE22": {
+            "Route": "BDCJ-BUENAVENTURA, CHIH",
+            "Plant": "BDCJ",
+            "Client Code": 201670210,
+            "Distance [km]": 285,
+            "Freight Cost Per Ton [$/ton]": 282.2025
+        },
+        "MCLP51": {
+            "Route": "BTCL-CULIACAN",
+            "Plant": "BTCL",
+            "Client Code": 201644887,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 71.34447154471546
+        },
+        "MCLP56": {
+            "Route": "BTCL-CHOIX",
+            "Plant": "BTCL",
+            "Client Code": 201662636,
+            "Distance [km]": 352,
+            "Freight Cost Per Ton [$/ton]": 373.5973333333333
+        },
+        "MCLP61": {
+            "Route": "BTCL-VALLE DE CULIAC\u00c1N",
+            "Plant": "BTCL",
+            "Client Code": 201646284,
+            "Distance [km]": 60,
+            "Freight Cost Per Ton [$/ton]": 109.5391836734694
+        },
+        "MCLPAC": {
+            "Route": "BTCL-LA PAZ CAMION TOPOLOBAMPO",
+            "Plant": "BTCL",
+            "Client Code": "BDPA",
+            "Distance [km]": 266,
+            "Freight Cost Per Ton [$/ton]": 545.0
+        },
+        "MESL01": {
+            "Route": "BDES-GUADALAJARA",
+            "Plant": "BDES",
+            "Client Code": 205210464,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 115.0
+        },
+        "MESL02": {
+            "Route": "BDES-ZAPOPAN",
+            "Plant": "BDES",
+            "Client Code": 205206538,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 113.0
+        },
+        "MESL05": {
+            "Route": "BDES-TLAJOMULCO DE ZU\u00d1IGA",
+            "Plant": "BDES",
+            "Client Code": 205514351,
+            "Distance [km]": 45,
+            "Freight Cost Per Ton [$/ton]": 115.0
+        },
+        "MESL06": {
+            "Route": "BDES-EL SALTO",
+            "Plant": "BDES",
+            "Client Code": 205515097,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 108.75
+        },
+        "MESL11": {
+            "Route": "BDES-TEPATITLAN D MORELOS",
+            "Plant": "BDES",
+            "Client Code": 201678880,
+            "Distance [km]": 83,
+            "Freight Cost Per Ton [$/ton]": 240.0
+        },
+        "MESL13": {
+            "Route": "BDES-OCOTLAN",
+            "Plant": "BDES",
+            "Client Code": 205204967,
+            "Distance [km]": 84,
+            "Freight Cost Per Ton [$/ton]": 256.6666666666667
+        },
+        "MESL16": {
+            "Route": "BDES-AYOTLAN",
+            "Plant": "BDES",
+            "Client Code": 205209247,
+            "Distance [km]": 107,
+            "Freight Cost Per Ton [$/ton]": 336.0
+        },
+        "MESL22": {
+            "Route": "BDES-TEQUILA",
+            "Plant": "BDES",
+            "Client Code": 205514982,
+            "Distance [km]": 97,
+            "Freight Cost Per Ton [$/ton]": 270.0
+        },
+        "MESP01": {
+            "Route": "BDES-TEPIC",
+            "Plant": "BDES",
+            "Client Code": 205240590,
+            "Distance [km]": 250,
+            "Freight Cost Per Ton [$/ton]": 519.0
+        },
+        "MESP02": {
+            "Route": "BDES-TUXPAN, NAY",
+            "Plant": "BDES",
+            "Client Code": 205514454,
+            "Distance [km]": 310,
+            "Freight Cost Per Ton [$/ton]": 516.0
+        },
+        "MESP03": {
+            "Route": "BDES-ACAPONETA",
+            "Plant": "BDES",
+            "Client Code": 205512499,
+            "Distance [km]": 368,
+            "Freight Cost Per Ton [$/ton]": 670.0
+        },
+        "MESP05": {
+            "Route": "BDES-IXTLAN DEL RIO",
+            "Plant": "BDES",
+            "Client Code": 201654806,
+            "Distance [km]": 156,
+            "Freight Cost Per Ton [$/ton]": 310.0
+        },
+        "MESZAC": {
+            "Route": "BDES-ZAPOPAN CAMION",
+            "Plant": "BDES",
+            "Client Code": "BTZA",
+            "Distance [km]": 20,
+            "Freight Cost Per Ton [$/ton]": 52.37
+        },
+        "MHRCHC": {
+            "Route": "AHR0-CHIHUAHUA CAMION",
+            "Plant": "AHR0",
+            "Client Code": "BDCH",
+            "Distance [km]": 881,
+            "Freight Cost Per Ton [$/ton]": 910.68
+        },
+        "MHRCJC": {
+            "Route": "AHR0-CIUDAD JUAREZ CAMION",
+            "Plant": "AHR0",
+            "Client Code": "BDCJ",
+            "Distance [km]": 752,
+            "Freight Cost Per Ton [$/ton]": 744.243593220339
+        },
+        "MHRCLC": {
+            "Route": "AHR0-CULIACAN CAMION",
+            "Plant": "AHR0",
+            "Client Code": "BTCL",
+            "Distance [km]": 700,
+            "Freight Cost Per Ton [$/ton]": 654.62125
+        },
+        "MHRMSC": {
+            "Route": "AHR0-BODEGA MOCHIS",
+            "Plant": "AHR0",
+            "Client Code": "BDMO",
+            "Distance [km]": 520,
+            "Freight Cost Per Ton [$/ton]": 641.7024675324675
+        },
+        "MHRMXC": {
+            "Route": "AHR0-MEXICALI CAMION",
+            "Plant": "AHR0",
+            "Client Code": "BTMX",
+            "Distance [km]": 702,
+            "Freight Cost Per Ton [$/ton]": 826.8762595419847
+        },
+        "MHRMZB": {
+            "Route": "AHR0-LA PAZ BARCO",
+            "Plant": "AHR0",
+            "Client Code": "BDPA",
+            "Distance [km]": 884,
+            "Freight Cost Per Ton [$/ton]": 1175.0229729729729
+        },
+        "MHRMZC": {
+            "Route": "AHR0-MAZATLAN CAMION",
+            "Plant": "AHR0",
+            "Client Code": "BDMZ",
+            "Distance [km]": 884,
+            "Freight Cost Per Ton [$/ton]": 977.0365384615385
+        },
+        "MHRPAC": {
+            "Route": "AHR0-LA PAZ CAMION",
+            "Plant": "AHR0",
+            "Client Code": "BDPA",
+            "Distance [km]": 572,
+            "Freight Cost Per Ton [$/ton]": 792.8472695449241
+        },
+        "MHRTIC": {
+            "Route": "AHR0-TIJUANA CAMION",
+            "Plant": "AHR0",
+            "Client Code": "BDTI",
+            "Distance [km]": 891,
+            "Freight Cost Per Ton [$/ton]": 957.551875
+        },
+        "MHRW01": {
+            "Route": "AHR0-CAJEME (CD OBREGON)",
+            "Plant": "AHR0",
+            "Client Code": 201650148,
+            "Distance [km]": 270,
+            "Freight Cost Per Ton [$/ton]": 387.23820512820515
+        },
+        "MHRW02": {
+            "Route": "AHR0-GUAYMAS",
+            "Plant": "AHR0",
+            "Client Code": 205213780,
+            "Distance [km]": 168,
+            "Freight Cost Per Ton [$/ton]": 230.385
+        },
+        "MHRW03": {
+            "Route": "AHR0-NAVOJOA",
+            "Plant": "AHR0",
+            "Client Code": 205215022,
+            "Distance [km]": 323,
+            "Freight Cost Per Ton [$/ton]": 466.21090909090907
+        },
+        "MHRW04": {
+            "Route": "AHR0-HERMOSILLO",
+            "Plant": "AHR0",
+            "Client Code": 201670195,
+            "Distance [km]": 40,
+            "Freight Cost Per Ton [$/ton]": 105.60051779935274
+        },
+        "MHRW05": {
+            "Route": "AHR0-NOGALES",
+            "Plant": "AHR0",
+            "Client Code": 201633117,
+            "Distance [km]": 301,
+            "Freight Cost Per Ton [$/ton]": 421.95909090909095
+        },
+        "MHRW06": {
+            "Route": "AHR0-AGUA PRIETA",
+            "Plant": "AHR0",
+            "Client Code": 201670837,
+            "Distance [km]": 400,
+            "Freight Cost Per Ton [$/ton]": 510.61
+        },
+        "MHRW08": {
+            "Route": "AHR0-CABORCA",
+            "Plant": "AHR0",
+            "Client Code": 205210025,
+            "Distance [km]": 294,
+            "Freight Cost Per Ton [$/ton]": 440.05686274509804
+        },
+        "MHRW09": {
+            "Route": "AHR0-NACOZARI DE GARCIA",
+            "Plant": "AHR0",
+            "Client Code": 201659761,
+            "Distance [km]": 277,
+            "Freight Cost Per Ton [$/ton]": 495.0
+        },
+        "MHRW10": {
+            "Route": "AHR0-PUERTO PE\u00d1ASCO",
+            "Plant": "AHR0",
+            "Client Code": 205205776,
+            "Distance [km]": 567,
+            "Freight Cost Per Ton [$/ton]": 608.7660869565218
+        },
+        "MHRW11": {
+            "Route": "AHR0-IMURIS",
+            "Plant": "AHR0",
+            "Client Code": 201627083,
+            "Distance [km]": 233,
+            "Freight Cost Per Ton [$/ton]": 373.063125
+        },
+        "MHRW19": {
+            "Route": "AHR0-SANTA ANA",
+            "Plant": "AHR0",
+            "Client Code": 201646237,
+            "Distance [km]": 193,
+            "Freight Cost Per Ton [$/ton]": 296.158
+        },
+        "MHRW23": {
+            "Route": "AHR0-ACONCHI",
+            "Plant": "AHR0",
+            "Client Code": 201628817,
+            "Distance [km]": 192,
+            "Freight Cost Per Ton [$/ton]": 294.3718181818182
+        },
+        "MHRW30": {
+            "Route": "AHR0-HUATA (ESTACION DON)",
+            "Plant": "AHR0",
+            "Client Code": 201650146,
+            "Distance [km]": 443,
+            "Freight Cost Per Ton [$/ton]": 534.4671428571429
+        },
+        "MHRW46": {
+            "Route": "AHR0 - EMPALME",
+            "Plant": "AHR0",
+            "Client Code": 201675025,
+            "Distance [km]": 165,
+            "Freight Cost Per Ton [$/ton]": 235.0
+        },
+        "MIRESC": {
+            "Route": "BTIR-EL SALTO CAMION",
+            "Plant": "BTIR",
+            "Client Code": "BDES",
+            "Distance [km]": 280,
+            "Freight Cost Per Ton [$/ton]": 488.69
+        },
+        "MIRI01": {
+            "Route": "BTIR-LEON",
+            "Plant": "BTIR",
+            "Client Code": 201672404,
+            "Distance [km]": 67,
+            "Freight Cost Per Ton [$/ton]": 208.62390891840607
+        },
+        "MIRI02": {
+            "Route": "BTIR-CELAYA",
+            "Plant": "BTIR",
+            "Client Code": 201675421,
+            "Distance [km]": 61,
+            "Freight Cost Per Ton [$/ton]": 185.35999999999999
+        },
+        "MIRI04": {
+            "Route": "BTIR-SAN MIGUEL D ALLENDE",
+            "Plant": "BTIR",
+            "Client Code": 201678410,
+            "Distance [km]": 95,
+            "Freight Cost Per Ton [$/ton]": 290.0
+        },
+        "MIRI05": {
+            "Route": "BTIR-ACAMBARO",
+            "Plant": "BTIR",
+            "Client Code": 201685488,
+            "Distance [km]": 131,
+            "Freight Cost Per Ton [$/ton]": 424.02
+        },
+        "MIRI06": {
+            "Route": "BTIR-IRAPUATO",
+            "Plant": "BTIR",
+            "Client Code": 201684959,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 97.86333333333334
+        },
+        "MIRI08": {
+            "Route": "BTIR-SAN LUIS DE LA PAZ",
+            "Plant": "BTIR",
+            "Client Code": 201685487,
+            "Distance [km]": 148,
+            "Freight Cost Per Ton [$/ton]": 477.12
+        },
+        "MIRI09": {
+            "Route": "BTIR-SALAMANCA",
+            "Plant": "BTIR",
+            "Client Code": 201641851,
+            "Distance [km]": 21,
+            "Freight Cost Per Ton [$/ton]": 149.8
+        },
+        "MIRI10": {
+            "Route": "BTIR-SAN JOSE ITURBIDE",
+            "Plant": "BTIR",
+            "Client Code": 201685364,
+            "Distance [km]": 160,
+            "Freight Cost Per Ton [$/ton]": 410.0
+        },
+        "MIRI11": {
+            "Route": "BTIR-SILAO",
+            "Plant": "BTIR",
+            "Client Code": 201620102,
+            "Distance [km]": 36,
+            "Freight Cost Per Ton [$/ton]": 146.06307692307692
+        },
+        "MIRI17": {
+            "Route": "BTIR-APASEO EL GRANDE",
+            "Plant": "BTIR",
+            "Client Code": 201675028,
+            "Distance [km]": 75,
+            "Freight Cost Per Ton [$/ton]": 331.53846153846155
+        },
+        "MIRN01": {
+            "Route": "BTIR-MORELIA",
+            "Plant": "BTIR",
+            "Client Code": 201644037,
+            "Distance [km]": 165,
+            "Freight Cost Per Ton [$/ton]": 329.15941860465114
+        },
+        "MIRN02": {
+            "Route": "BTIR-APATZINGAN",
+            "Plant": "BTIR",
+            "Client Code": 201645157,
+            "Distance [km]": 387,
+            "Freight Cost Per Ton [$/ton]": 745.5727374301675
+        },
+        "MIRN03": {
+            "Route": "BTIR-PURUANDIRO",
+            "Plant": "BTIR",
+            "Client Code": 201607884,
+            "Distance [km]": 96,
+            "Freight Cost Per Ton [$/ton]": 209.16
+        },
+        "MIRN05": {
+            "Route": "BTIR-URUAPAN",
+            "Plant": "BTIR",
+            "Client Code": 201659089,
+            "Distance [km]": 298,
+            "Freight Cost Per Ton [$/ton]": 526.2216911764706
+        },
+        "MIRN07": {
+            "Route": "BTIR-ZAMORA",
+            "Plant": "BTIR",
+            "Client Code": 201642494,
+            "Distance [km]": 142,
+            "Freight Cost Per Ton [$/ton]": 363.35097560975606
+        },
+        "MIRN10": {
+            "Route": "BTIR-PATZCUARO",
+            "Plant": "BTIR",
+            "Client Code": 205507846,
+            "Distance [km]": 240,
+            "Freight Cost Per Ton [$/ton]": 410.75454545454545
+        },
+        "MIRN13": {
+            "Route": "BTIR-ARIO DE ROSALES",
+            "Plant": "BTIR",
+            "Client Code": 201647146,
+            "Distance [km]": 240,
+            "Freight Cost Per Ton [$/ton]": 520.01
+        },
+        "MIRN15": {
+            "Route": "BTIR-LOS REYES",
+            "Plant": "BTIR",
+            "Client Code": 205509967,
+            "Distance [km]": 298,
+            "Freight Cost Per Ton [$/ton]": 502.34818181818173
+        },
+        "MIRN16": {
+            "Route": "BTIR-SAHUAYO",
+            "Plant": "BTIR",
+            "Client Code": 205214841,
+            "Distance [km]": 207,
+            "Freight Cost Per Ton [$/ton]": 416.61545454545455
+        },
+        "MIRN18": {
+            "Route": "BTIR-TACAMBARO",
+            "Plant": "BTIR",
+            "Client Code": 205515666,
+            "Distance [km]": 226,
+            "Freight Cost Per Ton [$/ton]": 537.1057142857143
+        },
+        "MIRN19": {
+            "Route": "BTIR-LA PIEDAD",
+            "Plant": "BTIR",
+            "Client Code": 205511711,
+            "Distance [km]": 85,
+            "Freight Cost Per Ton [$/ton]": 208.9835294117647
+        },
+        "MIRN27": {
+            "Route": "BTIR-ZINAPECUARO FIGUEROA",
+            "Plant": "BTIR",
+            "Client Code": 201672271,
+            "Distance [km]": 152,
+            "Freight Cost Per Ton [$/ton]": 340.0
+        },
+        "MIRN35": {
+            "Route": "BTIR-TANC\u00cdTARO",
+            "Plant": "BTIR",
+            "Client Code": 201654521,
+            "Distance [km]": 273,
+            "Freight Cost Per Ton [$/ton]": 776.5774647887324
+        },
+        "MMOAGC": {
+            "Route": "BTMO-BODEGA AGUASCALIENTES",
+            "Plant": "BTMO",
+            "Client Code": "BDAG",
+            "Distance [km]": 580,
+            "Freight Cost Per Ton [$/ton]": 698.75
+        },
+        "MMOCHC": {
+            "Route": "BTMO-CHIHUAHUA CAMION",
+            "Plant": "BTMO",
+            "Client Code": "BDCH",
+            "Distance [km]": 816,
+            "Freight Cost Per Ton [$/ton]": 1060.3067839195978
+        },
+        "MMOCJC": {
+            "Route": "BTMO-BODEGA JUAREZ CAMI\u00d3N",
+            "Plant": "BTMO",
+            "Client Code": "BDCJ",
+            "Distance [km]": 1188,
+            "Freight Cost Per Ton [$/ton]": 1784.83
+        },
+        "MMOE04": {
+            "Route": "BTMO-CIUDAD CUAUHTEMOC",
+            "Plant": "BTMO",
+            "Client Code": 205212520,
+            "Distance [km]": 923,
+            "Freight Cost Per Ton [$/ton]": 1150.0
+        },
+        "MMOE08": {
+            "Route": "BTMO-HIDALGO DEL PARRAL",
+            "Plant": "BTMO",
+            "Client Code": 205516094,
+            "Distance [km]": 674,
+            "Freight Cost Per Ton [$/ton]": 950.0
+        },
+        "MMOF09": {
+            "Route": "BTMO-SALTILLO",
+            "Plant": "BTMO",
+            "Client Code": 201677335,
+            "Distance [km]": 115,
+            "Freight Cost Per Ton [$/ton]": 243.77328125
+        },
+        "MMOH01": {
+            "Route": "BTMO-DURANGO",
+            "Plant": "BTMO",
+            "Client Code": 205207045,
+            "Distance [km]": 604,
+            "Freight Cost Per Ton [$/ton]": 983.25
+        },
+        "MMOH05": {
+            "Route": "BTMO-GOMEZ PALACIO",
+            "Plant": "BTMO",
+            "Client Code": 201654313,
+            "Distance [km]": 580,
+            "Freight Cost Per Ton [$/ton]": 563.75
+        },
+        "MMOQ02": {
+            "Route": "BTMO-MONTERREY",
+            "Plant": "BTMO",
+            "Client Code": 205202078,
+            "Distance [km]": 40,
+            "Freight Cost Per Ton [$/ton]": 140.32666666666668
+        },
+        "MMOQ03": {
+            "Route": "BTMO-GUADALUPE",
+            "Plant": "BTMO",
+            "Client Code": 201606926,
+            "Distance [km]": 60,
+            "Freight Cost Per Ton [$/ton]": 157.56024691358024
+        },
+        "MMOQ04": {
+            "Route": "BTMO-SANTA CATARINA",
+            "Plant": "BTMO",
+            "Client Code": 201672117,
+            "Distance [km]": 50,
+            "Freight Cost Per Ton [$/ton]": 156.76365853658535
+        },
+        "MMOQ05": {
+            "Route": "BTMO-GENERAL ESCOBEDO",
+            "Plant": "BTMO",
+            "Client Code": 201639513,
+            "Distance [km]": 40,
+            "Freight Cost Per Ton [$/ton]": 133.35568807339448
+        },
+        "MMOQ06": {
+            "Route": "BTMO-ALLENDE",
+            "Plant": "BTMO",
+            "Client Code": 201617273,
+            "Distance [km]": 100,
+            "Freight Cost Per Ton [$/ton]": 177.48493506493506
+        },
+        "MMOQ08": {
+            "Route": "BTMO-SABINAS HIDALGO",
+            "Plant": "BTMO",
+            "Client Code": 201679819,
+            "Distance [km]": 120,
+            "Freight Cost Per Ton [$/ton]": 289.99
+        },
+        "MMOQ09": {
+            "Route": "BTMO-ANAHUAC",
+            "Plant": "BTMO",
+            "Client Code": 205212466,
+            "Distance [km]": 196,
+            "Freight Cost Per Ton [$/ton]": 416.66
+        },
+        "MMOQ13": {
+            "Route": "BTMO-CADEREYTA JIMENEZ",
+            "Plant": "BTMO",
+            "Client Code": 205508756,
+            "Distance [km]": 50,
+            "Freight Cost Per Ton [$/ton]": 168.5995652173913
+        },
+        "MMOQ14": {
+            "Route": "BTMO-CIENEGA DE FLORES",
+            "Plant": "BTMO",
+            "Client Code": 201672085,
+            "Distance [km]": 23,
+            "Freight Cost Per Ton [$/ton]": 150.82625000000002
+        },
+        "MMORYC": {
+            "Route": "BTMO-TRASLADO REYNOSA CAMI\u00d3N",
+            "Plant": "BTMO",
+            "Client Code": "BMRY",
+            "Distance [km]": 231,
+            "Freight Cost Per Ton [$/ton]": 389.95209790209793
+        },
+        "MMOSLC": {
+            "Route": "BTMO-SAN LUIS POTOSI CAMION",
+            "Plant": "BTMO",
+            "Client Code": "BTSL",
+            "Distance [km]": 545,
+            "Freight Cost Per Ton [$/ton]": 670.0
+        },
+        "MMOTAC": {
+            "Route": "BTMO-TAMPICO CAMION",
+            "Plant": "BTMO",
+            "Client Code": "BDTA",
+            "Distance [km]": 800,
+            "Freight Cost Per Ton [$/ton]": 623.4827777777778
+        },
+        "MMOY16": {
+            "Route": "BTMO-DELICIAS,CHIHUAHUA",
+            "Plant": "BTMO",
+            "Client Code": 201610026,
+            "Distance [km]": 740,
+            "Freight Cost Per Ton [$/ton]": 965.0
+        },
+        "MMOY17": {
+            "Route": "BTMO-CAMARGO,CHIHUAHUA",
+            "Plant": "BTMO",
+            "Client Code": 205516458,
+            "Distance [km]": 686,
+            "Freight Cost Per Ton [$/ton]": 954.5
+        },
+        "MMPAMC": {
+            "Route": "AMP0-PLANTA MERIDA CAMION",
+            "Plant": "AMP0",
+            "Client Code": "AME0",
+            "Distance [km]": 536,
+            "Freight Cost Per Ton [$/ton]": 540.6927499999999
+        },
+        "MMPC01": {
+            "Route": "AMP0-CAMPECHE",
+            "Plant": "AMP0",
+            "Client Code": 201678142,
+            "Distance [km]": 410,
+            "Freight Cost Per Ton [$/ton]": 567.8518181818182
+        },
+        "MMPC02": {
+            "Route": "AMP0-CIUDAD DEL CARMEN",
+            "Plant": "AMP0",
+            "Client Code": 205214466,
+            "Distance [km]": 220,
+            "Freight Cost Per Ton [$/ton]": 577.2619014084507
+        },
+        "MMPC03": {
+            "Route": "AMP0-CANDELARIA",
+            "Plant": "AMP0",
+            "Client Code": 205236037,
+            "Distance [km]": 190,
+            "Freight Cost Per Ton [$/ton]": 355.8748484848485
+        },
+        "MMPC04": {
+            "Route": "AMP0-ESCARCEGA",
+            "Plant": "AMP0",
+            "Client Code": 205214314,
+            "Distance [km]": 230,
+            "Freight Cost Per Ton [$/ton]": 441.4585039370079
+        },
+        "MMPC05": {
+            "Route": "AMP0-CHAMPOTON",
+            "Plant": "AMP0",
+            "Client Code": 201675169,
+            "Distance [km]": 310,
+            "Freight Cost Per Ton [$/ton]": 483.2710144927536
+        },
+        "MMPC07": {
+            "Route": "AMP0-XPUJIL",
+            "Plant": "AMP0",
+            "Client Code": 201674172,
+            "Distance [km]": 385,
+            "Freight Cost Per Ton [$/ton]": 612.802380952381
+        },
+        "MMPC58": {
+            "Route": "AMP0-KANASIN",
+            "Plant": "AMP0",
+            "Client Code": 201641816,
+            "Distance [km]": 549,
+            "Freight Cost Per Ton [$/ton]": 537.2972631578947
+        },
+        "MMPD01": {
+            "Route": "AMP0-PICHUCALCO",
+            "Plant": "AMP0",
+            "Client Code": 201677905,
+            "Distance [km]": 99,
+            "Freight Cost Per Ton [$/ton]": 435.35360000000003
+        },
+        "MMPD02": {
+            "Route": "AMP0-ARRIAGA",
+            "Plant": "AMP0",
+            "Client Code": 205214461,
+            "Distance [km]": 629,
+            "Freight Cost Per Ton [$/ton]": 754.6477272727273
+        },
+        "MMPD03": {
+            "Route": "AMP0-TAPACHULA",
+            "Plant": "AMP0",
+            "Client Code": 205214469,
+            "Distance [km]": 744,
+            "Freight Cost Per Ton [$/ton]": 953.2142201834863
+        },
+        "MMPD04": {
+            "Route": "AMP0-MOTOZINTLA",
+            "Plant": "AMP0",
+            "Client Code": 201647639,
+            "Distance [km]": 728,
+            "Freight Cost Per Ton [$/ton]": 1136.5700000000002
+        },
+        "MMPD05": {
+            "Route": "AMP0-SAN CRISTOBAL CASAS",
+            "Plant": "AMP0",
+            "Client Code": 205215226,
+            "Distance [km]": 519,
+            "Freight Cost Per Ton [$/ton]": 802.87
+        },
+        "MMPD06": {
+            "Route": "AMP0-PALENQUE",
+            "Plant": "AMP0",
+            "Client Code": 205216608,
+            "Distance [km]": 80,
+            "Freight Cost Per Ton [$/ton]": 242.57951515151518
+        },
+        "MMPD07": {
+            "Route": "AMP0-COMITAN DE DOMINGUEZ",
+            "Plant": "AMP0",
+            "Client Code": 201676390,
+            "Distance [km]": 584,
+            "Freight Cost Per Ton [$/ton]": 849.64
+        },
+        "MMPD08": {
+            "Route": "AMP0-TUXTLA GUTIERREZ",
+            "Plant": "AMP0",
+            "Client Code": 205218172,
+            "Distance [km]": 434,
+            "Freight Cost Per Ton [$/ton]": 583.670743801653
+        },
+        "MMPD09": {
+            "Route": "AMP0-OCOSINGO",
+            "Plant": "AMP0",
+            "Client Code": 205214464,
+            "Distance [km]": 165,
+            "Freight Cost Per Ton [$/ton]": 573.9805272407733
+        },
+        "MMPD10": {
+            "Route": "AMP0-REFORMA",
+            "Plant": "AMP0",
+            "Client Code": 201650734,
+            "Distance [km]": 110,
+            "Freight Cost Per Ton [$/ton]": 336.67270386266097
+        },
+        "MMPD13": {
+            "Route": "AMP0-TONALA, CHIAPAS",
+            "Plant": "AMP0",
+            "Client Code": 205214467,
+            "Distance [km]": 616,
+            "Freight Cost Per Ton [$/ton]": 777.4371428571428
+        },
+        "MMPD16": {
+            "Route": "AMP0-YAJALON",
+            "Plant": "AMP0",
+            "Client Code": 201625576,
+            "Distance [km]": 95,
+            "Freight Cost Per Ton [$/ton]": 530.7975187969924
+        },
+        "MMPD17": {
+            "Route": "AMP0-BENEM D LAS AMERICAS",
+            "Plant": "AMP0",
+            "Client Code": 201681880,
+            "Distance [km]": 300,
+            "Freight Cost Per Ton [$/ton]": 591.107
+        },
+        "MMPD20": {
+            "Route": "AMP0-HUIXTAN",
+            "Plant": "AMP0",
+            "Client Code": 205515895,
+            "Distance [km]": 274,
+            "Freight Cost Per Ton [$/ton]": 684.248850931677
+        },
+        "MMPD22": {
+            "Route": "AMP0-FRONTERA COMALAPA",
+            "Plant": "AMP0",
+            "Client Code": 201678745,
+            "Distance [km]": 678,
+            "Freight Cost Per Ton [$/ton]": 902.0314285714285
+        },
+        "MMPD23": {
+            "Route": "AMP0-RAUDALES MALPASO",
+            "Plant": "AMP0",
+            "Client Code": 201681594,
+            "Distance [km]": 233,
+            "Freight Cost Per Ton [$/ton]": 367.39
+        },
+        "MMPD25": {
+            "Route": "AMP0-VILLAFLORES 30470",
+            "Plant": "AMP0",
+            "Client Code": 205515916,
+            "Distance [km]": 490,
+            "Freight Cost Per Ton [$/ton]": 742.0
+        },
+        "MMPD30": {
+            "Route": "AMP0-CHICOMUCELO",
+            "Plant": "AMP0",
+            "Client Code": 205213977,
+            "Distance [km]": 702,
+            "Freight Cost Per Ton [$/ton]": 868.702
+        },
+        "MMPD35": {
+            "Route": "AMP0-La Independencia CHS",
+            "Plant": "AMP0",
+            "Client Code": 205514889,
+            "Distance [km]": 789,
+            "Freight Cost Per Ton [$/ton]": 1004.6032786885246
+        },
+        "MMPTGC": {
+            "Route": "AMP0 - BODEGA TUXTLA GUTI\u00c9RREZ",
+            "Plant": "AMP0",
+            "Client Code": "BMTG",
+            "Distance [km]": 563,
+            "Freight Cost Per Ton [$/ton]": 553.3547852760736
+        },
+        "MMPU03": {
+            "Route": "AMP0-CHETUMAL",
+            "Plant": "AMP0",
+            "Client Code": 205514202,
+            "Distance [km]": 506,
+            "Freight Cost Per Ton [$/ton]": 578.5564999999999
+        },
+        "MMPU06": {
+            "Route": "AMP0-F CARRILLO PUERTO",
+            "Plant": "AMP0",
+            "Client Code": 201673544,
+            "Distance [km]": 650,
+            "Freight Cost Per Ton [$/ton]": 729.4100000000001
+        },
+        "MMPU07": {
+            "Route": "AMP0-TULUM",
+            "Plant": "AMP0",
+            "Client Code": 201657340,
+            "Distance [km]": 736,
+            "Freight Cost Per Ton [$/ton]": 788.2385714285714
+        },
+        "MMPU08": {
+            "Route": "AMP0-MAHAHUAL",
+            "Plant": "AMP0",
+            "Client Code": 205513989,
+            "Distance [km]": 629,
+            "Freight Cost Per Ton [$/ton]": 637.61
+        },
+        "MMPVHC": {
+            "Route": "AMP0-VILLAHERMOSA CAMION",
+            "Plant": "AMP0",
+            "Client Code": "BDVH",
+            "Distance [km]": 70,
+            "Freight Cost Per Ton [$/ton]": 167.01776699029125
+        },
+        "MMPX01": {
+            "Route": "AMP0-CARDENAS",
+            "Plant": "AMP0",
+            "Client Code": 201674258,
+            "Distance [km]": 115,
+            "Freight Cost Per Ton [$/ton]": 319.49987951807225
+        },
+        "MMPX02": {
+            "Route": "AMP0-MACUSPANA",
+            "Plant": "AMP0",
+            "Client Code": 205236186,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 221.21617224880382
+        },
+        "MMPX03": {
+            "Route": "AMP0-TEAPA",
+            "Plant": "AMP0",
+            "Client Code": 201616586,
+            "Distance [km]": 125,
+            "Freight Cost Per Ton [$/ton]": 250.2862244897959
+        },
+        "MMPX04": {
+            "Route": "AMP0-TENOSIQUE",
+            "Plant": "AMP0",
+            "Client Code": 205233825,
+            "Distance [km]": 158,
+            "Freight Cost Per Ton [$/ton]": 394.01824742268036
+        },
+        "MMPX05": {
+            "Route": "AMP0-CENTRO (VILLAHERMOSA",
+            "Plant": "AMP0",
+            "Client Code": 201633552,
+            "Distance [km]": 70,
+            "Freight Cost Per Ton [$/ton]": 221.8956940509915
+        },
+        "MMPX06": {
+            "Route": "AMP0-COMALCALCO",
+            "Plant": "AMP0",
+            "Client Code": 205214465,
+            "Distance [km]": 150,
+            "Freight Cost Per Ton [$/ton]": 237.72470588235296
+        },
+        "MMPX07": {
+            "Route": "AMP0-HUIMANGUILLO",
+            "Plant": "AMP0",
+            "Client Code": 201646085,
+            "Distance [km]": 155,
+            "Freight Cost Per Ton [$/ton]": 426.1649315068493
+        },
+        "MMPX08": {
+            "Route": "AMP0-PARAISO",
+            "Plant": "AMP0",
+            "Client Code": 201655499,
+            "Distance [km]": 142,
+            "Freight Cost Per Ton [$/ton]": 278.6645
+        },
+        "MMPX09": {
+            "Route": "AMP0-CENTLA (FRONTERA)",
+            "Plant": "AMP0",
+            "Client Code": 201652445,
+            "Distance [km]": 145,
+            "Freight Cost Per Ton [$/ton]": 321.29305785123967
+        },
+        "MMPX10": {
+            "Route": "AMP0-JONUTA",
+            "Plant": "AMP0",
+            "Client Code": 201668595,
+            "Distance [km]": 85,
+            "Freight Cost Per Ton [$/ton]": 342.7795789473684
+        },
+        "MMPX11": {
+            "Route": "AMP0-EMILIANO ZAPATA",
+            "Plant": "AMP0",
+            "Client Code": 205236183,
+            "Distance [km]": 75,
+            "Freight Cost Per Ton [$/ton]": 377.5362365591398
+        },
+        "MMPX12": {
+            "Route": "AMP0-BALANCAN",
+            "Plant": "AMP0",
+            "Client Code": 201643446,
+            "Distance [km]": 130,
+            "Freight Cost Per Ton [$/ton]": 402.99742424242424
+        },
+        "MMPX18": {
+            "Route": "AMP0-CUNDUACAN",
+            "Plant": "AMP0",
+            "Client Code": 201668820,
+            "Distance [km]": 100,
+            "Freight Cost Per Ton [$/ton]": 257.6644444444445
+        },
+        "MMPX23": {
+            "Route": "AMP0-JALPA DE MENDEZ TAB",
+            "Plant": "AMP0",
+            "Client Code": 201668530,
+            "Distance [km]": 102,
+            "Freight Cost Per Ton [$/ton]": 367.2
+        },
+        "MMPZ01": {
+            "Route": "AMP0-COATZACOALCOS",
+            "Plant": "AMP0",
+            "Client Code": 205207152,
+            "Distance [km]": 250,
+            "Freight Cost Per Ton [$/ton]": 593.0898095238095
+        },
+        "MMPZ02": {
+            "Route": "AMP0-ACAYUCAN",
+            "Plant": "AMP0",
+            "Client Code": 205509246,
+            "Distance [km]": 310,
+            "Freight Cost Per Ton [$/ton]": 661.7416666666667
+        },
+        "MMXB01": {
+            "Route": "BTMX-ENSENADA",
+            "Plant": "BTMX",
+            "Client Code": 201670784,
+            "Distance [km]": 295,
+            "Freight Cost Per Ton [$/ton]": 458.56523809523804
+        },
+        "MMXB02": {
+            "Route": "BTMX-TIJUANA",
+            "Plant": "BTMX",
+            "Client Code": 201608480,
+            "Distance [km]": 197,
+            "Freight Cost Per Ton [$/ton]": 362.312380952381
+        },
+        "MMXB03": {
+            "Route": "BTMX-MEXICALI",
+            "Plant": "BTMX",
+            "Client Code": 201665259,
+            "Distance [km]": 18,
+            "Freight Cost Per Ton [$/ton]": 132.56329341317365
+        },
+        "MMXB05": {
+            "Route": "BTMX-SAN FELIPE, BC",
+            "Plant": "BTMX",
+            "Client Code": 205229854,
+            "Distance [km]": 195,
+            "Freight Cost Per Ton [$/ton]": 328.75947368421055
+        },
+        "MMXB06": {
+            "Route": "BTMX-MOLINO VIEJO",
+            "Plant": "BTMX",
+            "Client Code": 201654674,
+            "Distance [km]": 489,
+            "Freight Cost Per Ton [$/ton]": 626.3333333333334
+        },
+        "MMXB08": {
+            "Route": "BTMX-VALLE DE MEXICALI",
+            "Plant": "BTMX",
+            "Client Code": 205510160,
+            "Distance [km]": 78,
+            "Freight Cost Per Ton [$/ton]": 173.05608695652174
+        },
+        "MMXB09": {
+            "Route": "BTMX-EL ROSARIO, BC",
+            "Plant": "BTMX",
+            "Client Code": 205216693,
+            "Distance [km]": 545,
+            "Freight Cost Per Ton [$/ton]": 738.3
+        },
+        "MMXB14": {
+            "Route": "BTMX-TECATE",
+            "Plant": "BTMX",
+            "Client Code": 205501446,
+            "Distance [km]": 154,
+            "Freight Cost Per Ton [$/ton]": 330.61
+        },
+        "MMXENC": {
+            "Route": "BTMX-ENSENADA CAMION",
+            "Plant": "BTMX",
+            "Client Code": "BDEN",
+            "Distance [km]": 295,
+            "Freight Cost Per Ton [$/ton]": 468.92007894736844
+        },
+        "MMXTIC": {
+            "Route": "BTMX-TIJUANA CAMION",
+            "Plant": "BTMX",
+            "Client Code": "BDTI",
+            "Distance [km]": 200,
+            "Freight Cost Per Ton [$/ton]": 365.6185294117647
+        },
+        "MMXW12": {
+            "Route": "BTMX-SN LUIS RIO COLORADO",
+            "Plant": "BTMX",
+            "Client Code": 201628392,
+            "Distance [km]": 80,
+            "Freight Cost Per Ton [$/ton]": 192.17592592592592
+        },
+        "MMZP57": {
+            "Route": "BDMZ-MAZATLAN",
+            "Plant": "BDMZ",
+            "Client Code": 205515463,
+            "Distance [km]": 35,
+            "Freight Cost Per Ton [$/ton]": 110.9074125874126
+        },
+        "MMZP58": {
+            "Route": "BDMZ-EL ROSARIO, SIN",
+            "Plant": "BDMZ",
+            "Client Code": 201641537,
+            "Distance [km]": 68,
+            "Freight Cost Per Ton [$/ton]": 191.33418604651163
+        },
+        "MMZP65": {
+            "Route": "BDMZ - PRESA SANTA MARIA",
+            "Plant": "BDMZ",
+            "Client Code": 201672764,
+            "Distance [km]": 120,
+            "Freight Cost Per Ton [$/ton]": 522.0011764705882
+        },
+        "MMZPAC": {
+            "Route": "BDMZ-LA PAZ CAMION MAZATLAN",
+            "Plant": "BDMZ",
+            "Client Code": "BDPA",
+            "Distance [km]": 41,
+            "Freight Cost Per Ton [$/ton]": 222.04071428571427
+        },
+        "MOZAMC": {
+            "Route": "AOZ0-PLANTA MERIDA CAMION",
+            "Plant": "AOZ0",
+            "Client Code": "AME0",
+            "Distance [km]": 1038,
+            "Freight Cost Per Ton [$/ton]": 1284.0941176470587
+        },
+        "MOZAPC": {
+            "Route": "AOZ0-APAXCO CAMION",
+            "Plant": "AOZ0",
+            "Client Code": "AAP0",
+            "Distance [km]": 316,
+            "Freight Cost Per Ton [$/ton]": 794.75
+        },
+        "MOZC58": {
+            "Route": "AOZ0-KANASIN",
+            "Plant": "AOZ0",
+            "Client Code": 201641816,
+            "Distance [km]": 1038,
+            "Freight Cost Per Ton [$/ton]": 1246.093023255814
+        },
+        "MOZD02": {
+            "Route": "AOZ0-ARRIAGA",
+            "Plant": "AOZ0",
+            "Client Code": 205214461,
+            "Distance [km]": 570,
+            "Freight Cost Per Ton [$/ton]": 992.5
+        },
+        "MOZD03": {
+            "Route": "AOZ0-TAPACHULA",
+            "Plant": "AOZ0",
+            "Client Code": 205506721,
+            "Distance [km]": 815,
+            "Freight Cost Per Ton [$/ton]": 950.0
+        },
+        "MOZD04": {
+            "Route": "AOZ0-MOTOZINTLA",
+            "Plant": "AOZ0",
+            "Client Code": 205201555,
+            "Distance [km]": 831,
+            "Freight Cost Per Ton [$/ton]": 1629.4566666666667
+        },
+        "MOZD05": {
+            "Route": "AOZ0-SAN CRISTOBAL CASAS",
+            "Plant": "AOZ0",
+            "Client Code": 205215226,
+            "Distance [km]": 623,
+            "Freight Cost Per Ton [$/ton]": 1221.5746153846153
+        },
+        "MOZD07": {
+            "Route": "AOZ0-COMITAN DE DOMINGUEZ",
+            "Plant": "AOZ0",
+            "Client Code": 205201554,
+            "Distance [km]": 712,
+            "Freight Cost Per Ton [$/ton]": 1312.8535897435897
+        },
+        "MOZD08": {
+            "Route": "AOZ0-TUXTLA GUTIERREZ",
+            "Plant": "AOZ0",
+            "Client Code": 205211959,
+            "Distance [km]": 563,
+            "Freight Cost Per Ton [$/ton]": 826.875
+        },
+        "MOZD13": {
+            "Route": "AOZ0-TONALA, CHIAPAS",
+            "Plant": "AOZ0",
+            "Client Code": 205214467,
+            "Distance [km]": 596,
+            "Freight Cost Per Ton [$/ton]": 1119.5
+        },
+        "MOZD22": {
+            "Route": "AOZ0-FRONTERA COMALAPA",
+            "Plant": "AOZ0",
+            "Client Code": 205214470,
+            "Distance [km]": 806,
+            "Freight Cost Per Ton [$/ton]": 1468.081052631579
+        },
+        "MOZIRC": {
+            "Route": "AOZ0-IRAPUATO CD",
+            "Plant": "AOZ0",
+            "Client Code": "BTIR",
+            "Distance [km]": 566,
+            "Freight Cost Per Ton [$/ton]": 1132.4444444444443
+        },
+        "MOZMPC": {
+            "Route": "AOZ0-MACUSPANA CAMION",
+            "Plant": "AOZ0",
+            "Client Code": "AMP0",
+            "Distance [km]": 536,
+            "Freight Cost Per Ton [$/ton]": 768.4180353982301
+        },
+        "MOZPUC": {
+            "Route": "AOZ0-PUEBLA CAMION",
+            "Plant": "AOZ0",
+            "Client Code": "BTPU",
+            "Distance [km]": 149,
+            "Freight Cost Per Ton [$/ton]": 310.52810810810814
+        },
+        "MOZR01": {
+            "Route": "AOZ0-OAXACA DE JUAREZ",
+            "Plant": "AOZ0",
+            "Client Code": 205516132,
+            "Distance [km]": 331,
+            "Freight Cost Per Ton [$/ton]": 506.5855384615384
+        },
+        "MOZR04": {
+            "Route": "AOZ0-SALINA CRUZ",
+            "Plant": "AOZ0",
+            "Client Code": 205214462,
+            "Distance [km]": 497,
+            "Freight Cost Per Ton [$/ton]": 808.0
+        },
+        "MOZR08": {
+            "Route": "AOZ0-J BAUTISTA TUXTEPEC",
+            "Plant": "AOZ0",
+            "Client Code": 201654584,
+            "Distance [km]": 170,
+            "Freight Cost Per Ton [$/ton]": 622.98
+        },
+        "MOZR09": {
+            "Route": "AOZ0-OCOTLAN DE MORELOS",
+            "Plant": "AOZ0",
+            "Client Code": 201663226,
+            "Distance [km]": 351,
+            "Freight Cost Per Ton [$/ton]": 571.7
+        },
+        "MOZR13": {
+            "Route": "AOZ0-VLLA SOLA DE VEGA",
+            "Plant": "AOZ0",
+            "Client Code": 205516307,
+            "Distance [km]": 414,
+            "Freight Cost Per Ton [$/ton]": 760.0
+        },
+        "MOZR22": {
+            "Route": "AOZ0-JUCHITAN DE ZARAGOZA",
+            "Plant": "AOZ0",
+            "Client Code": 205516863,
+            "Distance [km]": 454,
+            "Freight Cost Per Ton [$/ton]": 775.08
+        },
+        "MOZR26": {
+            "Route": "AOZ0-MIAHUATLAN",
+            "Plant": "AOZ0",
+            "Client Code": 205507451,
+            "Distance [km]": 421,
+            "Freight Cost Per Ton [$/ton]": 744.0
+        },
+        "MOZR28": {
+            "Route": "AOZ0-Teotitl\u00e1n de Flores Mag\u00f3n, Oax",
+            "Plant": "AOZ0",
+            "Client Code": 205234050,
+            "Distance [km]": 186,
+            "Freight Cost Per Ton [$/ton]": 330.0
+        },
+        "MOZR46": {
+            "Route": "AOZ0-Santiago Chazumba OAX",
+            "Plant": "AOZ0",
+            "Client Code": 201664787,
+            "Distance [km]": 168,
+            "Freight Cost Per Ton [$/ton]": 350.26666666666665
+        },
+        "MOZREC": {
+            "Route": "AOZ0-REYES CAMION",
+            "Plant": "AOZ0",
+            "Client Code": "BTRE",
+            "Distance [km]": 262,
+            "Freight Cost Per Ton [$/ton]": 588.433734939759
+        },
+        "MOZS02": {
+            "Route": "AOZ0-SN MARTIN TEXMELUCAN",
+            "Plant": "AOZ0",
+            "Client Code": 201627067,
+            "Distance [km]": 179,
+            "Freight Cost Per Ton [$/ton]": 518.6666666666666
+        },
+        "MOZS05": {
+            "Route": "AOZ0-PUEBLA",
+            "Plant": "AOZ0",
+            "Client Code": 205515590,
+            "Distance [km]": 149,
+            "Freight Cost Per Ton [$/ton]": 442.5581818181818
+        },
+        "MOZS06": {
+            "Route": "AOZ0-TEHUACAN",
+            "Plant": "AOZ0",
+            "Client Code": 205201125,
+            "Distance [km]": 74,
+            "Freight Cost Per Ton [$/ton]": 270.94655913978494
+        },
+        "MOZS09": {
+            "Route": "AOZ0-CIUDAD SERDAN",
+            "Plant": "AOZ0",
+            "Client Code": 201677447,
+            "Distance [km]": 68,
+            "Freight Cost Per Ton [$/ton]": 342.9068695652174
+        },
+        "MOZS10": {
+            "Route": "AOZ0-TEZIUTLAN",
+            "Plant": "AOZ0",
+            "Client Code": 201664992,
+            "Distance [km]": 244,
+            "Freight Cost Per Ton [$/ton]": 545.6668666666667
+        },
+        "MOZS11": {
+            "Route": "AOZ0-ZACAPOAXTLA",
+            "Plant": "AOZ0",
+            "Client Code": 201654666,
+            "Distance [km]": 234,
+            "Freight Cost Per Ton [$/ton]": 522.4966795366796
+        },
+        "MOZS12": {
+            "Route": "AOZ0-LIBRES",
+            "Plant": "AOZ0",
+            "Client Code": 201659167,
+            "Distance [km]": 150,
+            "Freight Cost Per Ton [$/ton]": 425.0
+        },
+        "MOZS14": {
+            "Route": "AOZ0-XICOTEPEC, PUEBLA",
+            "Plant": "AOZ0",
+            "Client Code": 201675893,
+            "Distance [km]": 313,
+            "Freight Cost Per Ton [$/ton]": 823.7857142857143
+        },
+        "MOZS17": {
+            "Route": "AOZ0-COXCATLAN",
+            "Plant": "AOZ0",
+            "Client Code": 201606028,
+            "Distance [km]": 116,
+            "Freight Cost Per Ton [$/ton]": 260.84906542056075
+        },
+        "MOZS19": {
+            "Route": "AOZ0-COYOMEAPAN, PUEBLA",
+            "Plant": "AOZ0",
+            "Client Code": 205504445,
+            "Distance [km]": 210,
+            "Freight Cost Per Ton [$/ton]": 531.9260730593608
+        },
+        "MOZS24": {
+            "Route": "AOZ0-Quimixtl\u00e1n, Pue",
+            "Plant": "AOZ0",
+            "Client Code": 205514813,
+            "Distance [km]": 152,
+            "Freight Cost Per Ton [$/ton]": 579.215
+        },
+        "MOZS53": {
+            "Route": "AOZ0-HUAMANTLA",
+            "Plant": "AOZ0",
+            "Client Code": 205213382,
+            "Distance [km]": 162,
+            "Freight Cost Per Ton [$/ton]": 419.46750000000003
+        },
+        "MOZS57": {
+            "Route": "AOZ0-Acultzingo",
+            "Plant": "AOZ0",
+            "Client Code": 201669476,
+            "Distance [km]": 35,
+            "Freight Cost Per Ton [$/ton]": 259.5973154362416
+        },
+        "MOZTAC": {
+            "Route": "AOZ0-TAMPICO CAMION",
+            "Plant": "AOZ0",
+            "Client Code": "BDTA",
+            "Distance [km]": 619,
+            "Freight Cost Per Ton [$/ton]": 1038.3529411764705
+        },
+        "MOZTGC": {
+            "Route": "AOZ0 - BODEGA TUXTLA GUTI\u00c9RREZ",
+            "Plant": "AOZ0",
+            "Client Code": "BMTG",
+            "Distance [km]": 544,
+            "Freight Cost Per Ton [$/ton]": 835.9610818713451
+        },
+        "MOZVAC": {
+            "Route": "AOZ0-VALLEJO CAMION",
+            "Plant": "AOZ0",
+            "Client Code": "BTVA",
+            "Distance [km]": 281,
+            "Freight Cost Per Ton [$/ton]": 721.45
+        },
+        "MOZVHC": {
+            "Route": "AOZ0-VILLAHERMOSA CAMION",
+            "Plant": "AOZ0",
+            "Client Code": "BDVH",
+            "Distance [km]": 483,
+            "Freight Cost Per Ton [$/ton]": 776.0369135802468
+        },
+        "MOZVRC": {
+            "Route": "AOZ0-CABEZA OLMECA CAMION",
+            "Plant": "AOZ0",
+            "Client Code": "BDVR",
+            "Distance [km]": 138,
+            "Freight Cost Per Ton [$/ton]": 266.89551826258634
+        },
+        "MOZX02": {
+            "Route": "AOZ0-MACUSPANA",
+            "Plant": "AOZ0",
+            "Client Code": 205206866,
+            "Distance [km]": 536,
+            "Freight Cost Per Ton [$/ton]": 600.4791304347826
+        },
+        "MOZX05": {
+            "Route": "AOZ0-CENTRO (VILLAHERMOSA",
+            "Plant": "AOZ0",
+            "Client Code": 201633552,
+            "Distance [km]": 483,
+            "Freight Cost Per Ton [$/ton]": 733.0
+        },
+        "MOZZ02": {
+            "Route": "AOZ0-ACAYUCAN",
+            "Plant": "AOZ0",
+            "Client Code": 205201443,
+            "Distance [km]": 267,
+            "Freight Cost Per Ton [$/ton]": 302.0
+        },
+        "MOZZ03": {
+            "Route": "AOZ0-ORIZABA",
+            "Plant": "AOZ0",
+            "Client Code": 201631941,
+            "Distance [km]": 6,
+            "Freight Cost Per Ton [$/ton]": 75.28628099173555
+        },
+        "MOZZ04": {
+            "Route": "AOZ0-CORDOBA",
+            "Plant": "AOZ0",
+            "Client Code": 205216836,
+            "Distance [km]": 23,
+            "Freight Cost Per Ton [$/ton]": 113.54268907563025
+        },
+        "MOZZ07": {
+            "Route": "AOZ0-SAN ANDRES TUXTLA",
+            "Plant": "AOZ0",
+            "Client Code": 201662073,
+            "Distance [km]": 255,
+            "Freight Cost Per Ton [$/ton]": 493.24293103448275
+        },
+        "MOZZ09": {
+            "Route": "AOZ0-TIERRA BLANCA",
+            "Plant": "AOZ0",
+            "Client Code": 201645658,
+            "Distance [km]": 113,
+            "Freight Cost Per Ton [$/ton]": 383.9290909090909
+        },
+        "MOZZ10": {
+            "Route": "AOZ0-VERACRUZ PUERTO",
+            "Plant": "AOZ0",
+            "Client Code": 201648416,
+            "Distance [km]": 150,
+            "Freight Cost Per Ton [$/ton]": 474.5858333333333
+        },
+        "MOZZ11": {
+            "Route": "AOZ0-VERACRUZ FORANEO",
+            "Plant": "AOZ0",
+            "Client Code": 201672359,
+            "Distance [km]": 150,
+            "Freight Cost Per Ton [$/ton]": 440.1652325581395
+        },
+        "MOZZ12": {
+            "Route": "AOZ0-XALAPA, VER.",
+            "Plant": "AOZ0",
+            "Client Code": 201630720,
+            "Distance [km]": 238,
+            "Freight Cost Per Ton [$/ton]": 461.138125
+        },
+        "MOZZ13": {
+            "Route": "AOZ0-MARTINEZ DE LA TORRE",
+            "Plant": "AOZ0",
+            "Client Code": 205220775,
+            "Distance [km]": 252,
+            "Freight Cost Per Ton [$/ton]": 547.3402127659575
+        },
+        "MOZZ23": {
+            "Route": "AOZ0-ALTOTONGA",
+            "Plant": "AOZ0",
+            "Client Code": 201684372,
+            "Distance [km]": 262,
+            "Freight Cost Per Ton [$/ton]": 545.5589230769231
+        },
+        "MOZZ31": {
+            "Route": "AOZ0-TLAPACOYAN",
+            "Plant": "AOZ0",
+            "Client Code": 201663149,
+            "Distance [km]": 289,
+            "Freight Cost Per Ton [$/ton]": 574.9862068965517
+        },
+        "MOZZ43": {
+            "Route": "AOZ0-Ayahualulco, Ver",
+            "Plant": "AOZ0",
+            "Client Code": 205512610,
+            "Distance [km]": 183,
+            "Freight Cost Per Ton [$/ton]": 615.0
+        },
+        "MOZZ46": {
+            "Route": "AOZ0-AYAHUALULCO, VER",
+            "Plant": "AOZ0",
+            "Client Code": 205513536,
+            "Distance [km]": 285,
+            "Freight Cost Per Ton [$/ton]": 615.0
+        },
+        "MOZZ48": {
+            "Route": "AOZ0-XOMETLA VERACRUZ",
+            "Plant": "AOZ0",
+            "Client Code": 201679442,
+            "Distance [km]": 58,
+            "Freight Cost Per Ton [$/ton]": 290.0
+        },
+        "MOZZ64": {
+            "Route": "AOZ0-Tehuipango Veracruz",
+            "Plant": "AOZ0",
+            "Client Code": 201646461,
+            "Distance [km]": 63,
+            "Freight Cost Per Ton [$/ton]": 409.0
+        },
+        "MOZZ65": {
+            "Route": "AOZ0-Cosautl\u00e1n de Carvajal Veracruz",
+            "Plant": "AOZ0",
+            "Client Code": 201658780,
+            "Distance [km]": 306,
+            "Freight Cost Per Ton [$/ton]": 390.0
+        },
+        "MPAB52": {
+            "Route": "BDPA-SANTA ROSALIA",
+            "Plant": "BDPA",
+            "Client Code": 205214131,
+            "Distance [km]": 553,
+            "Freight Cost Per Ton [$/ton]": 608.7616666666668
+        },
+        "MPAB53": {
+            "Route": "BDPA-MULEGE",
+            "Plant": "BDPA",
+            "Client Code": 205514698,
+            "Distance [km]": 490,
+            "Freight Cost Per Ton [$/ton]": 579.1066666666667
+        },
+        "MPAB54": {
+            "Route": "BDPA-LORETO, BCS",
+            "Plant": "BDPA",
+            "Client Code": 205205610,
+            "Distance [km]": 356,
+            "Freight Cost Per Ton [$/ton]": 345.71633333333335
+        },
+        "MPAB55": {
+            "Route": "BDPA-LA PAZ, BCS",
+            "Plant": "BDPA",
+            "Client Code": 201640230,
+            "Distance [km]": 35,
+            "Freight Cost Per Ton [$/ton]": 83.55
+        },
+        "MPAB56": {
+            "Route": "BDPA-SAN JOSE DEL CABO",
+            "Plant": "BDPA",
+            "Client Code": 205214391,
+            "Distance [km]": 184,
+            "Freight Cost Per Ton [$/ton]": 299.35301848049284
+        },
+        "MPAB58": {
+            "Route": "BDPA-CIUDAD CONSTITUCION",
+            "Plant": "BDPA",
+            "Client Code": 201677802,
+            "Distance [km]": 210,
+            "Freight Cost Per Ton [$/ton]": 332.07416666666666
+        },
+        "MPAB60": {
+            "Route": "BDPA-EL SARGENTO, BCS",
+            "Plant": "BDPA",
+            "Client Code": 205213589,
+            "Distance [km]": 73,
+            "Freight Cost Per Ton [$/ton]": 239.3502777777778
+        },
+        "MPAB62": {
+            "Route": "BDPA - CABO SAN LUCAS",
+            "Plant": "BDPA",
+            "Client Code": 205237055,
+            "Distance [km]": 144,
+            "Freight Cost Per Ton [$/ton]": 252.2763396226415
+        },
+        "MPAB63": {
+            "Route": "BDPA - TODOS SANTOS",
+            "Plant": "BDPA",
+            "Client Code": 201664914,
+            "Distance [km]": 74,
+            "Freight Cost Per Ton [$/ton]": 216.71978021978023
+        },
+        "MPAB64": {
+            "Route": "BDPA - LA RIBERA",
+            "Plant": "BDPA",
+            "Client Code": 205233195,
+            "Distance [km]": 121,
+            "Freight Cost Per Ton [$/ton]": 253.11835294117648
+        },
+        "MPAP31": {
+            "Route": "AAP0-AOZ0",
+            "Plant": "AAP0",
+            "Client Code": "AOZ0",
+            "Distance [km]": 327,
+            "Freight Cost Per Ton [$/ton]": 661.3333333333334
+        },
+        "MPUAPC": {
+            "Route": "BTPU-PLANTA APAXCO CAMION",
+            "Plant": "BTPU",
+            "Client Code": "AAP0",
+            "Distance [km]": 169,
+            "Freight Cost Per Ton [$/ton]": 500.0
+        },
+        "MPUS05": {
+            "Route": "BTPU-PUEBLA",
+            "Plant": "BTPU",
+            "Client Code": 205516572,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 271.31
+        },
+        "MPUS06": {
+            "Route": "BTPU-TEHUACAN",
+            "Plant": "BTPU",
+            "Client Code": 201641686,
+            "Distance [km]": 120,
+            "Freight Cost Per Ton [$/ton]": 287.22222222222223
+        },
+        "MPUS18": {
+            "Route": "BTPU-COXCATLAN",
+            "Plant": "BTPU",
+            "Client Code": 201606028,
+            "Distance [km]": 150,
+            "Freight Cost Per Ton [$/ton]": 319.09090909090907
+        },
+        "MPUS52": {
+            "Route": "BTPU-TLAXCALA",
+            "Plant": "BTPU",
+            "Client Code": 205516644,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 270.0
+        },
+        "MPUS53": {
+            "Route": "BTPU-HUAMANTLA",
+            "Plant": "BTPU",
+            "Client Code": 205503752,
+            "Distance [km]": 56,
+            "Freight Cost Per Ton [$/ton]": 316.52
+        },
+        "MPVL31": {
+            "Route": "BMPV-PUERTO VALLARTA",
+            "Plant": "BMPV",
+            "Client Code": 205217607,
+            "Distance [km]": 40,
+            "Freight Cost Per Ton [$/ton]": 138.0
+        },
+        "MPVP04": {
+            "Route": "BMPV-B BANDERAS (BUCERIAS",
+            "Plant": "BMPV",
+            "Client Code": 201624338,
+            "Distance [km]": 60,
+            "Freight Cost Per Ton [$/ton]": 172.51
+        },
+        "MPVP08": {
+            "Route": "BMPV-LAS VARAS, NAYARIT",
+            "Plant": "BMPV",
+            "Client Code": 201628836,
+            "Distance [km]": 90,
+            "Freight Cost Per Ton [$/ton]": 198.0
+        },
+        "MRAAGC": {
+            "Route": "ARA0-AGUASCALIENTES CAMION",
+            "Plant": "ARA0",
+            "Client Code": "BDAG",
+            "Distance [km]": 442,
+            "Freight Cost Per Ton [$/ton]": 451.2262581852198
+        },
+        "MRACHC": {
+            "Route": "ARA0-CHIHUAHUA CAMION",
+            "Plant": "ARA0",
+            "Client Code": "BDCH",
+            "Distance [km]": 740,
+            "Freight Cost Per Ton [$/ton]": 939.8703249097473
+        },
+        "MRACJC": {
+            "Route": "ARA0-JUAREZ CAMION",
+            "Plant": "ARA0",
+            "Client Code": "BDCJ",
+            "Distance [km]": 1120,
+            "Freight Cost Per Ton [$/ton]": 1290.0
+        },
+        "MRAE03": {
+            "Route": "ARA0-DELICIAS",
+            "Plant": "ARA0",
+            "Client Code": 205238442,
+            "Distance [km]": 670,
+            "Freight Cost Per Ton [$/ton]": 825.0
+        },
+        "MRAE08": {
+            "Route": "ARA0-HIDALGO DEL PARRAL",
+            "Plant": "ARA0",
+            "Client Code": 205233711,
+            "Distance [km]": 610,
+            "Freight Cost Per Ton [$/ton]": 728.5
+        },
+        "MRAE09": {
+            "Route": "ARA0-JIMENEZ",
+            "Plant": "ARA0",
+            "Client Code": 205216926,
+            "Distance [km]": 550,
+            "Freight Cost Per Ton [$/ton]": 677.33875
+        },
+        "MRAF01": {
+            "Route": "ARA0-MONCLOVA",
+            "Plant": "ARA0",
+            "Client Code": 205514049,
+            "Distance [km]": 193,
+            "Freight Cost Per Ton [$/ton]": 301.6424369747899
+        },
+        "MRAF02": {
+            "Route": "ARA0-SABINAS",
+            "Plant": "ARA0",
+            "Client Code": 205234725,
+            "Distance [km]": 323,
+            "Freight Cost Per Ton [$/ton]": 476.65597701149426
+        },
+        "MRAF05": {
+            "Route": "ARA0-TORREON",
+            "Plant": "ARA0",
+            "Client Code": 205227401,
+            "Distance [km]": 290,
+            "Freight Cost Per Ton [$/ton]": 430.4473652694611
+        },
+        "MRAF06": {
+            "Route": "ARA0-PIEDRAS NEGRAS",
+            "Plant": "ARA0",
+            "Client Code": 205231754,
+            "Distance [km]": 450,
+            "Freight Cost Per Ton [$/ton]": 568.7252095808383
+        },
+        "MRAF07": {
+            "Route": "ARA0-CIUDAD ACU\u00d1A",
+            "Plant": "ARA0",
+            "Client Code": 201609145,
+            "Distance [km]": 500,
+            "Freight Cost Per Ton [$/ton]": 605.7645945945947
+        },
+        "MRAF08": {
+            "Route": "ARA0-ALLENDE, COAH",
+            "Plant": "ARA0",
+            "Client Code": 205238425,
+            "Distance [km]": 400,
+            "Freight Cost Per Ton [$/ton]": 534.0758333333333
+        },
+        "MRAF09": {
+            "Route": "ARA0-SALTILLO",
+            "Plant": "ARA0",
+            "Client Code": 205217264,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 190.8917261219793
+        },
+        "MRAF11": {
+            "Route": "ARA0-GUERRERO, COAH",
+            "Plant": "ARA0",
+            "Client Code": 205213831,
+            "Distance [km]": 422,
+            "Freight Cost Per Ton [$/ton]": 185.23166666666665
+        },
+        "MRAF12": {
+            "Route": "ARA0-GOMEZ FARIAS, COAH",
+            "Plant": "ARA0",
+            "Client Code": 205514187,
+            "Distance [km]": 97,
+            "Freight Cost Per Ton [$/ton]": 253.70499999999998
+        },
+        "MRAF13": {
+            "Route": "ARA0-CUATROCIENEGAS",
+            "Plant": "ARA0",
+            "Client Code": 205214948,
+            "Distance [km]": 292,
+            "Freight Cost Per Ton [$/ton]": 440.948
+        },
+        "MRAF15": {
+            "Route": "ARA0-NAVA",
+            "Plant": "ARA0",
+            "Client Code": 205202484,
+            "Distance [km]": 406,
+            "Freight Cost Per Ton [$/ton]": 502.025
+        },
+        "MRAF16": {
+            "Route": "ARA0-ARTEAGA",
+            "Plant": "ARA0",
+            "Client Code": 201679303,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 173.13208333333333
+        },
+        "MRAH01": {
+            "Route": "ARA0-DURANGO",
+            "Plant": "ARA0",
+            "Client Code": 205207045,
+            "Distance [km]": 550,
+            "Freight Cost Per Ton [$/ton]": 783.1368831168832
+        },
+        "MRAH02": {
+            "Route": "ARA0-SANTIAGO PAPASQUIARO",
+            "Plant": "ARA0",
+            "Client Code": 205204125,
+            "Distance [km]": 720,
+            "Freight Cost Per Ton [$/ton]": 972.3833333333333
+        },
+        "MRAH05": {
+            "Route": "ARA0-GOMEZ PALACIO",
+            "Plant": "ARA0",
+            "Client Code": 201657074,
+            "Distance [km]": 297,
+            "Freight Cost Per Ton [$/ton]": 435.78125
+        },
+        "MRAH06": {
+            "Route": "ARA0-PUEBLO NUEVO, DGO",
+            "Plant": "ARA0",
+            "Client Code": 201677268,
+            "Distance [km]": 690,
+            "Freight Cost Per Ton [$/ton]": 951.0175
+        },
+        "MRAH08": {
+            "Route": "ARA0-LERDO, DGO",
+            "Plant": "ARA0",
+            "Client Code": 205511935,
+            "Distance [km]": 297,
+            "Freight Cost Per Ton [$/ton]": 447.99285714285713
+        },
+        "MRAH51": {
+            "Route": "ARA0-SOMBRERETE",
+            "Plant": "ARA0",
+            "Client Code": 201628951,
+            "Distance [km]": 560,
+            "Freight Cost Per Ton [$/ton]": 698.625
+        },
+        "MRAH55": {
+            "Route": "ARA0-ZACATECAS",
+            "Plant": "ARA0",
+            "Client Code": 201615656,
+            "Distance [km]": 390,
+            "Freight Cost Per Ton [$/ton]": 517.6648148148148
+        },
+        "MRAH57": {
+            "Route": "ARA0-JEREZ",
+            "Plant": "ARA0",
+            "Client Code": 205235968,
+            "Distance [km]": 450,
+            "Freight Cost Per Ton [$/ton]": 562.1296774193548
+        },
+        "MRAH59": {
+            "Route": "ARA0-JUCHIPILA",
+            "Plant": "ARA0",
+            "Client Code": 201631692,
+            "Distance [km]": 560,
+            "Freight Cost Per Ton [$/ton]": 946.0
+        },
+        "MRAH65": {
+            "Route": "ARA0-JALPA JALISCO",
+            "Plant": "ARA0",
+            "Client Code": 201642208,
+            "Distance [km]": 577,
+            "Freight Cost Per Ton [$/ton]": 770.765
+        },
+        "MRAMOC": {
+            "Route": "ARA0-ESCOBEDO CAMION",
+            "Plant": "ARA0",
+            "Client Code": "BTMO",
+            "Distance [km]": 76,
+            "Freight Cost Per Ton [$/ton]": 201.9818675417661
+        },
+        "MRAQ01": {
+            "Route": "ARA0-DOCTOR ARROYO",
+            "Plant": "ARA0",
+            "Client Code": 201647740,
+            "Distance [km]": 281,
+            "Freight Cost Per Ton [$/ton]": 521.6069230769231
+        },
+        "MRAQ02": {
+            "Route": "ARA0-MONTERREY",
+            "Plant": "ARA0",
+            "Client Code": 205512670,
+            "Distance [km]": 69,
+            "Freight Cost Per Ton [$/ton]": 237.0746
+        },
+        "MRAQ03": {
+            "Route": "ARA0-GUADALUPE",
+            "Plant": "ARA0",
+            "Client Code": 205507609,
+            "Distance [km]": 91,
+            "Freight Cost Per Ton [$/ton]": 223.79143396226414
+        },
+        "MRAQ04": {
+            "Route": "ARA0-SANTA CATARINA",
+            "Plant": "ARA0",
+            "Client Code": 201672117,
+            "Distance [km]": 52,
+            "Freight Cost Per Ton [$/ton]": 209.289
+        },
+        "MRAQ05": {
+            "Route": "ARA0-GENERAL ESCOBEDO",
+            "Plant": "ARA0",
+            "Client Code": 205213832,
+            "Distance [km]": 85,
+            "Freight Cost Per Ton [$/ton]": 198.2252325581395
+        },
+        "MRAQ06": {
+            "Route": "ARA0-ALLENDE",
+            "Plant": "ARA0",
+            "Client Code": 205514869,
+            "Distance [km]": 120,
+            "Freight Cost Per Ton [$/ton]": 280.3707582938389
+        },
+        "MRAQ07": {
+            "Route": "ARA0-GENERAL BRAVO",
+            "Plant": "ARA0",
+            "Client Code": 205509828,
+            "Distance [km]": 227,
+            "Freight Cost Per Ton [$/ton]": 420.07952380952383
+        },
+        "MRAQ08": {
+            "Route": "ARA0-SABINAS HIDALGO",
+            "Plant": "ARA0",
+            "Client Code": 205514991,
+            "Distance [km]": 190,
+            "Freight Cost Per Ton [$/ton]": 373.2305
+        },
+        "MRAQ13": {
+            "Route": "ARA0-JU\u00c1REZ, NUEVO LE\u00d3N",
+            "Plant": "ARA0",
+            "Client Code": 201672094,
+            "Distance [km]": 91,
+            "Freight Cost Per Ton [$/ton]": 354.2516666666667
+        },
+        "MRARYC": {
+            "Route": "ARA0-TRASLADO REYNOSA CAMI\u00d3N",
+            "Plant": "ARA0",
+            "Client Code": "BMRY",
+            "Distance [km]": 282,
+            "Freight Cost Per Ton [$/ton]": 500.0
+        },
+        "MRASLC": {
+            "Route": "ARA0-SAN LUIS CAMION",
+            "Plant": "ARA0",
+            "Client Code": "BTSL",
+            "Distance [km]": 460,
+            "Freight Cost Per Ton [$/ton]": 555.8080534351145
+        },
+        "MRATAC": {
+            "Route": "ARA0-TAMPICO CAMION",
+            "Plant": "ARA0",
+            "Client Code": "BDTA",
+            "Distance [km]": 560,
+            "Freight Cost Per Ton [$/ton]": 691.5547304170905
+        },
+        "MRAV03": {
+            "Route": "ARA0-RIO VERDE, SLP",
+            "Plant": "ARA0",
+            "Client Code": 201628929,
+            "Distance [km]": 604,
+            "Freight Cost Per Ton [$/ton]": 810.6388888888889
+        },
+        "MRAV04": {
+            "Route": "ARA0-CIUDAD DEL MAIZ",
+            "Plant": "ARA0",
+            "Client Code": 205215699,
+            "Distance [km]": 666,
+            "Freight Cost Per Ton [$/ton]": 797.522
+        },
+        "MRAV06": {
+            "Route": "ARA0-MATEHUALA",
+            "Plant": "ARA0",
+            "Client Code": 201681881,
+            "Distance [km]": 290,
+            "Freight Cost Per Ton [$/ton]": 377.9045945945946
+        },
+        "MRAV07": {
+            "Route": "ARA0-SAN LUIS POTOSI",
+            "Plant": "ARA0",
+            "Client Code": 205209595,
+            "Distance [km]": 460,
+            "Freight Cost Per Ton [$/ton]": 553.2633333333333
+        },
+        "MRAV08": {
+            "Route": "ARA0-CERRITOS",
+            "Plant": "ARA0",
+            "Client Code": 201677502,
+            "Distance [km]": 423,
+            "Freight Cost Per Ton [$/ton]": 580.0
+        },
+        "MRAY01": {
+            "Route": "ARA0-EL MANTE (CD MANTE)",
+            "Plant": "ARA0",
+            "Client Code": 201674812,
+            "Distance [km]": 490,
+            "Freight Cost Per Ton [$/ton]": 649.5973684210527
+        },
+        "MRAY02": {
+            "Route": "ARA0-VICTORIA",
+            "Plant": "ARA0",
+            "Client Code": 205218198,
+            "Distance [km]": 356,
+            "Freight Cost Per Ton [$/ton]": 510.4080555555555
+        },
+        "MRAY04": {
+            "Route": "ARA0-NUEVO LAREDO",
+            "Plant": "ARA0",
+            "Client Code": 205504536,
+            "Distance [km]": 290,
+            "Freight Cost Per Ton [$/ton]": 430.5679545454546
+        },
+        "MRAY06": {
+            "Route": "ARA0-REYNOSA",
+            "Plant": "ARA0",
+            "Client Code": 205219655,
+            "Distance [km]": 281,
+            "Freight Cost Per Ton [$/ton]": 496.68989247311833
+        },
+        "MRAY07": {
+            "Route": "ARA0-MATAMOROS",
+            "Plant": "ARA0",
+            "Client Code": 205215769,
+            "Distance [km]": 379,
+            "Freight Cost Per Ton [$/ton]": 658.3369565217391
+        },
+        "MRAY11": {
+            "Route": "ARA0-JAUMAVE",
+            "Plant": "ARA0",
+            "Client Code": 201664841,
+            "Distance [km]": 460,
+            "Freight Cost Per Ton [$/ton]": 648.9
+        },
+        "MRAY18": {
+            "Route": "ARA0-CADEREYTA  N.L",
+            "Plant": "ARA0",
+            "Client Code": 201658002,
+            "Distance [km]": 140,
+            "Freight Cost Per Ton [$/ton]": 277.6241772151899
+        },
+        "MRAY22": {
+            "Route": "ARA0- CIUDAD  TULA, TAMAULIPAS",
+            "Plant": "ARA0",
+            "Client Code": 201675591,
+            "Distance [km]": 450,
+            "Freight Cost Per Ton [$/ton]": 826.6666666666666
+        },
+        "MREG02": {
+            "Route": "BTRE-CUAUHTEMOC",
+            "Plant": "BTRE",
+            "Client Code": 205516597,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 219.35
+        },
+        "MREG03": {
+            "Route": "BTRE-IZTAPALAPA",
+            "Plant": "BTRE",
+            "Client Code": 205241743,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 211.9691489361702
+        },
+        "MREG05": {
+            "Route": "BTRE-ALVARO OBREGON",
+            "Plant": "BTRE",
+            "Client Code": 205241502,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 210.74
+        },
+        "MREG06": {
+            "Route": "BTRE-XOCHIMILCO",
+            "Plant": "BTRE",
+            "Client Code": 205241583,
+            "Distance [km]": 28,
+            "Freight Cost Per Ton [$/ton]": 211.75294117647059
+        },
+        "MREM02": {
+            "Route": "BTRE-TEOTIHUACAN",
+            "Plant": "BTRE",
+            "Client Code": 205241557,
+            "Distance [km]": 45,
+            "Freight Cost Per Ton [$/ton]": 207.49565217391302
+        },
+        "MREM10": {
+            "Route": "BTRE-NEZAHUALCOYOTL",
+            "Plant": "BTRE",
+            "Client Code": 201670099,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 202.215
+        },
+        "MREM12": {
+            "Route": "BTRE-ECATEPEC DE MORELOS",
+            "Plant": "BTRE",
+            "Client Code": 205509846,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 250.0
+        },
+        "MREM13": {
+            "Route": "BTRE-TEXCOCO",
+            "Plant": "BTRE",
+            "Client Code": 205511848,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 209.1310606060606
+        },
+        "MREM14": {
+            "Route": "BTRE-CHALCO",
+            "Plant": "BTRE",
+            "Client Code": 201680655,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 205.32611570247934
+        },
+        "MREM30": {
+            "Route": "BTRE-AMECAMECA",
+            "Plant": "BTRE",
+            "Client Code": 205241609,
+            "Distance [km]": 43,
+            "Freight Cost Per Ton [$/ton]": 211.68017241379312
+        },
+        "MREVAC": {
+            "Route": "BTRE-VALLEJO CAMI\u00d3N",
+            "Plant": "BTRE",
+            "Client Code": "BTVA",
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 235.0
+        },
+        "MRYY05": {
+            "Route": "BMRY-MIGUEL ALEMAN, TAMPS",
+            "Plant": "BMRY",
+            "Client Code": 201628662,
+            "Distance [km]": 231,
+            "Freight Cost Per Ton [$/ton]": 140.2130434782609
+        },
+        "MRYY06": {
+            "Route": "BMRY-REYNOSA",
+            "Plant": "BMRY",
+            "Client Code": 205511898,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 94.57849802371541
+        },
+        "MRYY07": {
+            "Route": "BMRY-MATAMOROS",
+            "Plant": "BMRY",
+            "Client Code": 205506502,
+            "Distance [km]": 89,
+            "Freight Cost Per Ton [$/ton]": 218.1426168224299
+        },
+        "MRYY08": {
+            "Route": "BMRY-SAN FERNANDO",
+            "Plant": "BMRY",
+            "Client Code": 205514070,
+            "Distance [km]": 146,
+            "Freight Cost Per Ton [$/ton]": 233.5
+        },
+        "MSLN19": {
+            "Route": "BTSL-LA PIEDAD",
+            "Plant": "BTSL",
+            "Client Code": 201656385,
+            "Distance [km]": 312,
+            "Freight Cost Per Ton [$/ton]": 515.0
+        },
+        "MTCA51": {
+            "Route": "ATC0-COLIMA",
+            "Plant": "ATC0",
+            "Client Code": 205509878,
+            "Distance [km]": 61,
+            "Freight Cost Per Ton [$/ton]": 140.8172602739726
+        },
+        "MTCA52": {
+            "Route": "ATC0-TECOMAN",
+            "Plant": "ATC0",
+            "Client Code": 201647189,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 103.51755102040816
+        },
+        "MTCA53": {
+            "Route": "ATC0-MANZANILLO",
+            "Plant": "ATC0",
+            "Client Code": 205214099,
+            "Distance [km]": 70,
+            "Freight Cost Per Ton [$/ton]": 195.95290566037735
+        },
+        "MTCAGC": {
+            "Route": "ATC0-AGUASCALIENTES CAMION",
+            "Plant": "ATC0",
+            "Client Code": "BDAG",
+            "Distance [km]": 540,
+            "Freight Cost Per Ton [$/ton]": 688.1682000000001
+        },
+        "MTCESC": {
+            "Route": "ATC0-EL SALTO CAMION",
+            "Plant": "ATC0",
+            "Client Code": "BDES",
+            "Distance [km]": 301,
+            "Freight Cost Per Ton [$/ton]": 351.795737704918
+        },
+        "MTCIRC": {
+            "Route": "ATC0-IRAPUATO CAMION",
+            "Plant": "ATC0",
+            "Client Code": "BTIR",
+            "Distance [km]": 495,
+            "Freight Cost Per Ton [$/ton]": 704.7788679245283
+        },
+        "MTCL03": {
+            "Route": "ATC0-TLAQUEPAQUE",
+            "Plant": "ATC0",
+            "Client Code": 201639347,
+            "Distance [km]": 285,
+            "Freight Cost Per Ton [$/ton]": 360.60526315789474
+        },
+        "MTCL24": {
+            "Route": "ATC0-ZAPOTLAN (CD GUZMAN)",
+            "Plant": "ATC0",
+            "Client Code": 201685633,
+            "Distance [km]": 169,
+            "Freight Cost Per Ton [$/ton]": 267.69
+        },
+        "MTCL25": {
+            "Route": "ATC0-TAMAZULA DE GORDIANO",
+            "Plant": "ATC0",
+            "Client Code": 201631473,
+            "Distance [km]": 192,
+            "Freight Cost Per Ton [$/ton]": 455.0
+        },
+        "MTCL28": {
+            "Route": "ATC0-LA HUERTA",
+            "Plant": "ATC0",
+            "Client Code": 205236732,
+            "Distance [km]": 184,
+            "Freight Cost Per Ton [$/ton]": 494.34855491329483
+        },
+        "MTCL29": {
+            "Route": "ATC0-CIHUATLAN (MELAQUE)",
+            "Plant": "ATC0",
+            "Client Code": 205208886,
+            "Distance [km]": 145,
+            "Freight Cost Per Ton [$/ton]": 350.0
+        },
+        "MTCL30": {
+            "Route": "ATC0-TOMATLAN",
+            "Plant": "ATC0",
+            "Client Code": 201684648,
+            "Distance [km]": 288,
+            "Freight Cost Per Ton [$/ton]": 569.5559999999999
+        },
+        "MTCL31": {
+            "Route": "ATC0-PUERTO VALLARTA",
+            "Plant": "ATC0",
+            "Client Code": 205511678,
+            "Distance [km]": 352,
+            "Freight Cost Per Ton [$/ton]": 661.3062068965518
+        },
+        "MTCL38": {
+            "Route": "ATC0 - Ayutla",
+            "Plant": "ATC0",
+            "Client Code": 201648727,
+            "Distance [km]": 264,
+            "Freight Cost Per Ton [$/ton]": 906.6666666666666
+        },
+        "MTCL42": {
+            "Route": "ATC0 - Tapalpa",
+            "Plant": "ATC0",
+            "Client Code": 201648726,
+            "Distance [km]": 190,
+            "Freight Cost Per Ton [$/ton]": 480.0
+        },
+        "MTCL43": {
+            "Route": "ATC0 - Tenamaxtl\u00e1n",
+            "Plant": "ATC0",
+            "Client Code": 205516700,
+            "Distance [km]": 284,
+            "Freight Cost Per Ton [$/ton]": 820.0
+        },
+        "MTCL45": {
+            "Route": "ATC0 - Uni\u00f3n de Tula",
+            "Plant": "ATC0",
+            "Client Code": 205214574,
+            "Distance [km]": 260,
+            "Freight Cost Per Ton [$/ton]": 850.4564864864865
+        },
+        "MTCN25": {
+            "Route": "ATC0-AQUILA",
+            "Plant": "ATC0",
+            "Client Code": 205216248,
+            "Distance [km]": 74,
+            "Freight Cost Per Ton [$/ton]": 255.56099447513813
+        },
+        "MTCP03": {
+            "Route": "ATC0-ACAPONETA",
+            "Plant": "ATC0",
+            "Client Code": 205510986,
+            "Distance [km]": 543,
+            "Freight Cost Per Ton [$/ton]": 670.7704918032787
+        },
+        "MTCPVC": {
+            "Route": "ATC0-BODEGA VALLARTA",
+            "Plant": "ATC0",
+            "Client Code": "BMPV",
+            "Distance [km]": 360,
+            "Freight Cost Per Ton [$/ton]": 573.9532947976878
+        },
+        "MTCTPC": {
+            "Route": "ATC0-TEPIC CAMION",
+            "Plant": "ATC0",
+            "Client Code": "BMTP",
+            "Distance [km]": 404,
+            "Freight Cost Per Ton [$/ton]": 603.8814241486068
+        },
+        "MTCZAC": {
+            "Route": "ATC0-ZAPOPAN CAMION",
+            "Plant": "ATC0",
+            "Client Code": "BTZA",
+            "Distance [km]": 235,
+            "Freight Cost Per Ton [$/ton]": 437.0842718446602
+        },
+        "MVAACC": {
+            "Route": "BTVA-ACAPULCO CAMION",
+            "Plant": "BTVA",
+            "Client Code": "AAC0",
+            "Distance [km]": 400,
+            "Freight Cost Per Ton [$/ton]": 619.3777777777777
+        },
+        "MVAAGC": {
+            "Route": "BTVA-AGUASCALIENTES CAMION",
+            "Plant": "BTVA",
+            "Client Code": "BDAG",
+            "Distance [km]": 594,
+            "Freight Cost Per Ton [$/ton]": 862.66
+        },
+        "MVAAMC": {
+            "Route": "BTVA-MOLIENDA M\u00c9RIDA CAMI\u00d3N",
+            "Plant": "BTVA",
+            "Client Code": "AME0",
+            "Distance [km]": 1618,
+            "Freight Cost Per Ton [$/ton]": 2236.7557142857145
+        },
+        "MVAAPC": {
+            "Route": "BTVA-APAXCO CAMION",
+            "Plant": "BTVA",
+            "Client Code": "AAP0",
+            "Distance [km]": 80,
+            "Freight Cost Per Ton [$/ton]": 159.88
+        },
+        "MVAG01": {
+            "Route": "BTVA-CUAJIMALPA DE MORELO",
+            "Plant": "BTVA",
+            "Client Code": 205217074,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 187.7803105590062
+        },
+        "MVAG02": {
+            "Route": "BTVA-CUAUHTEMOC",
+            "Plant": "BTVA",
+            "Client Code": 201679922,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 202.86230088495574
+        },
+        "MVAG03": {
+            "Route": "BTVA-IZTAPALAPA",
+            "Plant": "BTVA",
+            "Client Code": 201679236,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 207.6850595238095
+        },
+        "MVAG04": {
+            "Route": "BTVA-GUSTAVO A. MADERO",
+            "Plant": "BTVA",
+            "Client Code": 205516355,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 189.3273148148148
+        },
+        "MVAG05": {
+            "Route": "BTVA-ALVARO OBREGON",
+            "Plant": "BTVA",
+            "Client Code": 201661150,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 203.17513157894737
+        },
+        "MVAG06": {
+            "Route": "BTVA-XOCHIMILCO",
+            "Plant": "BTVA",
+            "Client Code": 201679514,
+            "Distance [km]": 67,
+            "Freight Cost Per Ton [$/ton]": 220.6673394495413
+        },
+        "MVAIRC": {
+            "Route": "BTVA-IRAPUATO CAMION",
+            "Plant": "BTVA",
+            "Client Code": "BTIR",
+            "Distance [km]": 365,
+            "Freight Cost Per Ton [$/ton]": 546.72
+        },
+        "MVAM02": {
+            "Route": "BTVA-TEOTIHUACAN",
+            "Plant": "BTVA",
+            "Client Code": 205511696,
+            "Distance [km]": 100,
+            "Freight Cost Per Ton [$/ton]": 240.31977941176473
+        },
+        "MVAM09": {
+            "Route": "BTVA-ATIZAPAN",
+            "Plant": "BTVA",
+            "Client Code": 205401671,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 204.83324200913245
+        },
+        "MVAM10": {
+            "Route": "BTVA-NEZAHUALCOYOTL",
+            "Plant": "BTVA",
+            "Client Code": 201679513,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 198.28729166666665
+        },
+        "MVAM11": {
+            "Route": "BTVA-NAUCALPAN DE JUAREZ",
+            "Plant": "BTVA",
+            "Client Code": 205510329,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 203.101641337386
+        },
+        "MVAM12": {
+            "Route": "BTVA-ECATEPEC DE MORELOS",
+            "Plant": "BTVA",
+            "Client Code": 201680819,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 216.37571428571428
+        },
+        "MVAM13": {
+            "Route": "BTVA-TEXCOCO",
+            "Plant": "BTVA",
+            "Client Code": 205512250,
+            "Distance [km]": 45,
+            "Freight Cost Per Ton [$/ton]": 223.27410334346507
+        },
+        "MVAM14": {
+            "Route": "BTVA-CHALCO",
+            "Plant": "BTVA",
+            "Client Code": 201678689,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 224.16725274725275
+        },
+        "MVAM15": {
+            "Route": "BTVA-CUAUTITLAN IZCALLI",
+            "Plant": "BTVA",
+            "Client Code": 205516122,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 218.28589285714287
+        },
+        "MVAM17": {
+            "Route": "BTVA-HUIXQUILUCAN",
+            "Plant": "BTVA",
+            "Client Code": 205216513,
+            "Distance [km]": 26,
+            "Freight Cost Per Ton [$/ton]": 224.14638666666667
+        },
+        "MVAM19": {
+            "Route": "BTVA-TULTITLAN",
+            "Plant": "BTVA",
+            "Client Code": 201671898,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 159.67545454545453
+        },
+        "MVAM25": {
+            "Route": "BTVA-ZUMPANGO",
+            "Plant": "BTVA",
+            "Client Code": 205200214,
+            "Distance [km]": 49,
+            "Freight Cost Per Ton [$/ton]": 222.80181818181816
+        },
+        "MVAM27": {
+            "Route": "BTVA-TEPETLAXTOC",
+            "Plant": "BTVA",
+            "Client Code": 205515684,
+            "Distance [km]": 50,
+            "Freight Cost Per Ton [$/ton]": 241.5076923076923
+        },
+        "MVAM29": {
+            "Route": "BTVA-AMECAMECA",
+            "Plant": "BTVA",
+            "Client Code": 205512775,
+            "Distance [km]": 108,
+            "Freight Cost Per Ton [$/ton]": 243.17102564102564
+        },
+        "MVAMPC": {
+            "Route": "BTVA-MACUSPANA CAMION",
+            "Plant": "BTVA",
+            "Client Code": "AMP0",
+            "Distance [km]": 1050,
+            "Freight Cost Per Ton [$/ton]": 1402.66
+        },
+        "MVAOZC": {
+            "Route": "BTVA-ORIZABA CAMION",
+            "Plant": "BTVA",
+            "Client Code": "AOZ0",
+            "Distance [km]": 281,
+            "Freight Cost Per Ton [$/ton]": 589.19
+        },
+        "MVAREC": {
+            "Route": "BTVA-REYES CAMION",
+            "Plant": "BTVA",
+            "Client Code": "BTRE",
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 186.47131386861312
+        },
+        "MVAT01": {
+            "Route": "BTVA-QUERETARO",
+            "Plant": "BTVA",
+            "Client Code": 201680467,
+            "Distance [km]": 200,
+            "Freight Cost Per Ton [$/ton]": 334.0
+        },
+        "MVATCC": {
+            "Route": "BTVA-TECOMAN CAMION",
+            "Plant": "BTVA",
+            "Client Code": "ATC0",
+            "Distance [km]": 752,
+            "Freight Cost Per Ton [$/ton]": 1303.16
+        },
+        "MVATOC": {
+            "Route": "BTVA-TOLUCA CAMION",
+            "Plant": "BTVA",
+            "Client Code": "BTTO",
+            "Distance [km]": 70,
+            "Freight Cost Per Ton [$/ton]": 261.6546762589928
+        },
+        "MVHC02": {
+            "Route": "BDVH-CIUDAD DEL CARMEN",
+            "Plant": "BDVH",
+            "Client Code": 201654620,
+            "Distance [km]": 168,
+            "Freight Cost Per Ton [$/ton]": 485.0
+        },
+        "MVHC04": {
+            "Route": "BDVH-ESCARCEGA",
+            "Plant": "BDVH",
+            "Client Code": 201681276,
+            "Distance [km]": 300,
+            "Freight Cost Per Ton [$/ton]": 750.0
+        },
+        "MVHC05": {
+            "Route": "BDVH-CHAMPOTON",
+            "Plant": "BDVH",
+            "Client Code": 205201469,
+            "Distance [km]": 315,
+            "Freight Cost Per Ton [$/ton]": 460.0
+        },
+        "MVHD01": {
+            "Route": "BDVH-PICHUCALCO",
+            "Plant": "BDVH",
+            "Client Code": 201674151,
+            "Distance [km]": 78,
+            "Freight Cost Per Ton [$/ton]": 390.0
+        },
+        "MVHD06": {
+            "Route": "BDVH-PALENQUE",
+            "Plant": "BDVH",
+            "Client Code": 201681245,
+            "Distance [km]": 136,
+            "Freight Cost Per Ton [$/ton]": 381.605
+        },
+        "MVHD09": {
+            "Route": "BDVH-OCOSINGO",
+            "Plant": "BDVH",
+            "Client Code": 205512866,
+            "Distance [km]": 247,
+            "Freight Cost Per Ton [$/ton]": 900.0
+        },
+        "MVHD10": {
+            "Route": "BDVH-REFORMA",
+            "Plant": "BDVH",
+            "Client Code": 201650734,
+            "Distance [km]": 40,
+            "Freight Cost Per Ton [$/ton]": 287.35249999999996
+        },
+        "MVHD16": {
+            "Route": "BDVH-YAJALON",
+            "Plant": "BDVH",
+            "Client Code": 205508849,
+            "Distance [km]": 276,
+            "Freight Cost Per Ton [$/ton]": 690.0
+        },
+        "MVHX01": {
+            "Route": "BDVH-CARDENAS",
+            "Plant": "BDVH",
+            "Client Code": 201680099,
+            "Distance [km]": 48,
+            "Freight Cost Per Ton [$/ton]": 312.74
+        },
+        "MVHX03": {
+            "Route": "BDVH-TEAPA",
+            "Plant": "BDVH",
+            "Client Code": 201616586,
+            "Distance [km]": 58,
+            "Freight Cost Per Ton [$/ton]": 250.0
+        },
+        "MVHX04": {
+            "Route": "BDVH-TENOSIQUE",
+            "Plant": "BDVH",
+            "Client Code": 205514703,
+            "Distance [km]": 201,
+            "Freight Cost Per Ton [$/ton]": 555.0
+        },
+        "MVHX05": {
+            "Route": "BDVH-CENTRO (VILLAHERMOSA",
+            "Plant": "BDVH",
+            "Client Code": 205218414,
+            "Distance [km]": 30,
+            "Freight Cost Per Ton [$/ton]": 218.4
+        },
+        "MVHX07": {
+            "Route": "BDVH-HUIMANGUILLO",
+            "Plant": "BDVH",
+            "Client Code": 205515144,
+            "Distance [km]": 74,
+            "Freight Cost Per Ton [$/ton]": 300.0
+        },
+        "MVHX12": {
+            "Route": "BDVH-BALANCAN",
+            "Plant": "BDVH",
+            "Client Code": 201643446,
+            "Distance [km]": 200,
+            "Freight Cost Per Ton [$/ton]": 590.0
+        },
+        "MVHZ01": {
+            "Route": "BDVH-COATZACOALCOS",
+            "Plant": "BDVH",
+            "Client Code": 205207152,
+            "Distance [km]": 182,
+            "Freight Cost Per Ton [$/ton]": 550.0
+        },
+        "MVHZ02": {
+            "Route": "BDVH-ACAYUCAN",
+            "Plant": "BDVH",
+            "Client Code": 205409317,
+            "Distance [km]": 242,
+            "Freight Cost Per Ton [$/ton]": 700.0
+        },
+        "MZAL02": {
+            "Route": "BTZA-ZAPOPAN",
+            "Plant": "BTZA",
+            "Client Code": 201675147,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 87.36161858974359
+        },
+        "MZAL03": {
+            "Route": "BTZA-TLAQUEPAQUE",
+            "Plant": "BTZA",
+            "Client Code": 205208686,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 103.52
+        },
+        "MZAL04": {
+            "Route": "BTZA-TONALA",
+            "Plant": "BTZA",
+            "Client Code": 201626498,
+            "Distance [km]": 27,
+            "Freight Cost Per Ton [$/ton]": 140.50666666666666
+        },
+        "MZAL05": {
+            "Route": "BTZA-TLAJOMULCO DE ZU\u00d1IGA",
+            "Plant": "BTZA",
+            "Client Code": 205514351,
+            "Distance [km]": 45,
+            "Freight Cost Per Ton [$/ton]": 105.60615384615386
+        },
+        "MZAL06": {
+            "Route": "BTZA-EL SALTO",
+            "Plant": "BTZA",
+            "Client Code": 205515097,
+            "Distance [km]": 10,
+            "Freight Cost Per Ton [$/ton]": 108.63677740863787
+        },
+        "MZAL11": {
+            "Route": "BTZA-TEPATITLAN D MORELOS",
+            "Plant": "BTZA",
+            "Client Code": 201678880,
+            "Distance [km]": 83,
+            "Freight Cost Per Ton [$/ton]": 248.69875
+        },
+        "MZAL12": {
+            "Route": "BTZA-ARANDAS",
+            "Plant": "BTZA",
+            "Client Code": 205407160,
+            "Distance [km]": 139,
+            "Freight Cost Per Ton [$/ton]": 340.0703448275862
+        },
+        "MZAL13": {
+            "Route": "BTZA-OCOTLAN",
+            "Plant": "BTZA",
+            "Client Code": 205204967,
+            "Distance [km]": 99,
+            "Freight Cost Per Ton [$/ton]": 231.33157894736843
+        },
+        "MZAL16": {
+            "Route": "BTZA-AYOTLAN",
+            "Plant": "BTZA",
+            "Client Code": 201614625,
+            "Distance [km]": 110,
+            "Freight Cost Per Ton [$/ton]": 339.97369565217394
+        },
+        "MZAL19": {
+            "Route": "BTZA-COCULA",
+            "Plant": "BTZA",
+            "Client Code": 201683631,
+            "Distance [km]": 110,
+            "Freight Cost Per Ton [$/ton]": 183.77
+        },
+        "MZAL22": {
+            "Route": "BTZA-TEQUILA",
+            "Plant": "BTZA",
+            "Client Code": 205514982,
+            "Distance [km]": 35,
+            "Freight Cost Per Ton [$/ton]": 230.0179411764706
+        },
+        "MZAL23": {
+            "Route": "BTZA-CHAPALA",
+            "Plant": "BTZA",
+            "Client Code": 201679594,
+            "Distance [km]": 61,
+            "Freight Cost Per Ton [$/ton]": 207.77
+        },
+        "MZAP01": {
+            "Route": "BTZA-TEPIC",
+            "Plant": "BTZA",
+            "Client Code": 205240590,
+            "Distance [km]": 233,
+            "Freight Cost Per Ton [$/ton]": 496.60875000000004
+        },
+        "MZAP02": {
+            "Route": "BTZA-TUXPAN, NAY",
+            "Plant": "BTZA",
+            "Client Code": 205240426,
+            "Distance [km]": 297,
+            "Freight Cost Per Ton [$/ton]": 497.15909090909093
+        },
+        "MZAP03": {
+            "Route": "BTZA-ACAPONETA",
+            "Plant": "BTZA",
+            "Client Code": 205510981,
+            "Distance [km]": 365,
+            "Freight Cost Per Ton [$/ton]": 708.6776859504132
+        },
+        "MZAP05": {
+            "Route": "BTZA-IXTLAN DEL RIO",
+            "Plant": "BTZA",
+            "Client Code": 201654806,
+            "Distance [km]": 130,
+            "Freight Cost Per Ton [$/ton]": 310.0
+        }
+    }
+}

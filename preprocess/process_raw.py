@@ -29,14 +29,6 @@ def extract_df():
         # import ipdb; ipdb.set_trace()
     del temp
 
-    # name = sheet_name[2]
-    # print(name)
-    # df = pd.read_excel(temp, name)
-
-    # print(type(df))
-    # import ipdb; ipdb.set_trace()
-
-    # print(df.columns.ravel())
     return dfs
 
 def getcolumns(DFs, columns, new_keys, InOut):
@@ -46,11 +38,11 @@ def getcolumns(DFs, columns, new_keys, InOut):
         sheet_name = InOut + country
         df = DFs[sheet_name]
         slices = df[columns]
-        plants = slices[columns[0]].tolist()
+        location = slices[columns[0]].tolist()
         data = slices[columns[1:]].values.tolist()
 
         # data_dicted = dict(zip(columns[1:], data))
-        cur_dict = dict(zip(plants, data))
+        cur_dict = dict(zip(location, data))
         for k, v in cur_dict.items():
             cur_dict[k] = dict(zip(new_keys[1:], v))
 
@@ -85,18 +77,55 @@ def getProviderInfo(DFs, columns = ['Origin Code', 'Origin',
     new_keys[3] = "Longitude"
     return getcolumns(DFs, columns, new_keys, "Inbound ")
             
-#TODO: get info about vehicles
+#Done: get info about vehicles
 # [Type], Capacity
+def getVehicleInfo(DFs, columns = ['Vehicle Number', 'Type of Vehicle', 'Vehicle Capacity [tons]']):
+    return getcolumns(DFs, columns, columns, "Outbound ")
 
 #TODO: get info for route (seperate in and out)
 # [RouteID], StartPoint, EndPoint, Distance, (AVG speet50), Freight Cost Per Ton(AVG), 
+# Freight Cost Per Ton [$/ton]
+
+# columns = ['Route ID', 'Route', 'Plant', 'Client Code', 
+#                                     'Distance [km]'], val = ['Freight Cost Per Ton [$/ton]']):
+def getAvgColums(DFs, columns, InOut, toAvg):
+    dicts = {}
+    for country in countryDict:
+        # import ipdb; ipdb.set_trace()
+        sheet_name = InOut + country
+        df = DFs[sheet_name]
+        df = df.drop(df[df[toAvg[0]] == '-'].index)
+        slices = df[columns + toAvg]
+
+        # import ipdb; ipdb.set_trace()
+        grouped = slices[[columns[0], toAvg[0]]].groupby(columns[0])
+        data_avg = grouped.mean()#.reset_index()
+
+        data_all = slices[columns].groupby(columns[0]).first()#.reset_index()
+        cur_df = pd.concat([data_all, data_avg], axis=1)
+
+        # import ipdb; ipdb.set_trace()
+        dicts.update({sheet_name: cur_df.to_dict('index')})
+    return dicts
+    
+def getOutRouteInfo(DFs, columns = ['Route ID', 'Route', 'Plant', 'Client Code', 
+                                    'Distance [km]'], val = ['Freight Cost Per Ton [$/ton]']):
+    return getAvgColums(DFs, columns, "Outbound ", val)
+
+def getInRouteInfo(DFs, columns = ['Route ID', 'Route', 'Origin Code', 'Destination Code',
+                                   'Distance [km]'], val = ['Freight Cost Per Ton [$/ton]']):
+    return getAvgColums(DFs, columns, "Inbound ", val)
 
 if __name__ == "__main__":
     DFs = extract_df()
     DATAPATH = "./data/"
     infoPlants = getPlantsInfo(DFs) #, columns = ['Plant', 'Plant Name'])
-    json.dump(infoPlants, open(DATAPATH + "infoPlants.json", "w"))
-    json.dump(getClientInfo(DFs), open(DATAPATH + "infoClients.json", "w"))
-    json.dump(getProviderInfo(DFs), open(DATAPATH + "infoProviders.json", "w"))
+    json.dump(infoPlants, open(DATAPATH + "infoPlants.json", "w"), indent=4)
+    json.dump(getClientInfo(DFs), open(DATAPATH + "infoClients.json", "w"), indent=4)
+    json.dump(getProviderInfo(DFs), open(DATAPATH + "infoProviders.json", "w"), indent=4)
+    json.dump(getVehicleInfo(DFs), open(DATAPATH + "infoVehicles.json", "w"), indent=4)
+    
+    json.dump(getOutRouteInfo(DFs), open(DATAPATH + "infoOutRoutes.json", "w"), indent=4)
+    json.dump(getInRouteInfo(DFs), open(DATAPATH + "infoInRoutes.json", "w"), indent=4)
     
     # print(DFs)

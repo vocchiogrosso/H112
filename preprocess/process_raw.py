@@ -2,6 +2,7 @@ import msoffcrypto
 import io
 import pandas as pd
 import json
+import copy
 
 tripTypeDict = ["Outbound", "Inbound"]
 countryDict = ["ARG", "MEX"]
@@ -38,11 +39,11 @@ def extract_df():
     # print(df.columns.ravel())
     return dfs
 
-def getPlantsInfo(DFs, columns = ['Plant', 'Plant Name', 
-                                 'Plant Latitude', 'Plant Longitude']):
+def getcolumns(DFs, columns, new_keys, InOut):
     dicts = {}
     for country in countryDict:
-        sheet_name = "Outbound " + country
+        # import ipdb; ipdb.set_trace()
+        sheet_name = InOut + country
         df = DFs[sheet_name]
         slices = df[columns]
         plants = slices[columns[0]].tolist()
@@ -51,11 +52,38 @@ def getPlantsInfo(DFs, columns = ['Plant', 'Plant Name',
         # data_dicted = dict(zip(columns[1:], data))
         cur_dict = dict(zip(plants, data))
         for k, v in cur_dict.items():
-            cur_dict[k] = dict(zip(columns[1:], v))
+            cur_dict[k] = dict(zip(new_keys[1:], v))
 
         # import ipdb; ipdb.set_trace()
         dicts.update({sheet_name: cur_dict})
     return dicts
+    
+
+def getPlantsInfo(DFs, columns = ['Plant', 'Plant Name', 
+                                 'Plant Latitude', 'Plant Longitude']):
+    # import ipdb; ipdb.set_trace()
+    new_keys = copy.deepcopy(columns)
+    new_keys[2] = "Latitude"
+    new_keys[3] = "Longitude"
+    return getcolumns(DFs, columns, new_keys, "Outbound ")
+
+def getClientInfo(DFs, columns = ['Client Code', 
+                                  'Client Latitude', 'Client Longitude',
+                                  'City']):
+    new_keys = copy.deepcopy(columns)
+    new_keys[1] = "Latitude"
+    new_keys[2] = "Longitude"
+    return getcolumns(DFs, columns, new_keys, "Outbound ")
+
+def getProviderInfo(DFs, columns = ['Origin Code', 'Origin', 
+                                    'Origin Latitude', 'Origin Longitude',
+                                    'INCOTERMS',
+                                    'Material Code', "Material"
+                                    ]):
+    new_keys = copy.deepcopy(columns)
+    new_keys[2] = "Latitude"
+    new_keys[3] = "Longitude"
+    return getcolumns(DFs, columns, new_keys, "Inbound ")
             
 
 if __name__ == "__main__":
@@ -63,5 +91,7 @@ if __name__ == "__main__":
     DATAPATH = "./data/"
     infoPlants = getPlantsInfo(DFs) #, columns = ['Plant', 'Plant Name'])
     json.dump(infoPlants, open(DATAPATH + "infoPlants.json", "w"))
+    json.dump(getClientInfo(DFs), open(DATAPATH + "infoClients.json", "w"))
+    json.dump(getProviderInfo(DFs), open(DATAPATH + "infoProviders.json", "w"))
     
     # print(DFs)

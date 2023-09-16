@@ -8,7 +8,6 @@
           type="text"
           v-model="destinationInput"
       />
-      <button @click="calculateRoute">Calculate Route</button>
     </div>
     <div id="map-container" style="width: 100%; height: 400px;"></div>
   </div>
@@ -20,15 +19,15 @@ import mapboxgl from 'mapbox-gl';
 
 export default defineComponent({
   name: 'ContractorNavigation',
-
   data() {
     return {
       map: null,
+      shipment: this.$route.params.shipment,
       destinationInput: '',
     };
   },
 
-  mounted() {
+  mounted () {
     mapboxgl.accessToken = 'pk.eyJ1IjoiejRsM3M1aTAiLCJhIjoiY2xtbTd1NDB6MGttNDJxcG5mZHpqbXJsMiJ9.m9i3527cJA3QTJgPLPIWHg';
 
     this.map = new mapboxgl.Map({
@@ -37,32 +36,22 @@ export default defineComponent({
       center: [-74.5, 40],
       zoom: 9,
     });
-  },
 
-  methods: {
-    async calculateRoute() {
+  },
+  beforeMount() {
+
       // Fetch coordinates for the user's destination input from a geocoding API
-      const destinationCoordinates = await this.fetchDestinationCoordinates(this.destinationInput);
+      const destinationCoordinates = this.shipment.endCoordinates
 
       // Calculate the route using a routing API (e.g., Mapbox Directions API)
-      const route = await this.calculateRouteToDestination(destinationCoordinates);
+      const route = this.calculateRouteToDestination(destinationCoordinates);
 
       // Display the route on the map
       this.displayRoute(route);
-    },
 
-    async fetchDestinationCoordinates(destinationInput) {
-      // Use a geocoding API to fetch coordinates for the destination input
-      // Example: Make an API request and parse the response
-      // Replace this with the actual geocoding API you are using
-      // const response = await fetch(`YOUR_GEOCODING_API_URL?query=${destinationInput}`);
-      // const data = await response.json();
-      // const coordinates = data.features[0].geometry.coordinates;
-      // return coordinates;
-      // For now, let's use a mock response for demonstration
-      return [-74.6, 40.1];
-    },
+  },
 
+  methods: {
     async calculateRouteToDestination(destinationCoordinates) {
       // Use a routing API to calculate the route to the destination
       // Example: Make an API request and parse the response
@@ -70,7 +59,7 @@ export default defineComponent({
       // Here's the code from the previous response:
       const accessToken = 'pk.eyJ1IjoiejRsM3M1aTAiLCJhIjoiY2xtbTd1NDB6MGttNDJxcG5mZHpqbXJsMiJ9.m9i3527cJA3QTJgPLPIWHg';
       const startCoordinates = [-74.5, 40]; // Replace with the actual starting coordinates
-      const max_weight = 2.5;
+      const max_weight = this.shipment.weight;
       const max_heigth = 1.6;
       const max_width = 1.9;
 

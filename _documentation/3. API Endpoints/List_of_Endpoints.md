@@ -85,21 +85,7 @@
 
 ## Contractor Management
 
-7. 
-### `/api/contractors/login`
-- **Method**: POST
-- **Description**: Similar to the user login, this endpoint handles the contractor login process, allowing contractors to access their dashboard and manage shipments.
-- **Body**:
-  - `email`: Contractor's email address.
-  - `password`: Corresponding password for authentication.
-- **Response Codes**:
-  - `200`: Successfully logged in.
-  - `401`: Unauthorized, wrong credentials.
-- **Returns**:
-  - Contractor details.
-  - JWT Token for session management.
-
-8. 
+[ ]7. 
 ### `/api/contractors/dashboard`
 - **Method**: GET
 - **Description**: This endpoint gathers and displays relevant details on the contractor's dashboard, including a list of assigned shipments for easy management and tracking.

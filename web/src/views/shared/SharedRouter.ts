@@ -1,8 +1,7 @@
 import { RouteRecordRaw } from 'vue-router';
 
 import Home from './Home.vue'
-import Login from './Login.vue'
-import Register from './Register.vue'
+import Auth from './Auth.vue'
 
 const SharedRoutes: Array<RouteRecordRaw> = [
   {
@@ -11,14 +10,9 @@ const SharedRoutes: Array<RouteRecordRaw> = [
     component: Home,
   },
   {
-    path: '/auth/login',
-    name: 'LoginVue',
-    component: Login,
-  },
-  {
-    path: '/auth/register',
-    name: 'RegisterVue',
-    component: Register,
+    path: '/auth',
+    name: 'Auth',
+    component: Auth,
   },
 ];
 

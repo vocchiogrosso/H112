@@ -1,4 +1,3 @@
-<!-- RequestForm.vue -->
 <template>
   <div class="form-container">
     <form @submit.prevent="submitForm">
@@ -31,13 +30,15 @@
         <input type="date" id="pickupTime" v-model="formData.pickupTime" required />
       </div>
       <div class="form-group">
-        <button type="submit">Submit Request</button>
+        <button type="submit" class="submit-button">Submit Request</button>
       </div>
     </form>
   </div>
 </template>
+
 <script lang="ts">
 import { defineComponent } from 'vue';
+import router from "../../router";
 
 export default defineComponent({
   name: 'RequestForm',
@@ -83,6 +84,9 @@ export default defineComponent({
         if (response.ok) {
           // Request was successful, you can perform further actions if needed
           console.log('Request submitted successfully');
+          const router = this.$router;
+          router.push({ name: 'Pricing'});
+
         } else {
           // Handle errors here
           console.log(response)
@@ -126,8 +130,8 @@ select { /* Apply styles to the select element */
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
-  background-color: white; /* Background color for select */
-  color: #333; /* Text color for select */
+  background-color: var(--background-color); /* Background color */
+  color: var(--primary-color); /* Text color */
 }
 
 input[type="text"]:focus,
@@ -138,7 +142,7 @@ select:focus { /* Apply styles when the select is focused */
   border-color: var(--accent-color);
 }
 
-button[type="submit"] {
+.submit-button {
   background-color: var(--accent-color);
   color: white;
   border: none;
@@ -147,7 +151,7 @@ button[type="submit"] {
   cursor: pointer;
 }
 
-button[type="submit"]:hover {
+.submit-button:hover {
   background-color: #0077b6; /* Darker shade of accent color on hover */
 }
 </style>

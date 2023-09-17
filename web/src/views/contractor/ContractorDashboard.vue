@@ -90,5 +90,41 @@ export default defineComponent({
 </script>
 
 <style scoped>
-/* Add your component-specific styles here */
+h1 {
+  color: var(--primary-color);
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+thead {
+  background-color: var(--background-color);
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  font-weight: bold;
+  background-color: var(--accent-color);
+  color: white;
+}
+
+tbody tr:hover {
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+tbody tr td {
+  color: var(--text-color);
+}
+
 </style>

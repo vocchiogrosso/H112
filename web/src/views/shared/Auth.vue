@@ -1,11 +1,11 @@
 <template>
   <div>
     <div class="tabs">
-      <button :class="{ active: activeTab === 'login' }" @click="activeTab = 'login'">Login</button>
-      <button :class="{ active: activeTab === 'register' }" @click="activeTab = 'register'">Register</button>
+      <button :class="{ active: activeTab === 'login' }" @click="activeTab = 'login'" class="tab-button">Login</button>
+      <button :class="{ active: activeTab === 'register' }" @click="activeTab = 'register'" class="tab-button">Register</button>
     </div>
     <div class="tab-content">
-      <div v-if="activeTab === 'login'">
+      <div v-if="activeTab === 'login'" class="tab-pane" >
         <h2>Login</h2>
         <form @submit.prevent="login">
           <div>
@@ -54,7 +54,6 @@
 
 <script>
 import axios from 'axios';
-import {useRouter} from "vue-router";
 
 export default {
   data() {
@@ -143,21 +142,69 @@ export default {
   },
 };
 </script>
-
 <style>
 .tabs {
-  display: flex;
-  margin-bottom: 20px;
+display: flex;
+margin-bottom: 20px;
 }
-.tabs button {
-  flex: 1;
-  padding: 10px;
+
+.tab-button {
+flex: 1;
+padding: 10px;
+background-color: var(--background-color);
+border: 1px solid #ccc;
+cursor: pointer;
+text-align: center;
+color: var(--primary-color);
+font-weight: bold;
 }
-.tabs button.active {
-  background-color: #f0f0f0;
+
+.tab-button.active {
+background-color: var(--accent-color);
+color: white;
 }
+
 .tab-content {
-  border: 1px solid #ccc;
-  padding: 20px;
+border: 1px solid #ccc;
+padding: 20px;
+background-color: var(--background-color);
+border-radius: 8px;
+}
+
+.tab-pane {
+flex-direction: column; /* Set the flex direction to column for alignment */
+}
+
+.tab-pane h2 {
+color: var(--primary-color);
+margin-bottom: 20px;
+}
+
+/* Show the active tab pane */
+.tab-pane.active {
+display: flex;
+}
+
+/* Label style */
+.label {
+width: 150px; /* Set a fixed width for labels */
+margin-right: 10px;
+text-align: right; /* Align the labels to the right */
+font-weight: bold;
+}
+
+/* Input field style */
+.input-field {
+flex: 1;
+border: 1px solid #ccc;
+padding: 8px;
+border-radius: 4px;
+margin-bottom: 10px;
+}
+
+/* Error message style */
+.error-message {
+color: red;
+margin-top: 10px;
 }
 </style>

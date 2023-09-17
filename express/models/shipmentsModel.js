@@ -7,6 +7,11 @@ const shipmentSchema = new Schema({
         type: String,
         required: true
     },
+    status: {
+        type: String,
+        default: 'not assigned',
+        required: true
+    },
     startCoordinates: {
         lng: {
             type: String,

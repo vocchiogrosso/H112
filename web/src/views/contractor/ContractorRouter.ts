@@ -11,7 +11,7 @@ const ContractorRoutes: Array<RouteRecordRaw> = [
     component: ContractorDashboard,
   },
   {
-    path: '/contractor/navigation/:shipment._id',
+    path: '/contractor/navigation/?_id=:_id',
     name: 'ContractorNavigation',
     component: ContractorNavigation,
     props: true

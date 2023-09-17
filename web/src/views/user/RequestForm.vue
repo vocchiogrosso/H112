@@ -66,9 +66,7 @@ export default defineComponent({
   methods: {
     async submitForm() {
       try {
-        console.log(this.formData.pickupTime, this.formData.typeOfShipment)
         const user = JSON.parse(sessionStorage.getItem('user'))
-        console.log(user._id)
         const body = {title: this.formData.title, startCoordinates: {lng: this.formData.startCoordinates.split(',')[0], ltd: this.formData.startCoordinates.split(',')[1]},endCoordinates: {lng: this.formData.endCoordinates.split(',')[0], ltd: this.formData.endCoordinates.split(',')[1]},
           pickupTime: this.formData.pickupTime, typeOfShipment: this.formData.typeOfShipment, weight: this.formData.weight, _id: user._id}
         console.log(this.formData.title)

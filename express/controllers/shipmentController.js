@@ -2,9 +2,9 @@ const Shipment = require('../models/shipmentsModel')
 const mongoose = require('mongoose')
 // get all workouts
 const getShipments = async (req,res) => {
-    const contractor_id = req.user._id
+    const contractor_id = req.params.id
 
-    const shipment = await Shipment.find({contractor_id}).sort({pickupTime: 1})
+    const shipment = await Shipment.find({contractor_id: contractor_id}).sort({status: 1, pickupTime: 1})
 
     res.status(200).json(shipment)
 }
@@ -15,7 +15,7 @@ const getShipment = async (req,res) => {
         return res.status(404).json({error: 'No such Shipment'})
     }
 
-    const shipment = await Shipment.findById(id)
+    const shipment = await Shipment.findById({_id: id})
 
     if (!shipment) {
         return res.status(404).json({error: 'No such shipment'})
@@ -52,7 +52,7 @@ const createShipment = async (req, res) => {
     const split = pickupTime.split('-');
     const newDate = new Date(split[1]+"-"+split[2]+"-"+split[0])
     try {
-        const shipment = await Shipment.create({title: title, startCoordinates: {lng: SClng, ltd: SCltd}, endCoordinates: {lng: EClng, ltd: ECltd}, pickupTime: newDate, typeOfShipment: typeOfShipment, weight: weight, user_id: _id})
+        const shipment = await Shipment.create({title: title,startCoordinates: {lng: SClng, ltd: SCltd}, endCoordinates: {lng: EClng, ltd: ECltd}, pickupTime: newDate, typeOfShipment: typeOfShipment, weight: weight, user_id: _id})
         res.status(200).json(shipment)
     } catch (error) {
         res.status(400).json({error: error.message})

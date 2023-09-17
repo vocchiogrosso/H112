@@ -1,35 +1,59 @@
 <template>
   <div>
-    <div>
-      <button @click="activeTab = 'login'">Login</button>
-      <button @click="activeTab = 'register'">Register</button>
+    <div class="tabs">
+      <button :class="{ active: activeTab === 'login' }" @click="activeTab = 'login'" class="tab-button">Login</button>
+      <button :class="{ active: activeTab === 'register' }" @click="activeTab = 'register'" class="tab-button">Register</button>
     </div>
-
-    <div v-if="activeTab === 'login'">
-      <input v-model="loginEmail" placeholder="Email" /><br>
-      <input type="password" v-model="loginPassword" placeholder="Password" /><br>
-      <button @click="login">Login</button>
-    </div>
-
-    <div v-if="activeTab === 'register'">
-      <input v-model="registerName" placeholder="Name" /><br>
-      <input v-model="registerEmail" placeholder="Email" /><br>
-      <input type="password" v-model="registerPassword" placeholder="Password" /><br>
-      <input type="password" v-model="confirmPassword" placeholder="Confirm Password" /><br>
-      <button @click="register">Register</button>
-      <div v-if="passwordMismatch" style="color: red;">Passwords do not match</div>
-    </div><br>
-
-    <div v-if="errorMessage" style="color: red;">
-      {{ errorMessage }}
+    <div class="tab-content">
+      <div v-if="activeTab === 'login'" class="tab-pane" >
+        <h2>Login</h2>
+        <form @submit.prevent="login">
+          <div>
+            <label>Email: </label>
+            <input type="email" v-model="loginEmail" required />
+          </div>
+          <div>
+            <label>Password: </label>
+            <input type="password" v-model="loginPassword" required />
+          </div>
+          <button type="submit">Login</button>
+        </form>
+      </div>
+      <div v-if="activeTab === 'register'">
+        <h2>Register</h2>
+        <form @submit.prevent="register">
+          <div>
+            <label>Name: </label>
+            <input type="text" v-model="registerName" required />
+          </div>
+          <div>
+            <label>Email: </label>
+            <input type="email" v-model="registerEmail" required />
+          </div>
+          <div>
+            <label>Password: </label>
+            <input type="password" v-model="registerPassword" required />
+          </div>
+          <div>
+            <label>Confirm Password: </label>
+            <input type="password" v-model="confirmPassword" required />
+          </div>
+          <div v-if="passwordMismatch" style="color: red;">
+            Passwords do not match
+          </div>
+          <div>
+            <label>Role: </label>
+            <input type="text" v-model="registerRole" required />
+          </div>
+          <button type="submit" :disabled="passwordMismatch">Register</button>
+        </form>
+      </div>
     </div>
   </div>
 </template>
 
-
 <script>
 import axios from 'axios';
-import { useRouter } from 'vue-router';
 
 export default {
   data() {
@@ -40,15 +64,10 @@ export default {
       registerName: '',
       registerEmail: '',
       registerPassword: '',
-      registerRole: 'user',
+      registerRole: '',
       confirmPassword: '',
       passwordMismatch: false,
-      errorMessage: ''
     };
-  },
-  setup() {
-    const router = useRouter();
-    return { router };
   },
   watch: {
     registerPassword() {
@@ -64,19 +83,19 @@ export default {
     },
     async login() {
       try {
-        const response = await axios.post('http://localhost:3000/v1/users/login', {
+        const response = await axios.post('http://localhost:4000/api/user/login', {
           email: this.loginEmail,
           password: this.loginPassword,
         }, {
           timeout: 5000
         });
-
+        sessionStorage.setItem('user', JSON.stringify(response.data))
         console.log('Login successful', response.data);
-
+        const router = this.$router
         if (response.data.role === 'user') {
-          this.router.push('/user/dashboard');
+          await router.push('/user/dashboard');
         } else if (response.data.role === 'contractor') {
-          this.router.push('/contractor/dashboard');
+          await router.push('/contractor/dashboard');
         }
       } catch (error) {
         console.error('Login failed', error);
@@ -91,9 +110,8 @@ export default {
       if (this.passwordMismatch) {
         return;
       }
-
       try {
-        const response = await axios.post('http://localhost:3000/v1/users/register', {
+        const response = await axios.post('http://localhost:4000/api/user/signup', {
           name: this.registerName,
           email: this.registerEmail,
           password: this.registerPassword,
@@ -102,40 +120,91 @@ export default {
           timeout: 5000
         });
 
-        console.log('Registration successful', response.data);
+        console.log('registration successful', response.data);
+        sessionStorage.setItem('user', JSON.stringify(response.data))
+
+        const router = this.$router
 
         if (response.data.role === 'user') {
-          this.router.push('/user/dashboard');
+           await router.push('/user/dashboard');
         } else if (response.data.role === 'contractor') {
-          this.router.push('/contractor/dashboard');
+          await router.push('/contractor/dashboard');
         }
       } catch (error) {
-        console.error('Registration failed', error);
+        console.error('registration failed', error);
         if (error.code === 'ECONNABORTED') {
           this.errorMessage = 'The connection to the database timed out. Please try again later.';
         } else {
-          this.errorMessage = 'An error occurred while registering. Please try again.';
+          this.errorMessage = 'An error occurred while logging in. Please try again.';
         }
       }
     },
   },
 };
 </script>
-
 <style>
 .tabs {
-  display: flex;
-  margin-bottom: 20px;
+display: flex;
+margin-bottom: 20px;
 }
-.tabs button {
-  flex: 1;
-  padding: 10px;
+
+.tab-button {
+flex: 1;
+padding: 10px;
+background-color: var(--background-color);
+border: 1px solid #ccc;
+cursor: pointer;
+text-align: center;
+color: var(--primary-color);
+font-weight: bold;
 }
-.tabs button.active {
-  background-color: #f0f0f0;
+
+.tab-button.active {
+background-color: var(--accent-color);
+color: white;
 }
+
 .tab-content {
-  border: 1px solid #ccc;
-  padding: 20px;
+border: 1px solid #ccc;
+padding: 20px;
+background-color: var(--background-color);
+border-radius: 8px;
+}
+
+.tab-pane {
+flex-direction: column; /* Set the flex direction to column for alignment */
+}
+
+.tab-pane h2 {
+color: var(--primary-color);
+margin-bottom: 20px;
+}
+
+/* Show the active tab pane */
+.tab-pane.active {
+display: flex;
+}
+
+/* Label style */
+.label {
+width: 150px; /* Set a fixed width for labels */
+margin-right: 10px;
+text-align: right; /* Align the labels to the right */
+font-weight: bold;
+}
+
+/* Input field style */
+.input-field {
+flex: 1;
+border: 1px solid #ccc;
+padding: 8px;
+border-radius: 4px;
+margin-bottom: 10px;
+}
+
+/* Error message style */
+.error-message {
+color: red;
+margin-top: 10px;
 }
 </style>

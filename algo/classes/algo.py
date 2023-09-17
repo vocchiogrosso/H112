@@ -1,5 +1,7 @@
 import json
 
+PATH = "./data/"
+
 class MaterialManager:
     def __init__(self, materials=None, material_suppliers=None, seasonal_multipliers=None, material_multipliers=None, demand_thresholds=None, demand_multipliers=None):
         self.materials = materials if materials else {}
@@ -117,7 +119,7 @@ class MaterialManager:
 
 if __name__ == "__main__":
 
-    manager = MaterialManager.from_json_file('infoMaterials.json')
+    manager = MaterialManager.from_json_file(PATH + 'infoMaterials.json')
 
     # 1. Adding new materials
     print("\n1. Adding new materials:")

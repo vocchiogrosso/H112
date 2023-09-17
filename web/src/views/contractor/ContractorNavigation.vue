@@ -2,8 +2,6 @@
   <div class="navigation-container">
     <h1 class="navigation-title">Contractor Navigation</h1>
     <div class="destination-input">
-      <label class="input-label" for="destination">Destination:</label>
-      <input type="text" id="destination" class="input-field" v-model="destinationInput" />
     </div>
     <div id="map-container" class="map"></div>
   </div>

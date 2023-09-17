@@ -1,6 +1,6 @@
 import json
 
-PATH = "../data/"
+PATH = "./data/"
 
 class MaterialManager:
     def __init__(self, materials=None, material_suppliers=None, seasonal_multipliers=None, material_multipliers=None, demand_thresholds=None, demand_multipliers=None):

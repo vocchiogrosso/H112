@@ -14,22 +14,36 @@ class Order:
         self.client = client
         self.plant = plant
 
+def f(distance, material_weight, max_distance, order_weight, emission_rate, alpha=0.25, beta=0.35):
+
+    normalized_distance = 1 - (distance / max_distance) if max_distance != 0 else 1
+    normalized_weight = material_weight
+    
+    emissions = distance * material_weight * emission_rate
+    max_emissions = max_distance * order_weight * emission_rate
+    normalized_emissions = 1 - (emissions / max_emissions) if max_emissions != 0 else 1
+
+    score = alpha * normalized_weight + (1 - alpha) * normalized_distance + beta * normalized_emissions
+    return score
+
+EMISSION_RATE = 0.123
+
 def recommend_inbound(providers, materialMng, order):
     client = order.client
     dist = {}
-    score = {}
+    scores = {}
     for provider in providers:
-        # calculate the distance between the provider and the client
         dist[provider] = client.haversine(provider)
-        score = f(dist[provider], materialMng.query(provider.material_code, ...)) 
+    
+    max_distance = max(dist.values())
+    
+    for provider in providers:
+        scores[provider] = f(dist[provider], materialMng.query(provider.material_code), max_distance, order.weight, EMISSION_RATE)
+    
+    sorted_scores = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+    
+    return sorted_scores[0][0]
 
-    
-    # sort the distances
-    # TODO: lambda can be replaced with a function
-    dist = sorted(dist.items(), key=lambda x: x[1])
-    
-    # return the closest provider
-    return dist[0][0]
 
 materialMng = MaterialManager.from_json_file('infoMaterials.json')
 

@@ -1,0 +1,52 @@
+src/
+├── main.ts
+├── app.module.ts
+├── config/
+│   ├── database.config.ts
+│   ├── jwt.config.ts
+│   ├── swagger.config.ts
+│   └── ...
+├── v1/
+│   ├── user/
+│   │   ├── dto/
+│   │   │   └── user.dto.ts
+│   │   ├── schemas/
+│   │   │   └── user.schema.ts
+│   │   ├── repositories/
+│   │   ├── strategies/
+│   │   ├── user.module.ts
+│   │   ├── user.service.ts
+│   │   └── user.controller.ts
+│   ├── shipment/
+│   │   ├── dto/
+│   │   ├── schemas/
+│   │   │   └── shipment.schema.ts
+│   │   ├── repositories/
+│   │   ├── strategies/
+│   │   ├── shipment.module.ts
+│   │   ├── shipment.service.ts
+│   │   └── shipment.controller.ts
+│   ├── notification/
+│   │   ├── dto/
+│   │   ├── schemas/
+│   │   ├── repositories/
+│   │   ├── strategies/
+│   │   ├── notification.module.ts
+│   │   ├── notification.service.ts
+│   │   └── notification.controller.ts
+│   └── contractor/
+│       ├── dto/
+│       ├── schemas/
+│       ├── repositories/
+│       ├── strategies/
+│       ├── contractor.module.ts
+│       ├── contractor.service.ts
+│       └── contractor.controller.ts
+└── tests/
+    ├── contract/
+    ├── e2e/
+    ├── functional/
+    ├── integration/
+    ├── performance/
+    ├── security/
+    └── unit/

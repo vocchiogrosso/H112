@@ -8,13 +8,13 @@ const router = express.Router()
 router.use(requireAuth)
 
 // GET all shipment
-router.get('/' , getShipments)
+router.get('/getAll' , getShipments)
 
 // GET a single shipment
 router.get('/:id', getShipment)
 
 // POST a new shipment
-router.post('/', createShipment)
+router.post('/create', createShipment)
 
 
 module.exports = router

@@ -46,11 +46,11 @@ export default defineComponent({
   },
   async beforeMount() {
     const user = sessionStorage.getItem('user')
-    const router = useRouter();
+    const router = this.$router;
     if (user === null || user === undefined){
-      await router.push({ name: 'Home' });
+      await router.push({ name: 'Auth' });
     }
-    if (user.role === 'normal'){
+    if (user.includes( 'normal')){
       await router.push({ name: 'UserDashboard' });
     }
   },
@@ -58,7 +58,7 @@ export default defineComponent({
     async fetchShipments() {
       try {
         // Make an API request to fetch shipments for the contractor
-        const response = await fetch('/api/contractors/dashboard'); // Replace with your API endpoint
+        const response = await fetch('http://localhost:4000/api/shipments/getAll'); // Replace with your API endpoint
         if (!response.ok) {
           throw new Error('Failed to fetch shipments');
         }
@@ -71,7 +71,7 @@ export default defineComponent({
     },
     viewShipment(shipment) {
       // Use Vue Router to navigate to the NavigationPage with the selected shipment
-      const router = useRouter();
+      const router = this.$router;
       router.push({ name: 'ContractorNavigation', params: { shipment: shipment } });
     },
   },

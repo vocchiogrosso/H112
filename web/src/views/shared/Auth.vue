@@ -54,6 +54,7 @@
 
 <script>
 import axios from 'axios';
+import {useRouter} from "vue-router";
 
 export default {
   data() {
@@ -89,13 +90,13 @@ export default {
         }, {
           timeout: 5000
         });
-
+        sessionStorage.setItem('user', JSON.stringify(response.data))
         console.log('Login successful', response.data);
-
+        const router = this.$router
         if (response.data.role === 'user') {
-          this.router.push('/user/dashboard');
+          await router.push('/user/dashboard');
         } else if (response.data.role === 'contractor') {
-          this.router.push('/contractor/dashboard');
+          await router.push('/contractor/dashboard');
         }
       } catch (error) {
         console.error('Login failed', error);
@@ -121,11 +122,14 @@ export default {
         });
 
         console.log('registration successful', response.data);
+        sessionStorage.setItem('user', JSON.stringify(response.data))
+
+        const router = this.$router
 
         if (response.data.role === 'user') {
-          this.router.push('/user/dashboard');
+           await router.push('/user/dashboard');
         } else if (response.data.role === 'contractor') {
-          this.router.push('/contractor/dashboard');
+          await router.push('/contractor/dashboard');
         }
       } catch (error) {
         console.error('registration failed', error);

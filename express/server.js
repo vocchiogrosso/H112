@@ -18,8 +18,8 @@ app.use((req, res, next) => {
 })
 
 // Routes
-app.use('/api/shipments', shipmentsRoutes)
 app.use('/api/user', userRoutes)
+app.use('/api/shipments', shipmentsRoutes)
 
 // Connect to the database
 mongoose.connect(process.env.MONGO_URI)

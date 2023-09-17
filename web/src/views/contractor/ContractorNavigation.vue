@@ -42,11 +42,11 @@ export default defineComponent({
   async beforeMount() {
 
     const user = sessionStorage.getItem('user')
-    const router = useRouter();
+    const router = this.$router;
     if (user === null || user === undefined){
-      await router.push({ name: 'Home' });
+      await router.push({ name: 'Auth' });
     }
-    if (user.role === 'normal'){
+    if (user.includes( 'normal')){
       await router.push({ name: 'UserDashboard' });
     }
     

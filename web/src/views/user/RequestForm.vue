@@ -15,8 +15,8 @@
         <input type="text" id="endCoordinates" v-model="formData.endCoordinates" required />
       </div>
       <div class="form-group">
-        <label for="cargoType">Cargo Type:</label>
-        <select id="cargoType" v-model="formData.cargoType" required>
+        <label for="typeOfShipment">Cargo Type:</label>
+        <select id="typeOfShipment" v-model="formData.typeOfShipment" required>
           <option value="Option1">Option 1</option>
           <option value="Option2">Option 2</option>
           <option value="Option3">Option 3</option>
@@ -37,8 +37,7 @@
   </div>
 </template>
 <script lang="ts">
-import { defineComponent, ref } from 'vue';
-import {useRouter} from "vue-router";
+import { defineComponent } from 'vue';
 
 export default defineComponent({
   name: 'RequestForm',
@@ -48,7 +47,7 @@ export default defineComponent({
         title: '',
         startCoordinates: '',
         endCoordinates: '',
-        cargoType: '',
+        typeOfShipment: '',
         weight: '',
         pickupTime: '',
       },
@@ -56,24 +55,31 @@ export default defineComponent({
   },
   async beforeMount(){
     const user = sessionStorage.getItem('user')
-    const router = useRouter();
+    const router = this.$router;
     if (user === null || user === undefined){
-      await router.push({ name: 'Home' });
+      await router.push({ name: 'Auth' });
     }
-    if (user.role === 'contractor'){
+    if (user.includes('contractor')){
       await router.push({ name: 'ContractorDashboard' });
     }
   },
   methods: {
     async submitForm() {
       try {
+        console.log(this.formData.pickupTime, this.formData.typeOfShipment)
+        const user = JSON.parse(sessionStorage.getItem('user'))
+        console.log(user._id)
+        const body = {title: this.formData.title, startCoordinates: {lng: this.formData.startCoordinates.split(',')[0], ltd: this.formData.startCoordinates.split(',')[1]},endCoordinates: {lng: this.formData.endCoordinates.split(',')[0], ltd: this.formData.endCoordinates.split(',')[1]},
+          pickupTime: this.formData.pickupTime, typeOfShipment: this.formData.typeOfShipment, weight: this.formData.weight, _id: user._id}
+        console.log(this.formData.title)
         // Send a POST request with the form data to your API endpoint
-        const response = await fetch('/api/shipments/create', {
+        const response = await fetch('http://localhost:4000/api/shipments/create', {
           method: 'POST',
+          body: JSON.stringify(body),
           headers: {
             'Content-Type': 'application/json',
+            'Authorization': `Bearer ${user.token}`
           },
-          body: JSON.stringify(this.formData),
         });
 
         if (response.ok) {
@@ -81,6 +87,7 @@ export default defineComponent({
           console.log('Request submitted successfully');
         } else {
           // Handle errors here
+          console.log(response)
           console.error('Request submission failed');
         }
       } catch (error) {

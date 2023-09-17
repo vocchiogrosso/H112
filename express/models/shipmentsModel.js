@@ -41,11 +41,15 @@ const shipmentSchema = new Schema({
     },
     pricing: {
         type: String,
-        required: true
+        required: false
     },
     user_id: {
         type: String,
         required: true
+    },
+    contractor_id: {
+        type: String,
+        required: false
     }
 }, { timestamps: true })
 

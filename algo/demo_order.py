@@ -14,12 +14,15 @@ class Order:
         self.client = client
         self.plant = plant
 
-def recommend_inbound(providers, order):
+def recommend_inbound(providers, materialMng, order):
     client = order.client
     dist = {}
+    score = {}
     for provider in providers:
         # calculate the distance between the provider and the client
         dist[provider] = client.haversine(provider)
+        score = f(dist[provider], materialMng.query(provider.material_code, ...)) 
+
     
     # sort the distances
     # TODO: lambda can be replaced with a function
@@ -27,6 +30,8 @@ def recommend_inbound(providers, order):
     
     # return the closest provider
     return dist[0][0]
+
+materialMng = MaterialManager.from_json_file('infoMaterials.json')
 
 PATH = "./data/"
 tmp = json.load(open(PATH + "infoPlants.json", "r"))['Outbound ARG']

@@ -2,13 +2,7 @@
   <div class="navigation-container">
     <h1 class="navigation-title">Contractor Navigation</h1>
     <div class="destination-input">
-      <label for="destination" class="input-label">Enter Destination:</label>
-      <input
-          id="destination"
-          type="text"
-          v-model="destinationInput"
-          class="input-field"
-      />
+
     </div>
     <div id="map-container" class="map"></div>
   </div>
@@ -19,12 +13,14 @@ import { defineComponent } from 'vue';
 import mapboxgl from 'mapbox-gl';
 import { useRouter } from "vue-router";
 
+const user = JSON.parse(sessionStorage.getItem('user'))
+const _id = new URLSearchParams(window.location.search).get('_id')
 export default defineComponent({
   name: 'ContractorNavigation',
+
   data() {
     return {
       map: null,
-      shipment: this.$route.params.shipment,
       destinationInput: '',
     };
   },
@@ -49,30 +45,54 @@ export default defineComponent({
     if (user.includes( 'normal')){
       await router.push({ name: 'UserDashboard' });
     }
-    
-    // Fetch coordinates for the user's destination input from a geocoding API
-    const destinationCoordinates = this.shipment.endCoordinates;
+    const shipment = await this.fetchShipments();
 
     // Calculate the route using a routing API (e.g., Mapbox Directions API)
-    const route = this.calculateRouteToDestination(destinationCoordinates);
+    const route = await this.calculateRouteToDestination(shipment);
 
     // Display the route on the map
     this.displayRoute(route);
   },
   methods: {
-    async calculateRouteToDestination(destinationCoordinates) {
+    async fetchShipments() {
+      try {
+        const user = JSON.parse(sessionStorage.getItem('user'))
+
+        // Make an API request to fetch shipments for the contractor
+        const response = await fetch('http://localhost:4000/api/shipments/get/' + _id, {
+
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${user.token}`
+          },
+        });
+
+        if (!response.ok) {
+          throw new Error('Failed to fetch shipments');
+        }
+        const data = await response.json();
+        console.log(data)
+        return data;
+      } catch (error) {
+        console.error('Error fetching shipments:', error);
+        return [];
+      }
+    },
+
+    async calculateRouteToDestination(shipment) {
+      console.log(shipment)
       // Use a routing API to calculate the route to the destination
       // Example: Make an API request and parse the response
       // Replace this with the actual routing API you are using (Mapbox Directions API)
       // Here's the code from the previous response:
-      const accessToken = 'pk.eyJ1IjoiejRsM3M1aTAiLCJhIjoiY2xtbTd1NDB6MGttNDJxcG5mZHpqbXJsMiJ9.m9i3527cJA3QTJgPLPIWHg';
-      const startCoordinates = [-74.5, 40]; // Replace with the actual starting coordinates
-      const max_weight = this.shipment.weight;
-      const max_heigth = 1.6;
-      const max_width = 1.9;
+      const accessToken = 'pk.eyJ1IjoiejRsM3M1aTAiLCJhIjoiY2xtbXo1ZTRvMHAwZjJyczc5dXpiZTkwNSJ9.Dm1S3Qwdu0Wuav7D86NnZw';
+      const startCoordinates = [shipment.startCoordinates.ltd, shipment.startCoordinates.lng];
+      const destinationCoordinates = [shipment.endCoordinates.ltd, shipment.endCoordinates.lng];
+      console.log(startCoordinates, destinationCoordinates)
 
       // Construct the API URL for the Mapbox Directions API
-      const apiUrl = `https://api.mapbox.com/directions/v5/mapbox/driving-traffic/${startCoordinates[0]},${startCoordinates[1]};${destinationCoordinates[0]},${destinationCoordinates[1]}&annotations=distance%2Cduration&geometries=geojson&language=en&overview=full&steps=true&max_height=${max_heigth}&max_width=${max_width}&max_weight=${max_weight}`;
+      const apiUrl = `https://api.mapbox.com/directions/v5/mapbox/driving-traffic/${startCoordinates[0]},${startCoordinates[1]};${destinationCoordinates[0]},${destinationCoordinates[1]}?annotations=distance%2Cduration&geometries=geojson&language=en&overview=full&steps=true`; // or steps=false, depending on your preference
 
 
       // Add query parameters
@@ -82,7 +102,12 @@ export default defineComponent({
 
       // Fetch the route from the API
       try {
-        const response = await fetch(`${apiUrl}&${params.toString()}`);
+        const response = await fetch(`${apiUrl}&${params.toString()}`,
+            {
+              headers: {
+                'Authorization': `Bearer ${accessToken}`
+              }
+            });
         if (!response.ok) {
           throw new Error('Failed to fetch route data');
         }

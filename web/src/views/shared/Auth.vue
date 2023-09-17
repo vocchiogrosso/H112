@@ -82,14 +82,59 @@ export default {
       this.passwordMismatch = this.registerPassword !== this.confirmPassword;
     },
     async login() {
-      // ... Existing login method
+      try {
+        const response = await axios.post('http://localhost:4000/api/user/login', {
+          email: this.loginEmail,
+          password: this.loginPassword,
+        }, {
+          timeout: 5000
+        });
+
+        console.log('Login successful', response.data);
+
+        if (response.data.role === 'user') {
+          this.router.push('/user/dashboard');
+        } else if (response.data.role === 'contractor') {
+          this.router.push('/contractor/dashboard');
+        }
+      } catch (error) {
+        console.error('Login failed', error);
+        if (error.code === 'ECONNABORTED') {
+          this.errorMessage = 'The connection to the database timed out. Please try again later.';
+        } else {
+          this.errorMessage = 'An error occurred while logging in. Please try again.';
+        }
+      }
     },
     async register() {
       if (this.passwordMismatch) {
         return;
       }
+      try {
+        const response = await axios.post('http://localhost:4000/api/user/signup', {
+          name: this.registerName,
+          email: this.registerEmail,
+          password: this.registerPassword,
+          role: this.registerRole,
+        }, {
+          timeout: 5000
+        });
 
-      // ... Existing register method
+        console.log('registration successful', response.data);
+
+        if (response.data.role === 'user') {
+          this.router.push('/user/dashboard');
+        } else if (response.data.role === 'contractor') {
+          this.router.push('/contractor/dashboard');
+        }
+      } catch (error) {
+        console.error('registration failed', error);
+        if (error.code === 'ECONNABORTED') {
+          this.errorMessage = 'The connection to the database timed out. Please try again later.';
+        } else {
+          this.errorMessage = 'An error occurred while logging in. Please try again.';
+        }
+      }
     },
   },
 };

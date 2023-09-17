@@ -23,7 +23,7 @@ const loginUser = async (req, res) => {
 
 // signup a user
 const signupUser = async (req, res) => {
-    const {name, email, password} = req.body
+    const {name, email, password, role} = req.body
 
     try {
         const user = await User.signup(name, email, password, role)

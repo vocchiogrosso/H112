@@ -3,6 +3,7 @@ sys.path.append("algo/classes")
 from RouteClass import InboundRoute, OutboundRoute
 from TruckClass import Truck
 from LocationClass import Location, PlantLoc, ProviderLoc, ClientLoc
+from MaterialManagerClass import MaterialManager
 
 import json
 
